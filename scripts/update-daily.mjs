@@ -1,17 +1,18 @@
 import { readFile, writeFile } from 'node:fs/promises';
 
 const parts = Object.fromEntries(new Intl.DateTimeFormat('en-CA', {
-  timeZone: 'Asia/Seoul', month: '2-digit', day: '2-digit'
+  timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit'
 }).formatToParts().map(({ type, value }) => [type, value]));
 const dateKey = process.env.MUSIC_DATE || `${parts.month}-${parts.day}`;
+const currentYear = Number(parts.year);
 const music = JSON.parse(await readFile(new URL('../music.json', import.meta.url), 'utf8'));
+const previousTitles = new Set((music[dateKey] || []).map(item => item.title));
 
-if (music[dateKey]?.length && !process.env.FORCE_UPDATE) {
-  console.log(`${dateKey}: curated data already exists; skipped.`);
+if (music[dateKey]?.length && music._updated?.[dateKey] >= currentYear && !process.env.FORCE_UPDATE) {
+  console.log(`${dateKey}: already updated for ${currentYear}; skipped.`);
   process.exit(0);
 }
 
-const currentYear = new Date().getUTCFullYear();
 const dates = Array.from({ length: currentYear - 1959 }, (_, i) =>
   `"${1960 + i}-${dateKey}T00:00:00Z"^^xsd:dateTime`
 ).join(' ');
@@ -68,9 +69,11 @@ for (const item of candidates.slice(0, 35)) {
 
 if (!found.length) throw new Error(`${dateKey}: no releases with cover art found.`);
 const global = ['POP', 'HIP-HOP', 'R&B/SOUL', 'ROCK']
-  .map(genre => found.find(item => item.region === 'GLOBAL' && item.genre === genre))
+  .map(genre => found.find(item => item.region === 'GLOBAL' && item.genre === genre && !previousTitles.has(item.title))
+    || found.find(item => item.region === 'GLOBAL' && item.genre === genre))
   .filter(Boolean);
 music[dateKey] = global;
+music._updated = { ...music._updated, [dateKey]: currentYear };
 
 if (process.env.DRY_RUN) console.log(JSON.stringify({ [dateKey]: music[dateKey] }, null, 2));
 else {
