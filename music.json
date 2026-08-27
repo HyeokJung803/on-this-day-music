@@ -1,0 +1,102 @@
+{
+  "08-27": [
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "ROCK",
+      "title": "Ten",
+      "curation": "평론적 명곡",
+      "artist": "Pearl Jam",
+      "year": 1991,
+      "image": "https://coverartarchive.org/release/5c5d3332-1618-39bd-930a-5ca332ce0dbc/front-500",
+      "text": "시애틀 그런지의 폭발을 세계에 알린 데뷔 앨범. ‘Alive’, ‘Even Flow’, ‘Jeremy’의 거대한 기타와 에디 베더의 목소리는 90년대 록의 방향을 바꿨다.",
+      "url": "https://pearljam.com/music/album/ten"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "R&B/SOUL",
+      "title": "One in a Million",
+      "curation": "평론적 명곡",
+      "artist": "Aaliyah",
+      "year": 1996,
+      "image": "https://coverartarchive.org/release-group/776a71f8-2071-3743-aab4-83436df1b366/front-500",
+      "text": "팀발랜드와 미시 엘리엇의 미래적인 비트 위에 알리야의 절제된 보컬을 얹은 전환점. 이후 수십 년의 R&B와 팝 프로덕션을 미리 들려준 음반이다.",
+      "url": "https://musicbrainz.org/release-group/776a71f8-2071-3743-aab4-83436df1b366"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "POP",
+      "title": "If I Can’t Have Love, I Want Power",
+      "curation": "평론적 명곡",
+      "artist": "Halsey",
+      "year": 2021,
+      "image": "https://coverartarchive.org/release/af5a439b-56a9-40fb-b54d-d910898400a2/front-500",
+      "text": "트렌트 레즈너와 애티커스 로스가 프로듀싱한 어둡고 영화적인 콘셉트 앨범. 모성, 권력, 몸이라는 주제를 산업적인 록과 팝 사이에서 밀어붙인다.",
+      "url": "https://music.apple.com/us/album/if-i-cant-have-love-i-want-power/1574984717"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "HIP-HOP",
+      "title": "We Love You Tecca 2",
+      "curation": "대중적 명곡",
+      "artist": "Lil Tecca",
+      "year": 2021,
+      "image": "https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/a2/07/cc/a207ccaf-d9ea-27cc-35b0-9ca39686728f/21UMGIM70555.rgb.jpg/600x600bb.jpg",
+      "text": "가볍게 튀는 멜로디와 유연한 플로우를 전면에 둔 릴 테카의 두 번째 정규작. 트랩을 팝처럼 가볍게 소비하는 세대의 감각을 담았다.",
+      "url": "https://www.universalmusic.com.br/2021/08/27/lil-tecca-lanca-a-mixtape-we-love-you-tecca-2/"
+    }
+  ],
+  "08-28": [
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "R&B/SOUL",
+      "title": "Beauty Behind the Madness",
+      "curation": "대중적 명곡",
+      "artist": "The Weeknd",
+      "year": 2015,
+      "image": "https://coverartarchive.org/release/7dbabcda-76de-4937-a56d-20952eb1a7b6/front-500",
+      "text": "어두운 얼터너티브 R&B를 거대한 팝의 중심으로 옮겨놓은 앨범. ‘The Hills’와 ‘Can’t Feel My Face’가 위험한 밤의 감각과 대중성을 동시에 잡았다.",
+      "url": "https://music.apple.com/us/album/beauty-behind-the-madness/1440858094"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "POP",
+      "title": "Smile",
+      "curation": "대중적 명곡",
+      "artist": "Katy Perry",
+      "year": 2020,
+      "image": "https://coverartarchive.org/release/6b914021-6039-43ce-a46f-b13b6fb55d31/front-500",
+      "text": "좌절 이후 다시 웃음을 찾아가는 과정을 밝은 팝 사운드로 풀어낸 앨범. 컬러풀한 표면 아래 회복과 자기 수용이라는 주제를 품고 있다.",
+      "url": "https://www.universal-music.co.jp/katy-perry/products/uicc-10049/"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Live album",
+      "genre": "ROCK",
+      "title": "S&M2",
+      "curation": "평론적 명곡",
+      "artist": "Metallica & San Francisco Symphony",
+      "year": 2020,
+      "image": "https://coverartarchive.org/release/fe8b5ccf-33aa-422d-81c5-ec36a2a267a5/front-500",
+      "text": "메탈리카와 샌프란시스코 심포니가 20년 만에 다시 만난 라이브 프로젝트. 헤비메탈의 질량과 오케스트라의 규모가 정면으로 충돌한다.",
+      "url": "https://www.metallica.com/news/2020-07-15-sm2-arrives-august-28.html"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "Album",
+      "genre": "HIP-HOP",
+      "title": "CTV3: Cool Tape Vol. 3",
+      "curation": "평론적 명곡",
+      "artist": "Jaden",
+      "year": 2020,
+      "image": "https://coverartarchive.org/release/7808b847-432b-48e9-b4c1-9271955ef1e3/front-500",
+      "text": "사이키델릭 팝과 힙합을 여름빛으로 섞은 제이든의 믹스테이프. 자유로운 청춘의 분위기 속에 장르 경계를 흐리는 감각이 돋보인다.",
+      "url": "https://www.universal-music.co.jp/jaden/news/2020-08-28/"
+    }
+  ]
+}

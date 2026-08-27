@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#f1efe9">
+  <title>ON THIS DAY — 오늘 발매된 음악</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Archivo+Black&family=IBM+Plex+Sans+KR:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root{--ink:#171714;--paper:#f1efe9;--accent:#ff5038;--line:rgba(23,23,20,.18)}
+    *{box-sizing:border-box}html{background:var(--paper);color:var(--ink);font:500 16px "IBM Plex Sans KR",sans-serif}body{margin:0;min-height:100vh}button{font:inherit;color:inherit}
+    .shell{min-height:100vh;padding:22px 3vw 42px;overflow:hidden}.topbar{display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid var(--ink);padding-bottom:14px;font-size:12px;font-weight:600;text-transform:uppercase;letter-spacing:.12em}.brand{font-family:"Archivo Black";font-size:15px;letter-spacing:-.02em}.clock{font-variant-numeric:tabular-nums}
+    .hero{display:grid;grid-template-columns:minmax(520px,1fr) clamp(150px,13vw,210px) 245px;align-items:center;gap:clamp(32px,4vw,72px);min-height:310px;padding:clamp(34px,5vh,70px) 0}.date{font-family:"Archivo Black";font-size:clamp(66px,15vw,220px);line-height:.78;letter-spacing:-.085em;white-space:nowrap}.date span{display:inline-block}.hero-mark{width:100%;justify-self:center;display:grid;justify-items:center;gap:15px}.record{width:100%;aspect-ratio:1;border-radius:50%;display:grid;place-items:center;background:repeating-radial-gradient(circle,#171714 0 5px,#292925 6px 8px);box-shadow:0 18px 35px #17171425}.record::before{content:"";width:38%;aspect-ratio:1;border-radius:50%;background:var(--accent);border:5px solid var(--paper);box-shadow:inset 0 0 0 2px var(--ink)}.record::after{content:"";position:absolute;width:9px;aspect-ratio:1;border-radius:50%;background:var(--paper)}.hero-note{font:11px "Archivo Black";letter-spacing:.16em;text-align:center;white-space:nowrap}.hero-copy{width:245px;justify-self:end;font-size:14px;font-weight:600;line-height:1.85;word-break:keep-all}.hero-copy strong{display:block;font-size:18px;font-weight:700;margin-bottom:9px}.hero-copy::after{content:"POP · HIP-HOP · R&B/SOUL · ROCK";display:block;margin-top:18px;padding-top:12px;border-top:1px solid var(--ink);font:9px "Archivo Black";letter-spacing:.08em}
+    .controls{display:flex;align-items:center;gap:12px;padding:14px 0;border-block:1px solid var(--ink);font-size:12px;letter-spacing:.08em;text-transform:uppercase}
+    .status{display:flex;justify-content:space-between;padding:18px 0 12px;font-size:12px;letter-spacing:.08em;text-transform:uppercase}.grid{display:grid;grid-template-columns:repeat(12,1fr);gap:18px}.card{grid-column:span 6;appearance:none;border:1px solid var(--ink);background:transparent;padding:0;cursor:pointer;min-width:0;overflow:hidden}.card:disabled{cursor:default;opacity:.35}.genre-stage{position:relative;aspect-ratio:1.55;display:grid;place-items:center;padding:20px;transition:background .25s,color .25s}.card:nth-child(2n) .genre-stage{background:var(--ink);color:var(--paper)}.card:not(:disabled):hover .genre-stage{background:var(--accent);color:white}.genre-name{font-family:"Archivo Black";font-size:clamp(38px,7vw,102px);line-height:.82;letter-spacing:-.075em;text-align:center;text-transform:uppercase}.letter{display:inline-block}.index{position:absolute;top:14px;left:16px;font-size:11px;letter-spacing:.08em}.discover{position:absolute;right:16px;bottom:14px;font-size:10px;letter-spacing:.12em;text-transform:uppercase}.empty{grid-column:1/-1;padding:12vh 0;text-align:center;font-family:"Archivo Black";font-size:clamp(28px,6vw,72px);letter-spacing:-.05em}
+    dialog{width:100vw;height:100vh;max-width:none;max-height:none;margin:0;padding:0;border:0;background:transparent;color:var(--paper);overflow:auto}dialog::backdrop{background:transparent}.wipe{position:fixed;width:80px;height:80px;margin:-40px 0 0 -40px;border-radius:50%;background:var(--ink);pointer-events:none}.modal{position:relative;z-index:1;width:min(920px,88vw);min-height:min(620px,82vh);margin:9vh auto;display:grid;grid-template-columns:1fr 1fr;background:#24241f;box-shadow:0 30px 80px #0007;transform-origin:left center}.modal-cover{width:100%;height:100%;min-height:440px;object-fit:cover}.modal-copy{padding:42px;display:flex;flex-direction:column}.modal-tag{color:#ff7966;text-transform:uppercase;letter-spacing:.14em;font-size:11px}.modal h2{font-family:"Archivo Black";font-size:clamp(34px,5vw,62px);line-height:.92;letter-spacing:-.06em;margin:24px 0 12px}.modal h3{font-size:15px;font-weight:500;margin:0 0 28px;color:#aaa}.modal p{font-size:14px;line-height:1.9;color:#d4d4cc;margin:0}.source{margin-top:auto;padding-top:30px;color:var(--paper);font-size:12px}.close{position:fixed;z-index:2;right:24px;top:22px;border:1px solid #fff7;background:#0005;color:white;width:44px;height:44px;border-radius:50%;cursor:pointer;font-size:22px}
+    .record{position:relative;background:conic-gradient(from 25deg,transparent 0 9%,#ffffff12 10%,transparent 18% 58%,#ffffff0b 62%,transparent 70%),repeating-radial-gradient(circle,#171714 0 5px,#292925 6px 8px);animation:spin 14s linear infinite;will-change:transform}.record::after{inset:50%;transform:translate(-50%,-50%)}
+    @keyframes spin{to{transform:rotate(1turn)}}
+    .controls,.status{font-size:16px;font-weight:600;line-height:1.5}.index,.discover{font-weight:600}
+    @media(max-width:1100px){.hero{grid-template-columns:minmax(0,1fr) clamp(130px,24vw,190px);gap:24px;min-height:0}.hero-copy{display:none}.hero-mark{justify-self:end}.date{font-size:21vw}}
+    @media(max-width:760px){.shell{padding-inline:18px}.hero{padding-top:7vh}.record{width:24vw}.hero-note{font-size:8px}.controls>span:first-child{max-width:180px}.card{grid-column:1/-1}.modal{grid-template-columns:1fr}.modal-cover{min-height:0;aspect-ratio:1}.modal-copy{padding:26px}.source{margin-top:26px}}
+    @media(max-width:480px){.topbar span:nth-child(2){display:none}.genre-stage{aspect-ratio:1.35}.genre-name{font-size:17vw}}
+    @media(prefers-reduced-motion:reduce){*{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header class="topbar"><span class="brand">ON THIS DAY ♫</span><span>매일 한 장, 시간을 재생합니다</span><span class="clock" id="clock"></span></header>
+    <section class="hero">
+      <div class="date" id="date" aria-label="8월 27일"><span>08</span><span>·</span><span>27</span></div>
+      <div class="hero-mark" aria-hidden="true"><div class="record"></div><span class="hero-note">4 GENRES / ONE DATE</span></div>
+      <div class="hero-copy"><strong>오늘, 음악사에는</strong>같은 날짜에 세상에 나온 앨범과 노래를 장르별로 발견해보세요. 표지를 누르면 그 음악의 이야기가 열립니다.</div>
+    </section>
+    <nav class="controls" aria-label="날짜 선택" id="genres"></nav>
+    <div class="status"><span id="day-label"></span></div>
+    <section class="grid" id="grid" aria-live="polite"></section>
+  </main>
+  <dialog id="detail"><span class="wipe"></span><button class="close" aria-label="닫기">←</button><div class="modal"><img class="modal-cover" alt=""><div class="modal-copy"><span class="modal-tag"></span><h2></h2><h3></h3><p></p><a class="source" target="_blank" rel="noreferrer">발매 정보 확인 ↗</a></div></div></dialog>
+  <script src="https://cdn.jsdelivr.net/npm/animejs/dist/bundles/anime.umd.min.js"></script>
+  <script>
+    let music={};
+    const $=s=>document.querySelector(s), grid=$('#grid'), genreNav=$('#genres'), dialog=$('#detail');
+    const genres=[['GLOBAL','POP','POP'],['GLOBAL','HIP-HOP','HIP-HOP'],['GLOBAL','R&B/SOUL','R&B/SOUL'],['GLOBAL','ROCK','ROCK']];
+    let day='08-27';
+    genreNav.innerHTML='<span>오늘의 장르를 선택하세요</span>';
+    function render(){
+      const items=music[day]||[];
+      items.forEach(x=>{const image=new Image();image.fetchPriority='high';image.src=x.image});
+      $('#day-label').textContent=`${+day.slice(0,2)}월 ${+day.slice(3)}일의 발매작`;
+      $('#date').innerHTML=`<span>${day.slice(0,2)}</span><span>·</span><span>${day.slice(3)}</span>`;
+      $('#date').ariaLabel=`${+day.slice(0,2)}월 ${+day.slice(3)}일`;
+      grid.innerHTML=genres.map(([region,genre,label],i)=>{const index=items.findIndex(x=>x.region===region&&x.genre===genre),available=index>=0;return `<button class="card" data-index="${index}" ${available?'':'disabled'} aria-label="${label} 장르의 오늘 발매작 ${available?'보기':'없음'}"><span class="genre-stage"><span class="index">${String(i+1).padStart(2,'0')}</span><span class="genre-name">${[...label].map(c=>`<span class="letter">${c}</span>`).join('')}</span><span class="discover">${available?'discover ↗':'no release'}</span></span></button>`}).join('');
+      if(window.anime&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
+        anime.animate('#date span',{y:[80,0],opacity:[0,1],delay:anime.stagger(70),duration:750,ease:'outExpo'});
+        anime.animate('.card',{y:[50,0],opacity:[0,1],delay:anime.stagger(90),duration:700,ease:'outExpo'});
+        document.querySelectorAll('.card').forEach(card=>anime.createTimeline({loop:true})
+          .add(card.querySelectorAll('.letter'),{scale:[4,1],opacity:[0,1],delay:anime.stagger(70),duration:950,ease:'outExpo'})
+          .add(card.querySelector('.genre-name'),{opacity:0,duration:1000,delay:1000,ease:'outExpo'}));
+      }
+    }
+    grid.addEventListener('click',e=>{const card=e.target.closest('.card');if(!card||card.disabled)return;openDetail(music[day][card.dataset.index],e)});
+    function openDetail(x,e){
+      dialog.querySelector('img').src=x.image;dialog.querySelector('img').alt=`${x.title} 앨범 표지`;dialog.querySelector('.modal-tag').textContent=`${x.region==='KR'?'KOREA':'GLOBAL'} · ${x.genre} · ${x.type} · ${x.year}년 ${+day.slice(0,2)}월 ${+day.slice(3)}일`;dialog.querySelector('h2').textContent=x.title;dialog.querySelector('h3').textContent=x.artist;dialog.querySelector('p').textContent=x.text;dialog.querySelector('.source').href=x.url;
+      const wipe=dialog.querySelector('.wipe');wipe.style.left=e.clientX+'px';wipe.style.top=e.clientY+'px';
+      if(window.anime){anime.utils.set(wipe,{scale:0});anime.utils.set('.modal',{x:0,scaleX:0,opacity:0});anime.utils.set('.modal-cover,.modal-copy > *,.close',{opacity:0});}
+      dialog.showModal();document.body.style.overflow='hidden';
+      if(!window.anime||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+      const scale=Math.hypot(innerWidth,innerHeight)/38;
+      anime.animate(wipe,{scale:[0,scale],duration:850,ease:'outExpo'});
+      anime.animate('.modal',{scaleX:[0,1],opacity:[0,1],duration:850,delay:300,ease:'outExpo'});
+      anime.animate('.modal-cover',{x:['-12%',0],opacity:[0,1],duration:900,delay:520,ease:'outExpo'});
+      anime.animate('.modal-copy > *',{y:[45,0],opacity:[0,1],delay:anime.stagger(70,{start:600}),duration:700,ease:'outExpo'});
+      anime.animate('.close',{x:[-35,0],opacity:[0,1],scale:[.8,1],delay:350,duration:600,ease:'outExpo'});
+    }
+    function closeDetail(){
+      if(!dialog.open)return;
+      if(!window.anime||matchMedia('(prefers-reduced-motion: reduce)').matches){dialog.close();document.body.style.overflow='';return}
+      anime.animate('.modal',{x:['0','100%'],opacity:[1,0],duration:480,ease:'inQuad'});
+      anime.animate('.close',{x:[0,-35],opacity:[1,0],duration:300,ease:'inQuad'});
+      anime.animate(dialog.querySelector('.wipe'),{scale:0,duration:650,delay:180,ease:'inExpo',onComplete:()=>{dialog.close();document.body.style.overflow='';document.querySelector('.modal').style.transform='';}});
+    }
+    dialog.querySelector('.close').onclick=closeDetail;dialog.addEventListener('click',e=>{if(e.target===dialog)closeDetail()});dialog.addEventListener('cancel',e=>{e.preventDefault();closeDetail()});
+    const now=new Date(), today=`${String(now.getMonth()+1).padStart(2,'0')}-${String(now.getDate()).padStart(2,'0')}`;day=today;
+    async function loadMusic(){try{const response=await fetch('./music.json');if(!response.ok)throw Error(response.status);music=await response.json();render()}catch(error){grid.innerHTML='<div class="empty">START A LOCAL SERVER<br>TO LOAD MUSIC.</div>';console.error('music.json을 불러오지 못했습니다.',error)}}
+    setInterval(()=>$('#clock').textContent=new Date().toLocaleTimeString('ko-KR',{hour:'2-digit',minute:'2-digit',second:'2-digit'}),1000);loadMusic();
+  </script>
+</body>
+</html>
