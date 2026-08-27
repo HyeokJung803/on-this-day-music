@@ -45,6 +45,7 @@
     const genres=[['GLOBAL','POP','POP'],['GLOBAL','HIP-HOP','HIP-HOP'],['GLOBAL','R&B/SOUL','R&B/SOUL'],['GLOBAL','ROCK','ROCK']];
     let day='08-27';
     genreNav.innerHTML='<span>오늘의 장르를 선택하세요</span>';
+    const animateGenre=card=>anime.animate(card.querySelectorAll('.letter'),{scale:[4,1],opacity:[0,1],delay:anime.stagger(70),duration:950,ease:'outExpo'});
     function render(){
       const items=music[day]||[];
       items.forEach(x=>{const image=new Image();image.fetchPriority='high';image.src=x.image});
@@ -55,9 +56,7 @@
       if(window.anime&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
         anime.animate('#date span',{y:[80,0],opacity:[0,1],delay:anime.stagger(70),duration:750,ease:'outExpo'});
         anime.animate('.card',{y:[50,0],opacity:[0,1],delay:anime.stagger(90),duration:700,ease:'outExpo'});
-        document.querySelectorAll('.card').forEach(card=>anime.createTimeline({loop:true})
-          .add(card.querySelectorAll('.letter'),{scale:[4,1],opacity:[0,1],delay:anime.stagger(70),duration:950,ease:'outExpo'})
-          .add(card.querySelector('.genre-name'),{opacity:0,duration:1000,delay:1000,ease:'outExpo'}));
+        document.querySelectorAll('.card').forEach(card=>{animateGenre(card);card.onmouseenter=()=>animateGenre(card)});
       }
     }
     grid.addEventListener('click',e=>{const card=e.target.closest('.card');if(!card||card.disabled)return;openDetail(music[day][card.dataset.index],e)});
