@@ -102,7 +102,8 @@
   "_updated": {
     "08-27": 2026,
     "08-28": 2026,
-    "08-29": 2026
+    "08-29": 2026,
+    "08-30": 2026
   },
   "08-29": [
     {
@@ -140,6 +141,44 @@
       "image": "https://coverartarchive.org/release-group/ef78739b-ea31-32e2-a927-58fe228c7354/front-500",
       "text": "1989-08-29에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
       "url": "https://musicbrainz.org/release-group/ef78739b-ea31-32e2-a927-58fe228c7354"
+    }
+  ],
+  "08-30": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Music of the Sun",
+      "curation": "오늘의 발견",
+      "artist": "리한나",
+      "year": 2005,
+      "image": "https://coverartarchive.org/release-group/aefe7de5-11df-38c3-97f5-13df615870fd/front-500",
+      "text": "2005-08-30에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/aefe7de5-11df-38c3-97f5-13df615870fd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Late Registration",
+      "curation": "오늘의 발견",
+      "artist": "카니예 웨스트",
+      "year": 2005,
+      "image": "https://coverartarchive.org/release-group/c563d738-3841-31ce-b29d-ec6b40fd1e7b/front-500",
+      "text": "2005-08-30에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/c563d738-3841-31ce-b29d-ec6b40fd1e7b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Highway 61 Revisited",
+      "curation": "오늘의 발견",
+      "artist": "밥 딜런",
+      "year": 1965,
+      "image": "https://coverartarchive.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6/front-500",
+      "text": "1965-08-30에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6"
     }
   ]
 }
