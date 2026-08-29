@@ -101,6 +101,45 @@
   ],
   "_updated": {
     "08-27": 2026,
-    "08-28": 2026
-  }
+    "08-28": 2026,
+    "08-29": 2026
+  },
+  "08-29": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Definitely Maybe",
+      "curation": "오늘의 발견",
+      "artist": "오아시스",
+      "year": 1994,
+      "image": "https://coverartarchive.org/release-group/451dca98-c118-32e1-9244-c47ca9c3c0f9/front-500",
+      "text": "1994-08-29에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/451dca98-c118-32e1-9244-c47ca9c3c0f9"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Tha Carter IV",
+      "curation": "오늘의 발견",
+      "artist": "릴 웨인",
+      "year": 2011,
+      "image": "https://coverartarchive.org/release-group/75fb59d5-4880-4f39-a447-5e0f81bf4448/front-500",
+      "text": "2011-08-29에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/75fb59d5-4880-4f39-a447-5e0f81bf4448"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Steel Wheels",
+      "curation": "오늘의 발견",
+      "artist": "롤링 스톤스",
+      "year": 1989,
+      "image": "https://coverartarchive.org/release-group/ef78739b-ea31-32e2-a927-58fe228c7354/front-500",
+      "text": "1989-08-29에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/ef78739b-ea31-32e2-a927-58fe228c7354"
+    }
+  ]
 }
