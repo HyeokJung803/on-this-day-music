@@ -104,7 +104,8 @@
     "08-28": 2026,
     "08-29": 2026,
     "08-30": 2026,
-    "08-31": 2026
+    "08-31": 2026,
+    "09-01": 2026
   },
   "08-29": [
     {
@@ -218,6 +219,32 @@
       "image": "https://coverartarchive.org/release-group/e82ba8db-3712-3de0-bbe5-0311b89db7e2/front-500",
       "text": "1973-08-31에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
       "url": "https://musicbrainz.org/release-group/e82ba8db-3712-3de0-bbe5-0311b89db7e2"
+    }
+  ],
+  "09-01": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Bass Generation",
+      "curation": "오늘의 발견",
+      "artist": "베이스헌터",
+      "year": 2009,
+      "image": "https://coverartarchive.org/release-group/fe099423-cd18-4b5b-aa9e-9895992138e2/front-500",
+      "text": "2009-09-01에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/fe099423-cd18-4b5b-aa9e-9895992138e2"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "ROCK",
+      "title": "Mamma Mia",
+      "curation": "오늘의 발견",
+      "artist": "아바",
+      "year": 1975,
+      "image": "https://coverartarchive.org/release-group/b7541a5a-69a0-33a6-ada8-c69453f83454/front-500",
+      "text": "1975-09-01에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/b7541a5a-69a0-33a6-ada8-c69453f83454"
     }
   ]
 }
