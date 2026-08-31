@@ -103,7 +103,8 @@
     "08-27": 2026,
     "08-28": 2026,
     "08-29": 2026,
-    "08-30": 2026
+    "08-30": 2026,
+    "08-31": 2026
   },
   "08-29": [
     {
@@ -179,6 +180,44 @@
       "image": "https://coverartarchive.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6/front-500",
       "text": "1965-08-30에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
       "url": "https://musicbrainz.org/release-group/fb48b1dc-412f-36aa-8820-1023c08c46c6"
+    }
+  ],
+  "08-31": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Bad",
+      "curation": "오늘의 발견",
+      "artist": "마이클 잭슨",
+      "year": 1987,
+      "image": "https://coverartarchive.org/release-group/a5711a77-42d1-3f4c-830c-e27a96f0800f/front-500",
+      "text": "1987-08-31에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/a5711a77-42d1-3f4c-830c-e27a96f0800f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Kamikaze",
+      "curation": "오늘의 발견",
+      "artist": "에미넴",
+      "year": 2018,
+      "image": "https://coverartarchive.org/release-group/802d62ee-65c3-4666-8f47-44844321a6a0/front-500",
+      "text": "2018-08-31에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/802d62ee-65c3-4666-8f47-44844321a6a0"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Goats Head Soup",
+      "curation": "오늘의 발견",
+      "artist": "롤링 스톤스",
+      "year": 1973,
+      "image": "https://coverartarchive.org/release-group/e82ba8db-3712-3de0-bbe5-0311b89db7e2/front-500",
+      "text": "1973-08-31에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
+      "url": "https://musicbrainz.org/release-group/e82ba8db-3712-3de0-bbe5-0311b89db7e2"
     }
   ]
 }
