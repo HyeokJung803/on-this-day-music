@@ -3,6 +3,8 @@
 
 오늘과 같은 날짜에 처음 발매된 음악을 장르별로 보여주는 웹 프로젝트입니다.
 
+## 배포 사이트
+- https://on-this-day-music.vercel.app/
 ## 장르
 
 - POP
