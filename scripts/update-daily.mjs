@@ -7,7 +7,7 @@ const dateKey = process.env.MUSIC_DATE || `${parts.month}-${parts.day}`;
 const currentYear = Number(parts.year);
 const music = JSON.parse(await readFile(new URL('../music.json', import.meta.url), 'utf8'));
 const previousTitles = new Set((music[dateKey] || []).map(item => item.title));
-const targetGenres = ['POP', 'HIP-HOP', 'R&B/SOUL', 'ROCK', 'JAZZ', 'EDM'];
+const targetGenres = ['POP', 'HIP-HOP', 'R&B/SOUL', 'ROCK'];
 
 if (targetGenres.every(genre => music[dateKey]?.some(item => item.genre === genre))
   && music._updated?.[dateKey] >= currentYear && !process.env.FORCE_UPDATE) {
@@ -34,10 +34,9 @@ if (!response.ok) throw new Error(`Wikidata ${response.status}`);
 const genre = (item, region) => {
   const value = item.genreLabel?.value?.toLowerCase() || '';
   if (region === 'KR') return 'KOREAN MUSIC';
-  if (/jazz|재즈|bebop|비밥/.test(value)) return 'JAZZ';
+  if (/jazz|재즈|bebop|비밥|electronic|일렉트로닉|house|techno|ambient|edm/.test(value)) return null;
   if (/hip hop|hip-hop|힙합|rap/.test(value)) return 'HIP-HOP';
   if (/r&b|rhythm and blues|리듬 앤 블루스|soul|소울/.test(value)) return 'R&B/SOUL';
-  if (/electronic|일렉트로닉|house|techno|ambient|edm/.test(value)) return 'EDM';
   if (/rock|록|metal|메탈|punk|펑크|grunge/.test(value)) return 'ROCK';
   return 'POP';
 };
