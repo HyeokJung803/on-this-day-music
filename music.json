@@ -97,7 +97,8 @@
     "08-29": 2026,
     "08-30": 2026,
     "08-31": 2026,
-    "09-01": 2026
+    "09-01": 2026,
+    "09-02": 2026
   },
   "08-29": [
     {
@@ -237,6 +238,41 @@
       "year": 1984,
       "image": "https://coverartarchive.org/release-group/2d0af79a-cb12-32e3-9cae-21696b910d53/front-500",
       "url": "https://musicbrainz.org/release-group/2d0af79a-cb12-32e3-9cae-21696b910d53"
+    }
+  ],
+  "09-02": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Living on My Own",
+      "curation": "오늘의 발견",
+      "artist": "프레디 머큐리",
+      "year": 1985,
+      "image": "https://coverartarchive.org/release-group/f1c20170-dac6-3e8b-b2e5-073aecb4557b/front-500",
+      "url": "https://musicbrainz.org/release-group/f1c20170-dac6-3e8b-b2e5-073aecb4557b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Recession",
+      "curation": "오늘의 발견",
+      "artist": "영 지지",
+      "year": 2008,
+      "image": "https://coverartarchive.org/release-group/b6787057-a471-34a7-a523-51a84b6cb360/front-500",
+      "url": "https://musicbrainz.org/release-group/b6787057-a471-34a7-a523-51a84b6cb360"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "V",
+      "curation": "오늘의 발견",
+      "artist": "마룬 5",
+      "year": 2014,
+      "image": "https://coverartarchive.org/release-group/3622c71c-c674-46bc-8fc2-24d182f7684a/front-500",
+      "url": "https://musicbrainz.org/release-group/3622c71c-c674-46bc-8fc2-24d182f7684a"
     }
   ]
 }
