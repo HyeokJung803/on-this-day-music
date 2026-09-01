@@ -83,7 +83,6 @@ for (const targetGenre of targetGenres) {
       artist,
       year: Number(releaseDate.slice(0, 4)),
       image,
-      text: `${releaseDate.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1년 $2월 $3일')}에 처음 공개된 ${artist}의 ${targetGenre} ${type}입니다. 오늘과 같은 날짜에 나온 작품 중 장르와 표지가 확인된 발매작입니다.`,
       url: `https://musicbrainz.org/release-group/${mbid}`
     });
     break;
