@@ -224,27 +224,75 @@
   "09-01": [
     {
       "region": "GLOBAL",
-      "type": "앨범",
+      "type": "싱글",
       "genre": "POP",
-      "title": "Bass Generation",
+      "title": "Ben",
       "curation": "오늘의 발견",
-      "artist": "베이스헌터",
-      "year": 2009,
-      "image": "https://coverartarchive.org/release-group/fe099423-cd18-4b5b-aa9e-9895992138e2/front-500",
-      "text": "2009-09-01에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
-      "url": "https://musicbrainz.org/release-group/fe099423-cd18-4b5b-aa9e-9895992138e2"
+      "artist": "마이클 잭슨",
+      "year": 1972,
+      "image": "https://coverartarchive.org/release-group/430cabeb-5c70-4764-90b5-5f486235d300/front-500",
+      "text": "song written by Don Black and composed by Walter Scharf",
+      "url": "https://musicbrainz.org/release-group/430cabeb-5c70-4764-90b5-5f486235d300"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Niggas in Paris",
+      "curation": "오늘의 발견",
+      "artist": "제이 지",
+      "year": 2011,
+      "image": "https://coverartarchive.org/release-group/5552a11f-a6db-4641-b337-3b5c6d8ad5e3/front-500",
+      "text": "2011 single by Jay-Z and Kanye West",
+      "url": "https://musicbrainz.org/release-group/5552a11f-a6db-4641-b337-3b5c6d8ad5e3"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Car Wash",
+      "curation": "오늘의 발견",
+      "artist": "Rose Royce",
+      "year": 1976,
+      "image": "https://coverartarchive.org/release-group/de0fd880-7f91-4c2c-a01e-921707da8edb/front-500",
+      "text": "1976 single by Rose Royce",
+      "url": "https://musicbrainz.org/release-group/de0fd880-7f91-4c2c-a01e-921707da8edb"
     },
     {
       "region": "GLOBAL",
       "type": "싱글",
       "genre": "ROCK",
-      "title": "Mamma Mia",
+      "title": "Creep",
       "curation": "오늘의 발견",
-      "artist": "아바",
-      "year": 1975,
-      "image": "https://coverartarchive.org/release-group/b7541a5a-69a0-33a6-ada8-c69453f83454/front-500",
-      "text": "1975-09-01에 공개된 음악 작품입니다. 자동 수집된 후보이므로 대표작 여부와 장르 설명은 추후 검수됩니다.",
-      "url": "https://musicbrainz.org/release-group/b7541a5a-69a0-33a6-ada8-c69453f83454"
+      "artist": "라디오헤드",
+      "year": 1992,
+      "image": "https://coverartarchive.org/release-group/471b4ff5-004f-4a7b-b0ba-a0837c41da14/front-500",
+      "text": "라디오헤드의 노래",
+      "url": "https://musicbrainz.org/release-group/471b4ff5-004f-4a7b-b0ba-a0837c41da14"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "JAZZ",
+      "title": "Blue Valentine",
+      "curation": "오늘의 발견",
+      "artist": "톰 웨이츠",
+      "year": 1978,
+      "image": "https://coverartarchive.org/release-group/a138f035-a018-3d29-8b90-36b30956fccc/front-500",
+      "text": "톰 웨이츠의 음반",
+      "url": "https://musicbrainz.org/release-group/a138f035-a018-3d29-8b90-36b30956fccc"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "EDM",
+      "title": "Insomnia",
+      "curation": "오늘의 발견",
+      "artist": "Faithless",
+      "year": 2005,
+      "image": "https://coverartarchive.org/release-group/0626b22a-4f4e-3d9b-bcd9-03b051822d6f/front-500",
+      "text": "song recorded by Faithless",
+      "url": "https://musicbrainz.org/release-group/0626b22a-4f4e-3d9b-bcd9-03b051822d6f"
     }
   ]
 }
