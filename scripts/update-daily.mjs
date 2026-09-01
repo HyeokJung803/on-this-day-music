@@ -18,7 +18,7 @@ if (targetGenres.every(genre => music[dateKey]?.some(item => item.genre === genr
 const dates = Array.from({ length: currentYear - 1959 }, (_, i) =>
   `"${1960 + i}-${dateKey}T00:00:00Z"^^xsd:dateTime`
 ).join(' ');
-const query = `SELECT DISTINCT ?item ?itemLabel ?itemDescription ?date ?artistLabel ?genreLabel ?kindLabel ?country ?mbid ?sitelinks WHERE {
+const query = `SELECT DISTINCT ?item ?itemLabel ?date ?artistLabel ?genreLabel ?kindLabel ?country ?mbid ?sitelinks WHERE {
   VALUES ?date { ${dates} }
   ?item wdt:P577 ?date; wdt:P436 ?mbid; wikibase:sitelinks ?sitelinks.
   { ?item wdt:P31 ?kind. ?kind wdt:P279* wd:Q482994. } UNION { ?item wdt:P31 wd:Q134556. BIND(wd:Q134556 AS ?kind) }
@@ -54,6 +54,7 @@ const candidates = [...byMbid.values()].map(item => ({
 }));
 
 const found = [];
+let lastMusicBrainzRequest = 0;
 for (const targetGenre of targetGenres) {
   const matches = candidates
     .filter(item => genre(item, 'GLOBAL') === targetGenre)
@@ -62,8 +63,16 @@ for (const targetGenre of targetGenres) {
     const mbid = item.mbid.value;
     const image = `https://coverartarchive.org/release-group/${mbid}/front-500`;
     if (!(await fetch(image, { method: 'HEAD' })).ok) continue;
+    const wait = 1100 - (Date.now() - lastMusicBrainzRequest);
+    if (wait > 0) await new Promise(resolve => setTimeout(resolve, wait));
+    const metadataResponse = await fetch(`https://musicbrainz.org/ws/2/release-group/${mbid}?fmt=json`, {
+      headers: { 'User-Agent': 'OnThisDayMusic/1.0 (GitHub Actions)' }
+    });
+    lastMusicBrainzRequest = Date.now();
+    if (!metadataResponse.ok) continue;
+    const releaseDate = (await metadataResponse.json())['first-release-date'] || '';
+    if (!/^\d{4}-\d{2}-\d{2}$/.test(releaseDate) || releaseDate.slice(5) !== dateKey) continue;
     const artist = item.artistLabel?.value || 'Unknown artist';
-    const releaseDate = item.date.value.slice(0, 10);
     const type = item.kindLabel?.value || 'Release';
     found.push({
       region: 'GLOBAL',
@@ -74,7 +83,7 @@ for (const targetGenre of targetGenres) {
       artist,
       year: Number(releaseDate.slice(0, 4)),
       image,
-      text: item.itemDescription?.value || `${artist}가 ${releaseDate}에 공개한 ${type}입니다.`,
+      text: `${releaseDate.replace(/^(\d{4})-(\d{2})-(\d{2})$/, '$1년 $2월 $3일')}에 처음 공개된 ${artist}의 ${targetGenre} ${type}입니다. 오늘과 같은 날짜에 나온 작품 중 장르와 표지가 확인된 발매작입니다.`,
       url: `https://musicbrainz.org/release-group/${mbid}`
     });
     break;
