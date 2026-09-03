@@ -7,7 +7,7 @@ const dateKey = process.env.MUSIC_DATE || `${parts.month}-${parts.day}`;
 const currentYear = Number(parts.year);
 const music = JSON.parse(await readFile(new URL('../music.json', import.meta.url), 'utf8'));
 const previousTitles = new Set((music[dateKey] || []).map(item => item.title));
-const targetGenres = ['POP', 'HIP-HOP', 'R&B/SOUL', 'ROCK'];
+const targetGenres = ['POP', 'HIP-HOP', 'R&B/SOUL', 'ROCK', 'KOREAN MUSIC'];
 
 if (targetGenres.every(genre => music[dateKey]?.some(item => item.genre === genre))
   && music._updated?.[dateKey] >= currentYear && !process.env.FORCE_UPDATE) {
@@ -40,6 +40,7 @@ const genre = (item, region) => {
   if (/rock|록|metal|메탈|punk|펑크|grunge/.test(value)) return 'ROCK';
   return 'POP';
 };
+const region = item => item.country?.value?.endsWith('/Q884') ? 'KR' : 'GLOBAL';
 const bindings = (await response.json()).results.bindings;
 const byMbid = new Map();
 for (const item of bindings) {
@@ -56,12 +57,20 @@ const found = [];
 let lastMusicBrainzRequest = 0;
 for (const targetGenre of targetGenres) {
   const matches = candidates
-    .filter(item => genre(item, 'GLOBAL') === targetGenre)
+    .filter(item => genre(item, region(item)) === targetGenre)
     .sort((a, b) => previousTitles.has(a.itemLabel.value) - previousTitles.has(b.itemLabel.value));
   for (const item of matches) {
     const mbid = item.mbid.value;
-    const image = `https://coverartarchive.org/release-group/${mbid}/front-500`;
-    if (!(await fetch(image, { method: 'HEAD' })).ok) continue;
+    let image;
+    try {
+      const cover = await fetch(`https://coverartarchive.org/release-group/${mbid}/front-500`, {
+        method: 'HEAD', signal: AbortSignal.timeout(4000)
+      });
+      if (!cover.ok) continue;
+      image = cover.url;
+    } catch {
+      continue;
+    }
     const wait = 1100 - (Date.now() - lastMusicBrainzRequest);
     if (wait > 0) await new Promise(resolve => setTimeout(resolve, wait));
     const metadataResponse = await fetch(`https://musicbrainz.org/ws/2/release-group/${mbid}?fmt=json`, {
@@ -74,7 +83,7 @@ for (const targetGenre of targetGenres) {
     const artist = item.artistLabel?.value || 'Unknown artist';
     const type = item.kindLabel?.value || 'Release';
     found.push({
-      region: 'GLOBAL',
+      region: region(item),
       type,
       genre: targetGenre,
       title: item.itemLabel.value,
