@@ -99,7 +99,8 @@
     "08-31": 2026,
     "09-01": 2026,
     "09-02": 2026,
-    "09-03": 2026
+    "09-03": 2026,
+    "09-04": 2026
   },
   "08-29": [
     {
@@ -309,6 +310,63 @@
       "year": 1984,
       "image": "https://coverartarchive.org/release-group/60a20bc8-acac-3cbb-99f9-ce458317233a/front-500",
       "url": "https://musicbrainz.org/release-group/60a20bc8-acac-3cbb-99f9-ce458317233a"
+    }
+  ],
+  "09-04": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Girl on Fire (노래)",
+      "curation": "오늘의 발견",
+      "artist": "앨리샤 키스",
+      "year": 2012,
+      "image": "https://dn710804.ca.archive.org/0/items/mbid-75f42fb4-2f38-4a54-90c2-f6f92552b7b1/mbid-75f42fb4-2f38-4a54-90c2-f6f92552b7b1-2121228576_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/846ad87e-8b3a-4ae7-9a2d-9a97f7b1484e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Rodeo",
+      "curation": "오늘의 발견",
+      "artist": "트래비스 스콧",
+      "year": 2015,
+      "image": "https://dn721606.ca.archive.org/0/items/mbid-114356f9-333f-45f3-898d-00106f3aee45/mbid-114356f9-333f-45f3-898d-00106f3aee45-27189365965_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e6c9fd37-0211-48a2-8927-d7ef284218c4"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Shiawase o Forever",
+      "curation": "오늘의 발견",
+      "artist": "MISIA",
+      "year": 2013,
+      "image": "https://dn710200.ca.archive.org/0/items/mbid-9983586a-9f5e-449c-92f6-38a45f6ddeda/mbid-9983586a-9f5e-449c-92f6-38a45f6ddeda-34752804193_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/51215ce2-734b-4c20-9030-2039aae168a1"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "The Book of Souls",
+      "curation": "오늘의 발견",
+      "artist": "아이언 메이든",
+      "year": 2015,
+      "image": "https://dn710202.ca.archive.org/0/items/mbid-8ea66778-0ae4-4f3d-af96-ae372a5b300b/mbid-8ea66778-0ae4-4f3d-af96-ae372a5b300b-35102144664_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2220348e-c3f7-4da7-9cad-d84530077234"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "SCREAM",
+      "curation": "오늘의 발견",
+      "artist": "동방신기",
+      "year": 2013,
+      "image": "https://dn710906.ca.archive.org/0/items/mbid-d3c4a63d-e36b-4140-9314-c8acf1e25058/mbid-d3c4a63d-e36b-4140-9314-c8acf1e25058-45749884436_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1c55957b-c79a-4e14-a229-f5af2dcf2b4f"
     }
   ]
 }
