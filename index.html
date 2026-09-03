@@ -42,7 +42,7 @@
   <script>
     let music={};
     const $=s=>document.querySelector(s), grid=$('#grid'), genreNav=$('#genres'), dialog=$('#detail');
-    const genreOrder=['KOREAN MUSIC','POP','HIP-HOP','R&B/SOUL','ROCK'];
+    const genreOrder=['KOREA MUSIC','POP','HIP-HOP','R&B/SOUL','ROCK'];
     let day='08-27';
     genreNav.innerHTML='<span>오늘의 장르를 선택하세요</span>';
     const animateGenre=card=>anime.animate(card.querySelectorAll('.letter'),{scale:[4,1],opacity:[0,1],delay:anime.stagger(70),duration:950,ease:'outExpo'});
@@ -54,7 +54,7 @@
       $('#day-label').textContent=`${+day.slice(0,2)}월 ${+day.slice(3)}일의 발매작`;
       $('#date').innerHTML=`<span>${day.slice(0,2)}</span><span>·</span><span>${day.slice(3)}</span>`;
       $('#date').ariaLabel=`${+day.slice(0,2)}월 ${+day.slice(3)}일`;
-      grid.innerHTML=genres.map((label,i)=>{const index=items.findIndex(x=>x.genre===label);return `<button class="card" data-index="${index}" ${index<0?'disabled':''} aria-label="${label} 장르의 오늘 발매작 ${index<0?'없음':'보기'}"><span class="genre-stage"><span class="index">${String(i+1).padStart(2,'0')}</span><span class="genre-name">${[...label].map(c=>`<span class="letter">${c}</span>`).join('')}</span><span class="discover">${index<0?'no release':'discover ↗'}</span></span></button>`}).join('');
+      grid.innerHTML=genres.map((label,i)=>{const index=items.findIndex(x=>x.genre===label);return `<button class="card" data-index="${index}" ${index<0?'disabled':''} aria-label="${label} 장르의 오늘 발매작 ${index<0?'없음':'보기'}"><span class="genre-stage"><span class="index">${String(i+1).padStart(2,'0')}</span><span class="genre-name">${[...label].map(c=>c===' '?'<br>':`<span class="letter">${c}</span>`).join('')}</span><span class="discover">${index<0?'no release':'discover ↗'}</span></span></button>`}).join('');
       if(window.anime&&!matchMedia('(prefers-reduced-motion: reduce)').matches){
         anime.animate('#date span',{y:[80,0],opacity:[0,1],delay:anime.stagger(70),duration:750,ease:'outExpo'});
         anime.animate('.card',{y:[50,0],opacity:[0,1],delay:anime.stagger(90),duration:700,ease:'outExpo'});
