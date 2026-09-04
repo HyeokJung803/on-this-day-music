@@ -100,7 +100,8 @@
     "09-01": 2026,
     "09-02": 2026,
     "09-03": 2026,
-    "09-04": 2026
+    "09-04": 2026,
+    "09-05": 2026
   },
   "08-29": [
     {
@@ -367,6 +368,63 @@
       "year": 2013,
       "image": "https://dn710906.ca.archive.org/0/items/mbid-d3c4a63d-e36b-4140-9314-c8acf1e25058/mbid-d3c4a63d-e36b-4140-9314-c8acf1e25058-45749884436_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/1c55957b-c79a-4e14-a229-f5af2dcf2b4f"
+    }
+  ],
+  "09-05": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Elysium (펫 숍 보이스의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "펫 숍 보이스",
+      "year": 2012,
+      "image": "https://ia802903.us.archive.org/32/items/mbid-b050c159-1f07-4618-bcee-b66d80e76c23/mbid-b050c159-1f07-4618-bcee-b66d80e76c23-2324172050_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a0746871-ff88-4b08-8c55-c1e34e101fad"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Graduation",
+      "curation": "오늘의 발견",
+      "artist": "카니예 웨스트",
+      "year": 2007,
+      "image": "https://dn710008.ca.archive.org/0/items/mbid-08e0cab1-e95c-4b33-8ed3-1337d934fb7f/mbid-08e0cab1-e95c-4b33-8ed3-1337d934fb7f-24202595971_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d44c50ad-61fd-3fce-95fc-27024d7f1d30"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Swag II",
+      "curation": "오늘의 발견",
+      "artist": "저스틴 비버",
+      "year": 2025,
+      "image": "https://dn710105.ca.archive.org/0/items/mbid-f4a681f7-a673-47b9-bbcc-e7ed71e1bf47/mbid-f4a681f7-a673-47b9-bbcc-e7ed71e1bf47-42956296532_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/97279f13-990a-44fe-b729-64e4613d6497"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "ROCK",
+      "title": "Fix You",
+      "curation": "오늘의 발견",
+      "artist": "콜드플레이",
+      "year": 2005,
+      "image": "https://dn711007.ca.archive.org/0/items/mbid-745378c5-be6e-4500-b507-c50c6e175970/mbid-745378c5-be6e-4500-b507-c50c6e175970-15823905696_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7336b1ef-9784-3e3a-9436-9b1bc543b933"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "몰랐니",
+      "curation": "오늘의 발견",
+      "artist": "소녀시대-Oh!GG",
+      "year": 2018,
+      "image": "https://dn721602.ca.archive.org/0/items/mbid-5a9456b7-4244-45a3-ae77-a8faadc3d347/mbid-5a9456b7-4244-45a3-ae77-a8faadc3d347-35454445726_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9d8c9f27-420d-4777-a9f6-c13c3f4e1ebb"
     }
   ]
 }
