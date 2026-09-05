@@ -101,7 +101,8 @@
     "09-02": 2026,
     "09-03": 2026,
     "09-04": 2026,
-    "09-05": 2026
+    "09-05": 2026,
+    "09-06": 2026
   },
   "08-29": [
     {
@@ -425,6 +426,63 @@
       "year": 2018,
       "image": "https://dn721602.ca.archive.org/0/items/mbid-5a9456b7-4244-45a3-ae77-a8faadc3d347/mbid-5a9456b7-4244-45a3-ae77-a8faadc3d347-35454445726_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/9d8c9f27-420d-4777-a9f6-c13c3f4e1ebb"
+    }
+  ],
+  "09-06": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Amerika",
+      "curation": "오늘의 발견",
+      "artist": "람슈타인",
+      "year": 2004,
+      "image": "https://dn710909.ca.archive.org/0/items/mbid-371abefb-d962-45bb-ac9b-47ea15857a07/mbid-371abefb-d962-45bb-ac9b-47ea15857a07-10433251903_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cbe4fc10-077c-355b-98da-adf227073b39"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Hollywood's Bleeding",
+      "curation": "오늘의 발견",
+      "artist": "포스트 말론",
+      "year": 2019,
+      "image": "https://ia800602.us.archive.org/24/items/mbid-0b751b1b-f420-46e9-b2b5-108615b8427f/mbid-0b751b1b-f420-46e9-b2b5-108615b8427f-24593316652_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8c9e2ca7-fad0-427c-a963-6bd535992a38"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Love and Compromise",
+      "curation": "오늘의 발견",
+      "artist": "마할리아 버크마",
+      "year": 2019,
+      "image": "https://dn721204.ca.archive.org/0/items/mbid-d7ce473e-482c-4482-b0cf-ec6627f3699c/mbid-d7ce473e-482c-4482-b0cf-ec6627f3699c-24039902733_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0ac6a39a-1068-4468-8f50-ff721535aef5"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "ROCK",
+      "title": "Cave (노래)",
+      "curation": "오늘의 발견",
+      "artist": "뮤즈",
+      "year": 1999,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-5ac268aa-12fb-4320-a657-9a4f3688b6ff/mbid-5ac268aa-12fb-4320-a657-9a4f3688b6ff-9546456909_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2e7c002f-ca5f-351a-a241-fbd14ed5e5bf"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Jaurim 04",
+      "curation": "오늘의 발견",
+      "artist": "자우림",
+      "year": 2002,
+      "image": "https://dn710000.ca.archive.org/0/items/mbid-bed7cf77-f7d7-4ed3-92b7-8c292dc0c9b4/mbid-bed7cf77-f7d7-4ed3-92b7-8c292dc0c9b4-30362226189_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8884c9ff-d7eb-306f-962a-7d3d6bc5be41"
     }
   ]
 }
