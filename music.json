@@ -102,7 +102,8 @@
     "09-03": 2026,
     "09-04": 2026,
     "09-05": 2026,
-    "09-06": 2026
+    "09-06": 2026,
+    "09-07": 2026
   },
   "08-29": [
     {
@@ -483,6 +484,52 @@
       "year": 2002,
       "image": "https://dn710000.ca.archive.org/0/items/mbid-bed7cf77-f7d7-4ed3-92b7-8c292dc0c9b4/mbid-bed7cf77-f7d7-4ed3-92b7-8c292dc0c9b4-30362226189_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/8884c9ff-d7eb-306f-962a-7d3d6bc5be41"
+    }
+  ],
+  "09-07": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Millennium",
+      "curation": "오늘의 발견",
+      "artist": "로비 윌리엄스",
+      "year": 1998,
+      "image": "https://dn710900.ca.archive.org/0/items/mbid-ab7a8920-3f99-4dd0-9a78-13bc08831cbb/mbid-ab7a8920-3f99-4dd0-9a78-13bc08831cbb-14121212474_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/192bc8f6-f890-3a6f-9875-fde3f835bf1b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "I Want to Die in New Orleans",
+      "curation": "오늘의 발견",
+      "artist": "수어사이드보이즈",
+      "year": 2018,
+      "image": "https://dn721505.ca.archive.org/0/items/mbid-97bc31c4-6985-462d-8c4a-6d0beb6ac891/mbid-97bc31c4-6985-462d-8c4a-6d0beb6ac891-42674393979_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/beed277a-c190-42db-86c7-446a39f6a5fd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Don't Break the Oath",
+      "curation": "오늘의 발견",
+      "artist": "머시풀 페이트",
+      "year": 1984,
+      "image": "https://dn710208.ca.archive.org/0/items/mbid-8dae6a18-91f9-412b-a868-4bff55e78b8f/mbid-8dae6a18-91f9-412b-a868-4bff55e78b8f-43932106111_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/170e97b4-c1ff-3225-9bf1-0abc9c073d6a"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "YOUTH",
+      "curation": "오늘의 발견",
+      "artist": "방탄소년단",
+      "year": 2016,
+      "image": "https://dn710707.ca.archive.org/0/items/mbid-46e327cb-75dc-49ea-a85a-63d626df3aac/mbid-46e327cb-75dc-49ea-a85a-63d626df3aac-15126118120_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7b70f452-a540-4fc8-933e-3b1d6800e290"
     }
   ]
 }
