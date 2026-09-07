@@ -103,7 +103,8 @@
     "09-04": 2026,
     "09-05": 2026,
     "09-06": 2026,
-    "09-07": 2026
+    "09-07": 2026,
+    "09-08": 2026
   },
   "08-29": [
     {
@@ -530,6 +531,52 @@
       "year": 2016,
       "image": "https://dn710707.ca.archive.org/0/items/mbid-46e327cb-75dc-49ea-a85a-63d626df3aac/mbid-46e327cb-75dc-49ea-a85a-63d626df3aac-15126118120_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/7b70f452-a540-4fc8-933e-3b1d6800e290"
+    }
+  ],
+  "09-08": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Can't Get You Out of My Head",
+      "curation": "오늘의 발견",
+      "artist": "카일리 미노그",
+      "year": 2001,
+      "image": "https://dn721806.ca.archive.org/0/items/mbid-4a383b49-b4ad-470b-b44c-4cd04da9ed6d/mbid-4a383b49-b4ad-470b-b44c-4cd04da9ed6d-42725266577_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f4ea67f8-b987-335f-9c71-f4f9f28e7e53"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Blueprint 3",
+      "curation": "오늘의 발견",
+      "artist": "제이 지",
+      "year": 2009,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-6e18c5c8-e487-4f83-9ea6-281c574933b9/mbid-6e18c5c8-e487-4f83-9ea6-281c574933b9-31711944560_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8f046e37-21ef-46de-9aa6-4f89e3d48bbb"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Guts",
+      "curation": "오늘의 발견",
+      "artist": "올리비아 로드리고",
+      "year": 2023,
+      "image": "https://dn710209.ca.archive.org/0/items/mbid-6da788ba-402d-41f6-aac4-bdd703817a79/mbid-6da788ba-402d-41f6-aac4-bdd703817a79-36057740540_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/83920a38-e749-4bbf-a7f6-8aaf77cb9475"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "COLOR OUTSIDE THE LINES",
+      "curation": "오늘의 발견",
+      "artist": "CORTIS",
+      "year": 2025,
+      "image": "https://ia801006.us.archive.org/5/items/mbid-26521389-a29c-411e-b2bb-f00df81f4f4f/mbid-26521389-a29c-411e-b2bb-f00df81f4f4f-42980160564_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a8335751-288f-4d70-910b-6a73c3c5d5a2"
     }
   ]
 }
