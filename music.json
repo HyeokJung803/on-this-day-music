@@ -104,7 +104,8 @@
     "09-05": 2026,
     "09-06": 2026,
     "09-07": 2026,
-    "09-08": 2026
+    "09-08": 2026,
+    "09-09": 2026
   },
   "08-29": [
     {
@@ -577,6 +578,63 @@
       "year": 2025,
       "image": "https://ia801006.us.archive.org/5/items/mbid-26521389-a29c-411e-b2bb-f00df81f4f4f/mbid-26521389-a29c-411e-b2bb-f00df81f4f4f-42980160564_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/a8335751-288f-4d70-910b-6a73c3c5d5a2"
+    }
+  ],
+  "09-09": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "+",
+      "curation": "오늘의 발견",
+      "artist": "에드 시런",
+      "year": 2011,
+      "image": "https://dn711306.ca.archive.org/0/items/mbid-94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032/mbid-94ad3a58-a1cc-46a3-acf4-9cb6c1d6f032-16111056293_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/05ce100c-eddf-4967-8d7e-33fc0883fe39"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Megadef",
+      "curation": "오늘의 발견",
+      "artist": "Styles of Beyond",
+      "year": 2003,
+      "image": "https://dn711104.ca.archive.org/0/items/mbid-662342e2-328d-40f5-bf4b-5c530cfadb94/mbid-662342e2-328d-40f5-bf4b-5c530cfadb94-25024598882_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/69149b54-a7f9-3ed7-9bad-a90846496f57"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Souled Out",
+      "curation": "오늘의 발견",
+      "artist": "제네 아이코",
+      "year": 2014,
+      "image": "https://dn711106.ca.archive.org/0/items/mbid-1636c55c-427d-4ed2-85d0-50fbfacb0e4b/mbid-1636c55c-427d-4ed2-85d0-50fbfacb0e4b-16305276146_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f383e8b9-9709-4958-8a77-25bfc96e88a7"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Imagine",
+      "curation": "오늘의 발견",
+      "artist": "존 레논",
+      "year": 1971,
+      "image": "https://ia600503.us.archive.org/6/items/mbid-25ecefb1-e5bb-4b21-9c2a-ec278318aa63/mbid-25ecefb1-e5bb-4b21-9c2a-ec278318aa63-17285428248_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f242f304-0f1f-33a5-81a2-7a965b30e3b5"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "The Red",
+      "curation": "오늘의 발견",
+      "artist": "레드벨벳",
+      "year": 2015,
+      "image": "https://dn721600.ca.archive.org/0/items/mbid-8cd79b76-c4d5-4cb0-a6cd-efd2c412d144/mbid-8cd79b76-c4d5-4cb0-a6cd-efd2c412d144-34084943164_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/50f9a5ca-588c-459a-8a11-f51f73beea60"
     }
   ]
 }
