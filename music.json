@@ -105,7 +105,8 @@
     "09-06": 2026,
     "09-07": 2026,
     "09-08": 2026,
-    "09-09": 2026
+    "09-09": 2026,
+    "09-10": 2026
   },
   "08-29": [
     {
@@ -635,6 +636,41 @@
       "year": 2015,
       "image": "https://dn721600.ca.archive.org/0/items/mbid-8cd79b76-c4d5-4cb0-a6cd-efd2c412d144/mbid-8cd79b76-c4d5-4cb0-a6cd-efd2c412d144-34084943164_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/50f9a5ca-588c-459a-8a11-f51f73beea60"
+    }
+  ],
+  "09-10": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Savor Flamenco",
+      "curation": "오늘의 발견",
+      "artist": "집시 킹스",
+      "year": 2013,
+      "image": "https://ia801503.us.archive.org/5/items/mbid-7dabe68c-0e50-4654-bcbf-caa73983aa61/mbid-7dabe68c-0e50-4654-bcbf-caa73983aa61-6121346327_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/aa7a40d8-e5c7-4696-852a-f3511f5c8007"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Run–D.M.C. - Greatest Hits",
+      "curation": "오늘의 발견",
+      "artist": "런 디엠씨",
+      "year": 2002,
+      "image": "https://dn710208.ca.archive.org/0/items/mbid-471ec956-03e4-4b6a-b7b5-989fb8a516a3/mbid-471ec956-03e4-4b6a-b7b5-989fb8a516a3-32304157600_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/163b67c7-3c34-31a9-bdf2-e214c258857c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "What Would the Community Think",
+      "curation": "오늘의 발견",
+      "artist": "캣 파워",
+      "year": 1996,
+      "image": "https://ia801605.us.archive.org/3/items/mbid-0822277f-6e13-3490-9266-49aa7e6dc1ba/mbid-0822277f-6e13-3490-9266-49aa7e6dc1ba-12639049015_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/eadb8f2e-3924-314e-9565-eaee3b6a51e5"
     }
   ]
 }
