@@ -106,7 +106,8 @@
     "09-07": 2026,
     "09-08": 2026,
     "09-09": 2026,
-    "09-10": 2026
+    "09-10": 2026,
+    "09-11": 2026
   },
   "08-29": [
     {
@@ -671,6 +672,63 @@
       "year": 1996,
       "image": "https://ia801605.us.archive.org/3/items/mbid-0822277f-6e13-3490-9266-49aa7e6dc1ba/mbid-0822277f-6e13-3490-9266-49aa7e6dc1ba-12639049015_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/eadb8f2e-3924-314e-9565-eaee3b6a51e5"
+    }
+  ],
+  "09-11": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "What Makes You Beautiful",
+      "curation": "오늘의 발견",
+      "artist": "원 디렉션",
+      "year": 2011,
+      "image": "https://dn710604.ca.archive.org/0/items/mbid-7d4fe349-2276-46cd-853b-9d17d0fae537/mbid-7d4fe349-2276-46cd-853b-9d17d0fae537-4138663622_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/fe620afc-3426-48fc-90b8-50d4d873d02f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Blueprint",
+      "curation": "오늘의 발견",
+      "artist": "제이 지",
+      "year": 2001,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-0bade5d5-7425-4281-b3c1-e7ef298380b4/mbid-0bade5d5-7425-4281-b3c1-e7ef298380b4-39651835119_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/11ae8c9c-27c1-3308-9761-edb87c8f54ea"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Five Faces of Manfred Mann",
+      "curation": "오늘의 발견",
+      "artist": "맨프레드 맨",
+      "year": 1964,
+      "image": "https://ia802900.us.archive.org/26/items/mbid-29dc2757-ddf0-49e4-a931-41d2333739a7/mbid-29dc2757-ddf0-49e4-a931-41d2333739a7-5439626930_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c460c582-7463-38bd-8bdd-9d0c5352c5cc"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Crest of a Knave",
+      "curation": "오늘의 발견",
+      "artist": "제쓰로 툴",
+      "year": 1987,
+      "image": "https://dn721808.ca.archive.org/0/items/mbid-590fe09f-9c61-34ba-af43-b107bf265c9e/mbid-590fe09f-9c61-34ba-af43-b107bf265c9e-37349290408_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5c6d0e6c-c645-3530-908d-74c1a8e7c624"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "The Beginning Of The End",
+      "curation": "오늘의 발견",
+      "artist": "드림캐쳐",
+      "year": 2019,
+      "image": "https://dn721307.ca.archive.org/0/items/mbid-3051c74a-2429-4347-846e-3197ad321f05/mbid-3051c74a-2429-4347-846e-3197ad321f05-24224373736_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/77999f10-08a2-4c15-9071-46b36390131a"
     }
   ]
 }
