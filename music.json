@@ -107,7 +107,8 @@
     "09-08": 2026,
     "09-09": 2026,
     "09-10": 2026,
-    "09-11": 2026
+    "09-11": 2026,
+    "09-12": 2026
   },
   "08-29": [
     {
@@ -729,6 +730,63 @@
       "year": 2019,
       "image": "https://dn721307.ca.archive.org/0/items/mbid-3051c74a-2429-4347-846e-3197ad321f05/mbid-3051c74a-2429-4347-846e-3197ad321f05-24224373736_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/77999f10-08a2-4c15-9071-46b36390131a"
+    }
+  ],
+  "09-12": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Mi Reflejo",
+      "curation": "오늘의 발견",
+      "artist": "크리스티나 아길레라",
+      "year": 2000,
+      "image": "https://dn711003.ca.archive.org/0/items/mbid-a7fc8c96-53c4-483b-afef-4e7233227bfa/mbid-a7fc8c96-53c4-483b-afef-4e7233227bfa-6980230532_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/afcef097-8d53-354c-b219-8f9f3d40d9e8"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "What's Your Fantasy",
+      "curation": "오늘의 발견",
+      "artist": "루다크리스",
+      "year": 2000,
+      "image": "https://dn721808.ca.archive.org/0/items/mbid-12e038c0-736a-4eab-ac0f-a3764e2615b7/mbid-12e038c0-736a-4eab-ac0f-a3764e2615b7-40089705274_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ed839d7a-b48e-370b-a3e6-1d501e7cdec0"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Double Trouble",
+      "curation": "오늘의 발견",
+      "artist": "P-Square",
+      "year": 2014,
+      "image": "https://dn711003.ca.archive.org/0/items/mbid-fe5e7eef-5d3b-408a-ad42-549999961231/mbid-fe5e7eef-5d3b-408a-ad42-549999961231-25481454978_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0b10e84a-e7dd-4a0e-868f-b7cc27e7401b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Scary Monsters",
+      "curation": "오늘의 발견",
+      "artist": "데이비드 보위",
+      "year": 1980,
+      "image": "https://dn710706.ca.archive.org/0/items/mbid-104f475e-1761-4228-b9e4-ed46d086848a/mbid-104f475e-1761-4228-b9e4-ed46d086848a-3791440379_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bb13cb45-254c-3a61-89a5-15d22a97e6d6"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "BDZ",
+      "curation": "오늘의 발견",
+      "artist": "트와이스",
+      "year": 2018,
+      "image": "https://dn710705.ca.archive.org/0/items/mbid-3f2be89b-465d-4b62-9d64-e43e862ff06a/mbid-3f2be89b-465d-4b62-9d64-e43e862ff06a-25611296013_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/349be2ad-047e-4462-8f4d-6f4c01121775"
     }
   ]
 }
