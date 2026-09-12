@@ -108,7 +108,8 @@
     "09-09": 2026,
     "09-10": 2026,
     "09-11": 2026,
-    "09-12": 2026
+    "09-12": 2026,
+    "09-13": 2026
   },
   "08-29": [
     {
@@ -787,6 +788,63 @@
       "year": 2018,
       "image": "https://dn710705.ca.archive.org/0/items/mbid-3f2be89b-465d-4b62-9d64-e43e862ff06a/mbid-3f2be89b-465d-4b62-9d64-e43e862ff06a-25611296013_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/349be2ad-047e-4462-8f4d-6f4c01121775"
+    }
+  ],
+  "09-13": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "True",
+      "curation": "오늘의 발견",
+      "artist": "아비치",
+      "year": 2013,
+      "image": "https://dn711109.ca.archive.org/0/items/mbid-26d64e29-553f-47b2-9cf5-4f8163485d5e/mbid-26d64e29-553f-47b2-9cf5-4f8163485d5e-5208206498_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/61180839-f4a7-407f-b86f-24c48eef4066"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Ready to Die",
+      "curation": "오늘의 발견",
+      "artist": "노토리어스 B.I.G.",
+      "year": 1994,
+      "image": "https://dn710908.ca.archive.org/0/items/mbid-c39794bb-1886-42d9-8a8e-a1be8ae8d5fa/mbid-c39794bb-1886-42d9-8a8e-a1be8ae8d5fa-5882590146_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5afcfeac-118a-35e6-af0d-35ec9003354d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Car Wash (soundtrack)",
+      "curation": "오늘의 발견",
+      "artist": "Rose Royce",
+      "year": 1976,
+      "image": "https://dn711308.ca.archive.org/0/items/mbid-fb7973c2-e004-4ed1-bb89-da7fea1cc757/mbid-fb7973c2-e004-4ed1-bb89-da7fea1cc757-978826795_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e7831ac2-2bae-3ce6-a37a-e8d4cef1aee7"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Close to the Edge",
+      "curation": "오늘의 발견",
+      "artist": "예스",
+      "year": 1972,
+      "image": "https://dn721507.ca.archive.org/0/items/mbid-2b9b5b13-5639-4645-b89b-e5ea555f9a65/mbid-2b9b5b13-5639-4645-b89b-e5ea555f9a65-7295017114_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5a59b948-1961-32ff-80d9-e970c7d4ebe9"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Gentlemen's Game",
+      "curation": "오늘의 발견",
+      "artist": "2PM",
+      "year": 2016,
+      "image": "https://dn721801.ca.archive.org/0/items/mbid-0cfd81fe-fc2a-4060-8b25-1ccc454eae27/mbid-0cfd81fe-fc2a-4060-8b25-1ccc454eae27-29535583865_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/990db390-04ec-4007-8bf5-9c03ddafb42e"
     }
   ]
 }
