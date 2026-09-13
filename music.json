@@ -109,7 +109,8 @@
     "09-10": 2026,
     "09-11": 2026,
     "09-12": 2026,
-    "09-13": 2026
+    "09-13": 2026,
+    "09-14": 2026
   },
   "08-29": [
     {
@@ -845,6 +846,52 @@
       "year": 2016,
       "image": "https://dn721801.ca.archive.org/0/items/mbid-0cfd81fe-fc2a-4060-8b25-1ccc454eae27/mbid-0cfd81fe-fc2a-4060-8b25-1ccc454eae27-29535583865_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/990db390-04ec-4007-8bf5-9c03ddafb42e"
+    }
+  ],
+  "09-14": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Funeral",
+      "curation": "오늘의 발견",
+      "artist": "아케이드 파이어",
+      "year": 2004,
+      "image": "https://dn711006.ca.archive.org/0/items/mbid-58c07638-4343-4ad7-ac37-da79f6aeb8e1/mbid-58c07638-4343-4ad7-ac37-da79f6aeb8e1-31589070944_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/05affa96-5959-32da-8d75-1c9eb985ca59"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Culpables",
+      "curation": "오늘의 발견",
+      "artist": "카롤 G",
+      "year": 2018,
+      "image": "https://dn710706.ca.archive.org/0/items/mbid-5826fabc-7ec2-46b4-b60d-43404329cbac/mbid-5826fabc-7ec2-46b4-b60d-43404329cbac-21435253318_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3d2f20a2-bbc9-4687-99cc-dd1e73ff43dc"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Q2K",
+      "curation": "오늘의 발견",
+      "artist": "퀸스라이크",
+      "year": 1999,
+      "image": "https://dn710805.ca.archive.org/0/items/mbid-03172ee6-c4b2-4871-b34a-df79f335f97b/mbid-03172ee6-c4b2-4871-b34a-df79f335f97b-22229041357_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0c7d6066-a733-3ae2-8f74-2fcc58b73367"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "2gether",
+      "curation": "오늘의 발견",
+      "artist": "씨엔블루",
+      "year": 2015,
+      "image": "https://dn711106.ca.archive.org/0/items/mbid-52688d6d-1dc3-4aec-b01f-8a5e30ee4c93/mbid-52688d6d-1dc3-4aec-b01f-8a5e30ee4c93-11466300264_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/609645e6-3bcf-43de-a6c6-5a25ed4c2bbf"
     }
   ]
 }
