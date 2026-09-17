@@ -112,7 +112,8 @@
     "09-13": 2026,
     "09-14": 2026,
     "09-15": 2026,
-    "09-16": 2026
+    "09-16": 2026,
+    "09-18": 2026
   },
   "08-29": [
     {
@@ -997,6 +998,63 @@
       "year": 2020,
       "image": "https://dn710203.ca.archive.org/0/items/mbid-142d4c16-65d3-4045-aecf-ad15cc617d1d/mbid-142d4c16-65d3-4045-aecf-ad15cc617d1d-26739547464_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/f51049cf-214f-48ef-927b-56ecc20596e1"
+    }
+  ],
+  "09-18": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Celebration",
+      "curation": "오늘의 발견",
+      "artist": "마돈나",
+      "year": 2009,
+      "image": "https://dn710301.ca.archive.org/0/items/mbid-41e4f9f4-c9f6-4a18-800d-8ec8e52a3c92/mbid-41e4f9f4-c9f6-4a18-800d-8ec8e52a3c92-6134403306_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bd252c17-ff32-4369-8e73-4d0a65a316bd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Rise to Power",
+      "curation": "오늘의 발견",
+      "artist": "릭 로스",
+      "year": 2007,
+      "image": "https://dn710700.ca.archive.org/0/items/mbid-f8a1149a-44ea-48d8-b56f-a345ce18631b/mbid-f8a1149a-44ea-48d8-b56f-a345ce18631b-1431976407_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2500c013-a91b-3959-8c94-1a21a9e64f19"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Untitled (Rise)",
+      "curation": "오늘의 발견",
+      "artist": "Sault",
+      "year": 2020,
+      "image": "https://dn721904.ca.archive.org/0/items/mbid-38fb1e77-a96b-4892-ad24-84381aeb2c52/mbid-38fb1e77-a96b-4892-ad24-84381aeb2c52-33182032121_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c24db83b-e929-4dbf-b270-6344a7ea4fea"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Paranoid",
+      "curation": "오늘의 발견",
+      "artist": "블랙 사바스",
+      "year": 1970,
+      "image": "https://dn721204.ca.archive.org/0/items/mbid-188fb66b-2fd9-41a7-8d81-088e20714ad1/mbid-188fb66b-2fd9-41a7-8d81-088e20714ad1-22846264996_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cc053745-c447-3566-8f27-bed5438c9133"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "3마이",
+      "curation": "오늘의 발견",
+      "artist": "싸이",
+      "year": 2002,
+      "image": "https://dn721505.ca.archive.org/0/items/mbid-49ec9e76-29d4-42f5-975c-1a85539bc327/mbid-49ec9e76-29d4-42f5-975c-1a85539bc327-43309665141_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/de380352-70aa-4245-be7d-4f849a804024"
     }
   ]
 }
