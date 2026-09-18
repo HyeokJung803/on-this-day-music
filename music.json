@@ -113,7 +113,8 @@
     "09-14": 2026,
     "09-15": 2026,
     "09-16": 2026,
-    "09-18": 2026
+    "09-18": 2026,
+    "09-19": 2026
   },
   "08-29": [
     {
@@ -1055,6 +1056,63 @@
       "year": 2002,
       "image": "https://dn721505.ca.archive.org/0/items/mbid-49ec9e76-29d4-42f5-975c-1a85539bc327/mbid-49ec9e76-29d4-42f5-975c-1a85539bc327-43309665141_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/de380352-70aa-4245-be7d-4f849a804024"
+    }
+  ],
+  "09-19": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Kylie Minogue",
+      "curation": "오늘의 발견",
+      "artist": "카일리 미노그",
+      "year": 1994,
+      "image": "https://dn710605.ca.archive.org/0/items/mbid-79a81713-13c9-4af8-84dd-3a8e81691f2e/mbid-79a81713-13c9-4af8-84dd-3a8e81691f2e-16775332176_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/665372d2-de13-3ef1-886d-be41fd229ade"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Nothing Was the Same",
+      "curation": "오늘의 발견",
+      "artist": "드레이크",
+      "year": 2013,
+      "image": "https://dn711202.ca.archive.org/0/items/mbid-9e7dd586-814e-4ba7-ab18-5b3e554b38a7/mbid-9e7dd586-814e-4ba7-ab18-5b3e554b38a7-21709902406_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0b6c2da8-ac60-4663-beae-bd3dc6dea94a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Q136352145",
+      "curation": "오늘의 발견",
+      "artist": "레이",
+      "year": 2025,
+      "image": "https://dn710105.ca.archive.org/0/items/mbid-b5d05036-5f6a-43ce-93f4-ab13879a7820/mbid-b5d05036-5f6a-43ce-93f4-ab13879a7820-43076714586_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0b17e3ac-1bf2-4df9-9eef-e12babb3e56f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Doll Domination",
+      "curation": "오늘의 발견",
+      "artist": "푸시캣 돌스",
+      "year": 2008,
+      "image": "https://ia600504.us.archive.org/2/items/mbid-075690ab-8a6f-4da1-b4e4-8723ac46f476/mbid-075690ab-8a6f-4da1-b4e4-8723ac46f476-7661354251_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/930202e7-58d9-3476-b1fa-7c7faf07ec9b"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "키세키·NO.1",
+      "curation": "오늘의 발견",
+      "artist": "보아",
+      "year": 2002,
+      "image": "https://dn710605.ca.archive.org/0/items/mbid-21fe4ebc-b7d5-4ac4-b2e8-04752b9e0145/mbid-21fe4ebc-b7d5-4ac4-b2e8-04752b9e0145-8837763717_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/afa73a96-d134-3a6c-9d75-8bd5ad70e057"
     }
   ]
 }
