@@ -114,7 +114,8 @@
     "09-15": 2026,
     "09-16": 2026,
     "09-18": 2026,
-    "09-19": 2026
+    "09-19": 2026,
+    "09-20": 2026
   },
   "08-29": [
     {
@@ -1113,6 +1114,52 @@
       "year": 2002,
       "image": "https://dn710605.ca.archive.org/0/items/mbid-21fe4ebc-b7d5-4ac4-b2e8-04752b9e0145/mbid-21fe4ebc-b7d5-4ac4-b2e8-04752b9e0145-8837763717_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/afa73a96-d134-3a6c-9d75-8bd5ad70e057"
+    }
+  ],
+  "09-20": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "(You Drive Me) Crazy",
+      "curation": "오늘의 발견",
+      "artist": "브리트니 스피어스",
+      "year": 1999,
+      "image": "https://ia802807.us.archive.org/35/items/mbid-fc1ddab3-e0f4-4c10-8e2e-335ccd43108d/mbid-fc1ddab3-e0f4-4c10-8e2e-335ccd43108d-32145277853_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/50428767-4afb-37c2-9d0c-e8c71cc8d6eb"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Backin' It Up",
+      "curation": "오늘의 발견",
+      "artist": "Klay Thompson",
+      "year": 2018,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-532c568f-135e-4445-928a-13602b1e0a8e/mbid-532c568f-135e-4445-928a-13602b1e0a8e-21431281112_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/edbab585-757c-4035-b6d1-62a37012fc50"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Tormato",
+      "curation": "오늘의 발견",
+      "artist": "예스",
+      "year": 1978,
+      "image": "https://dn710905.ca.archive.org/0/items/mbid-f8413152-cb29-4f2e-84c6-e79a49c0afe7/mbid-f8413152-cb29-4f2e-84c6-e79a49c0afe7-992086020_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bc36d872-1398-3de0-b7f7-30d10714cce1"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Don't Don",
+      "curation": "오늘의 발견",
+      "artist": "슈퍼주니어",
+      "year": 2007,
+      "image": "https://dn711104.ca.archive.org/0/items/mbid-f35bb7c9-1afd-46cc-b323-74796a573d4b/mbid-f35bb7c9-1afd-46cc-b323-74796a573d4b-5234793545_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/662aac9f-46de-3c1e-9aa8-ec4f173cc556"
     }
   ]
 }
