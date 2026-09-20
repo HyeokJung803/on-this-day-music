@@ -115,7 +115,8 @@
     "09-16": 2026,
     "09-18": 2026,
     "09-19": 2026,
-    "09-20": 2026
+    "09-20": 2026,
+    "09-21": 2026
   },
   "08-29": [
     {
@@ -1160,6 +1161,52 @@
       "year": 2007,
       "image": "https://dn711104.ca.archive.org/0/items/mbid-f35bb7c9-1afd-46cc-b323-74796a573d4b/mbid-f35bb7c9-1afd-46cc-b323-74796a573d4b-5234793545_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/662aac9f-46de-3c1e-9aa8-ec4f173cc556"
+    }
+  ],
+  "09-21": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Nothing from Nothing",
+      "curation": "오늘의 발견",
+      "artist": "하마사키 아유미",
+      "year": 1995,
+      "image": "https://dn710804.ca.archive.org/0/items/mbid-49d8c5db-cde2-48bd-a68e-3e70c555138d/mbid-49d8c5db-cde2-48bd-a68e-3e70c555138d-30611046786_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9f7b7e16-ba07-4fb8-8e8a-59a691406220"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Iridescence",
+      "curation": "오늘의 발견",
+      "artist": "Brockhampton",
+      "year": 2018,
+      "image": "https://dn710702.ca.archive.org/0/items/mbid-4384bc25-158d-4750-84f9-1c7b5d44eb8a/mbid-4384bc25-158d-4750-84f9-1c7b5d44eb8a-43581987351_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/54a385ba-1bc0-448a-bc59-b85914355060"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "1989",
+      "curation": "오늘의 발견",
+      "artist": "라이언 애덤스",
+      "year": 2015,
+      "image": "https://dn710301.ca.archive.org/0/items/mbid-3ca45f70-bfc3-4753-ab99-2590532e634a/mbid-3ca45f70-bfc3-4753-ab99-2590532e634a-11557041291_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e73523f8-490b-4a08-a528-e16b3c3ea4af"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Healing Process",
+      "curation": "오늘의 발견",
+      "artist": "넬",
+      "year": 2006,
+      "image": "https://dn710302.ca.archive.org/0/items/mbid-1e056849-1e6e-427f-8bcf-c21c8d76ee21/mbid-1e056849-1e6e-427f-8bcf-c21c8d76ee21-24822499523_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d5eae572-5c80-31a1-b56c-14756ee159df"
     }
   ]
 }
