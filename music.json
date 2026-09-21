@@ -116,7 +116,8 @@
     "09-18": 2026,
     "09-19": 2026,
     "09-20": 2026,
-    "09-21": 2026
+    "09-21": 2026,
+    "09-22": 2026
   },
   "08-29": [
     {
@@ -1207,6 +1208,52 @@
       "year": 2006,
       "image": "https://dn710302.ca.archive.org/0/items/mbid-1e056849-1e6e-427f-8bcf-c21c8d76ee21/mbid-1e056849-1e6e-427f-8bcf-c21c8d76ee21-24822499523_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/d5eae572-5c80-31a1-b56c-14756ee159df"
+    }
+  ],
+  "09-22": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Discipline",
+      "curation": "오늘의 발견",
+      "artist": "킹 크림슨",
+      "year": 1981,
+      "image": "https://dn721908.ca.archive.org/0/items/mbid-f856c4fd-68b6-4edf-a6c2-742e8992f601/mbid-f856c4fd-68b6-4edf-a6c2-742e8992f601-10474809452_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d498c31d-3b72-3748-a142-df0bf774a920"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Double Dutchess",
+      "curation": "오늘의 발견",
+      "artist": "퍼기",
+      "year": 2017,
+      "image": "https://dn711003.ca.archive.org/0/items/mbid-2fc11627-c211-4564-bbdb-23f9120961e0/mbid-2fc11627-c211-4564-bbdb-23f9120961e0-17611572071_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1bb8e24e-042b-47d7-9eea-46895b62f362"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Tomb of the Mutilated",
+      "curation": "오늘의 발견",
+      "artist": "카니발 콥스",
+      "year": 1992,
+      "image": "https://ia600506.us.archive.org/34/items/mbid-6878457f-9bb4-4571-b02b-e5154ad96f6c/mbid-6878457f-9bb4-4571-b02b-e5154ad96f6c-44112048075_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c996f842-dd0d-30e8-af7b-53137dac2209"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Rush Hour",
+      "curation": "오늘의 발견",
+      "artist": "크러쉬",
+      "year": 2022,
+      "image": "https://dn710004.ca.archive.org/0/items/mbid-297e241e-25d3-4de8-bb01-92db07c3d2d7/mbid-297e241e-25d3-4de8-bb01-92db07c3d2d7-33668452704_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a3695cc1-b3af-4d8c-89c4-693f7f6ea3ce"
     }
   ]
 }
