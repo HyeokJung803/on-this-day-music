@@ -117,7 +117,8 @@
     "09-19": 2026,
     "09-20": 2026,
     "09-21": 2026,
-    "09-22": 2026
+    "09-22": 2026,
+    "09-23": 2026
   },
   "08-29": [
     {
@@ -1254,6 +1255,52 @@
       "year": 2022,
       "image": "https://dn710004.ca.archive.org/0/items/mbid-297e241e-25d3-4de8-bb01-92db07c3d2d7/mbid-297e241e-25d3-4de8-bb01-92db07c3d2d7-33668452704_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/a3695cc1-b3af-4d8c-89c4-693f7f6ea3ce"
+    }
+  ],
+  "09-23": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Illuminate",
+      "curation": "오늘의 발견",
+      "artist": "숀 멘데스",
+      "year": 2016,
+      "image": "https://dn711100.ca.archive.org/0/items/mbid-95f26109-a910-48b6-9737-cac05a60ff4b/mbid-95f26109-a910-48b6-9737-cac05a60ff4b-20405344882_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3d59017f-bb26-4095-8a78-c9d372cc64f4"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Speakerboxxx/The Love Below",
+      "curation": "오늘의 발견",
+      "artist": "아웃캐스트",
+      "year": 2003,
+      "image": "https://dn720803.ca.archive.org/0/items/mbid-50c273d5-2f92-340a-adc2-178d5adaab63/mbid-50c273d5-2f92-340a-adc2-178d5adaab63-4765243287_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/fa64febd-61e0-346e-aaa2-04564ed4f0a3"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Don't Forget",
+      "curation": "오늘의 발견",
+      "artist": "데미 로바토",
+      "year": 2008,
+      "image": "https://dn721807.ca.archive.org/0/items/mbid-ffe80972-935d-49ce-ada7-657b22240331/mbid-ffe80972-935d-49ce-ada7-657b22240331-38644559458_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0951cb3a-ca42-32d8-9ac2-648abb608636"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Lost and Found (아이유의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "아이유",
+      "year": 2008,
+      "image": "https://dn721607.ca.archive.org/0/items/mbid-dd6ee1d6-72a5-4ca0-aca1-0ed13d38000f/mbid-dd6ee1d6-72a5-4ca0-aca1-0ed13d38000f-37905525317_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/28dd6579-fb82-37d0-b2e1-3512d929f62d"
     }
   ]
 }
