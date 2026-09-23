@@ -118,7 +118,8 @@
     "09-20": 2026,
     "09-21": 2026,
     "09-22": 2026,
-    "09-23": 2026
+    "09-23": 2026,
+    "09-24": 2026
   },
   "08-29": [
     {
@@ -1301,6 +1302,63 @@
       "year": 2008,
       "image": "https://dn721607.ca.archive.org/0/items/mbid-dd6ee1d6-72a5-4ca0-aca1-0ed13d38000f/mbid-dd6ee1d6-72a5-4ca0-aca1-0ed13d38000f-37905525317_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/28dd6579-fb82-37d0-b2e1-3512d929f62d"
+    }
+  ],
+  "09-24": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Some Great Reward",
+      "curation": "오늘의 발견",
+      "artist": "디페쉬 모드",
+      "year": 1984,
+      "image": "https://dn711004.ca.archive.org/0/items/mbid-3e3a9c1d-aee4-4f73-9376-fbe70e8366d8/mbid-3e3a9c1d-aee4-4f73-9376-fbe70e8366d8-9000459494_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b3100982-db15-3a4b-a3ed-363c91cb40de"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Universal Soldier",
+      "curation": "오늘의 발견",
+      "artist": "Pastor Troy",
+      "year": 2002,
+      "image": "https://dn711302.ca.archive.org/0/items/mbid-ef081c95-23fc-4f40-9c92-eec6ccd61148/mbid-ef081c95-23fc-4f40-9c92-eec6ccd61148-17269005454_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/96f28c2f-d1e3-3e1c-990d-da44aa148d7d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Hymns to the Silence",
+      "curation": "오늘의 발견",
+      "artist": "밴 모리슨",
+      "year": 1991,
+      "image": "https://dn710809.ca.archive.org/0/items/mbid-0f9b0535-e27d-3e71-8495-6b7f2b49e226/mbid-0f9b0535-e27d-3e71-8495-6b7f2b49e226-38859158390_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ecb25d37-c12d-32a7-871c-573d0f5b39ed"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Nevermind",
+      "curation": "오늘의 발견",
+      "artist": "너바나",
+      "year": 1991,
+      "image": "https://dn721803.ca.archive.org/0/items/mbid-c771f7fc-9e62-4349-a2e3-ceaf7122bf5b/mbid-c771f7fc-9e62-4349-a2e3-ceaf7122bf5b-30501372565_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1b022e01-4da6-387b-8658-8678046e4cef"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Crazy in Love",
+      "curation": "오늘의 발견",
+      "artist": "ITZY",
+      "year": 2021,
+      "image": "https://dn710206.ca.archive.org/0/items/mbid-71ec3353-d3d3-4b8d-9146-0ca8c4b2610c/mbid-71ec3353-d3d3-4b8d-9146-0ca8c4b2610c-35862176692_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/523e8cfb-845c-4b6e-bc7b-e9fff61e935f"
     }
   ]
 }
