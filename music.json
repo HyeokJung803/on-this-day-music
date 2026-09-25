@@ -120,7 +120,8 @@
     "09-22": 2026,
     "09-23": 2026,
     "09-24": 2026,
-    "09-25": 2026
+    "09-25": 2026,
+    "09-26": 2026
   },
   "08-29": [
     {
@@ -1417,6 +1418,63 @@
       "year": 2013,
       "image": "https://dn710607.ca.archive.org/0/items/mbid-bbbcafc3-8d74-4d72-a1e2-b03331695247/mbid-bbbcafc3-8d74-4d72-a1e2-b03331695247-9672004422_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/433321bc-5645-449b-9a66-cf4371177761"
+    }
+  ],
+  "09-26": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Protection (매시브 어택의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "매시브 어택",
+      "year": 1994,
+      "image": "https://ia800801.us.archive.org/13/items/mbid-50d1ca93-f6ef-4692-b18d-3e3cc29aba1e/mbid-50d1ca93-f6ef-4692-b18d-3e3cc29aba1e-19647449808_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ded46e46-788d-3c1f-b21b-9f5e9c37b1bc"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Beware of Dog",
+      "curation": "오늘의 발견",
+      "artist": "바우 와우",
+      "year": 2000,
+      "image": "https://ia601409.us.archive.org/19/items/mbid-2a10b67f-6767-4d20-b0f0-6c6db54f8974/mbid-2a10b67f-6767-4d20-b0f0-6c6db54f8974-32287214668_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cf380f5e-a6ee-3e86-b2b5-f345c87960dd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Art of Loving",
+      "curation": "오늘의 발견",
+      "artist": "올리비아 딘",
+      "year": 2025,
+      "image": "https://dn720704.ca.archive.org/0/items/mbid-42a30aa1-ba82-4177-ae5e-9c7b93f035f2/mbid-42a30aa1-ba82-4177-ae5e-9c7b93f035f2-42146262402_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/35eae658-4243-4bf5-91d6-5a391bbb3699"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Abbey Road",
+      "curation": "오늘의 발견",
+      "artist": "비틀즈",
+      "year": 1969,
+      "image": "https://dn721702.ca.archive.org/0/items/mbid-31765b9f-e969-4257-855f-c7ea1f657b2a/mbid-31765b9f-e969-4257-855f-c7ea1f657b2a-39706767821_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9162580e-5df4-32de-80cc-f45a8d8a9b1d"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Pink Revolution",
+      "curation": "오늘의 발견",
+      "artist": "에이핑크",
+      "year": 2016,
+      "image": "https://dn721604.ca.archive.org/0/items/mbid-a882055f-d717-4da4-90cf-7e8186434361/mbid-a882055f-d717-4da4-90cf-7e8186434361-38954454124_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8de9387b-0801-4ad1-9192-083bda1ca285"
     }
   ]
 }
