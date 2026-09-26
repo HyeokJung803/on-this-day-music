@@ -121,7 +121,8 @@
     "09-23": 2026,
     "09-24": 2026,
     "09-25": 2026,
-    "09-26": 2026
+    "09-26": 2026,
+    "09-27": 2026
   },
   "08-29": [
     {
@@ -1475,6 +1476,63 @@
       "year": 2016,
       "image": "https://dn721604.ca.archive.org/0/items/mbid-a882055f-d717-4da4-90cf-7e8186434361/mbid-a882055f-d717-4da4-90cf-7e8186434361-38954454124_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/8de9387b-0801-4ad1-9192-083bda1ca285"
+    }
+  ],
+  "09-27": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Shallow",
+      "curation": "오늘의 발견",
+      "artist": "브래들리 쿠퍼",
+      "year": 2018,
+      "image": "https://dn710700.ca.archive.org/0/items/mbid-fe5944f9-293a-46b1-b7e2-73df7df989d1/mbid-fe5944f9-293a-46b1-b7e2-73df7df989d1-21126051060_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a8dbba8b-0c37-4352-8e88-0c5a01e1fe0c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "I Am Not a Human Being",
+      "curation": "오늘의 발견",
+      "artist": "릴 웨인",
+      "year": 2010,
+      "image": "https://dn710704.ca.archive.org/0/items/mbid-a106cbf0-a97d-49f8-ba46-c3f5dde09af0/mbid-a106cbf0-a97d-49f8-ba46-c3f5dde09af0-3029020394_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/99cd8f1a-86ef-46d9-811b-731ec9b90829"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "It Will Rain",
+      "curation": "오늘의 발견",
+      "artist": "브루노 마스",
+      "year": 2011,
+      "image": "https://dn710602.ca.archive.org/0/items/mbid-a679eb1e-47c2-4575-b60e-fdb1070ec3ab/mbid-a679eb1e-47c2-4575-b60e-fdb1070ec3ab-14830957681_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c7d49dc4-e9ad-4f94-9e0b-909e537e9532"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Reise, Reise",
+      "curation": "오늘의 발견",
+      "artist": "람슈타인",
+      "year": 2004,
+      "image": "https://dn721608.ca.archive.org/0/items/mbid-3f4b9d54-08dd-427a-9166-10f03f8ccdf4/mbid-3f4b9d54-08dd-427a-9166-10f03f8ccdf4-32810041398_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ea9bf147-abbd-39df-b927-46fc945a5140"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Flight Log: Turbulence",
+      "curation": "오늘의 발견",
+      "artist": "GOT7",
+      "year": 2016,
+      "image": "https://ia903205.us.archive.org/19/items/mbid-472fb145-651a-42cf-9b91-eb726f0eed4f/mbid-472fb145-651a-42cf-9b91-eb726f0eed4f-18409733996_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/848d5d86-869b-432a-976e-ffd86d2ae508"
     }
   ]
 }
