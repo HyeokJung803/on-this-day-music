@@ -122,7 +122,8 @@
     "09-24": 2026,
     "09-25": 2026,
     "09-26": 2026,
-    "09-27": 2026
+    "09-27": 2026,
+    "09-28": 2026
   },
   "08-29": [
     {
@@ -1533,6 +1534,63 @@
       "year": 2016,
       "image": "https://ia903205.us.archive.org/19/items/mbid-472fb145-651a-42cf-9b91-eb726f0eed4f/mbid-472fb145-651a-42cf-9b91-eb726f0eed4f-18409733996_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/848d5d86-869b-432a-976e-ffd86d2ae508"
+    }
+  ],
+  "09-28": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Music for the Masses",
+      "curation": "오늘의 발견",
+      "artist": "디페쉬 모드",
+      "year": 1987,
+      "image": "https://dn711101.ca.archive.org/0/items/mbid-8d059e75-d9bb-4d90-97a9-1cb6ed7472c6/mbid-8d059e75-d9bb-4d90-97a9-1cb6ed7472c6-9552817368_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e59021bd-1710-3c13-9449-b78560039592"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Aquemini",
+      "curation": "오늘의 발견",
+      "artist": "아웃캐스트",
+      "year": 1998,
+      "image": "https://dn710806.ca.archive.org/0/items/mbid-63f4592c-6f58-32bb-bd9f-a431dc14e04d/mbid-63f4592c-6f58-32bb-bd9f-a431dc14e04d-6640977411_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/eb655897-6cc5-3fc1-b9ed-5008eb80c682"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "It's About Time",
+      "curation": "오늘의 발견",
+      "artist": "나일 로저스",
+      "year": 2018,
+      "image": "https://ia802805.us.archive.org/26/items/mbid-dda013a5-ce8d-4b50-b936-15994607376e/mbid-dda013a5-ce8d-4b50-b936-15994607376e-25321612948_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a656e34b-7237-43e6-93c4-9d3972e3eb8e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Never Say Die!",
+      "curation": "오늘의 발견",
+      "artist": "블랙 사바스",
+      "year": 1978,
+      "image": "https://dn710902.ca.archive.org/0/items/mbid-61d2bd48-af48-4bfa-9f1d-7843d1f61aaa/mbid-61d2bd48-af48-4bfa-9f1d-7843d1f61aaa-1641063247_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/eb8c8e6c-b554-31d3-bae0-1c4ea64336d0"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "BigBang Is V.I.P",
+      "curation": "오늘의 발견",
+      "artist": "빅뱅",
+      "year": 2006,
+      "image": "https://ia801502.us.archive.org/3/items/mbid-fdacb030-fdf6-4ff1-9fe5-4a7528c33879/mbid-fdacb030-fdf6-4ff1-9fe5-4a7528c33879-3436001484_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/df90223d-878a-37a5-b100-b84feebd552e"
     }
   ]
 }
