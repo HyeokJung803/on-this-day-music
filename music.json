@@ -123,7 +123,8 @@
     "09-25": 2026,
     "09-26": 2026,
     "09-27": 2026,
-    "09-28": 2026
+    "09-28": 2026,
+    "09-29": 2026
   },
   "08-29": [
     {
@@ -1591,6 +1592,52 @@
       "year": 2006,
       "image": "https://ia801502.us.archive.org/3/items/mbid-fdacb030-fdf6-4ff1-9fe5-4a7528c33879/mbid-fdacb030-fdf6-4ff1-9fe5-4a7528c33879-3436001484_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/df90223d-878a-37a5-b100-b84feebd552e"
+    }
+  ],
+  "09-29": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Memoirs of an Imperfect Angel",
+      "curation": "오늘의 발견",
+      "artist": "머라이어 캐리",
+      "year": 2009,
+      "image": "https://dn710601.ca.archive.org/0/items/mbid-604073e4-3646-41be-8c6c-12a531c14b6d/mbid-604073e4-3646-41be-8c6c-12a531c14b6d-20525290470_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/57696575-b91f-45d1-ac7a-f2c80185b22a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "L.A. Love (La La)",
+      "curation": "오늘의 발견",
+      "artist": "퍼기",
+      "year": 2014,
+      "image": "https://dn710809.ca.archive.org/0/items/mbid-f8c441fa-15e9-4a88-b4be-1f71d6e75566/mbid-f8c441fa-15e9-4a88-b4be-1f71d6e75566-8716026578_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f29e091d-6a6e-434e-a1f1-f6d0fa1dfc6d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "The Uplift Mofo Party Plan",
+      "curation": "오늘의 발견",
+      "artist": "레드 핫 칠리 페퍼스",
+      "year": 1987,
+      "image": "https://dn721605.ca.archive.org/0/items/mbid-ea483030-7be5-4c03-9356-0ad06accb9b1/mbid-ea483030-7be5-4c03-9356-0ad06accb9b1-35017139283_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5d5601d8-9dda-381b-88ed-81bc299a9b2f"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "FRI.SAT.SUN",
+      "curation": "오늘의 발견",
+      "artist": "달샤벳",
+      "year": 2016,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-6f968c42-5a5d-4023-a7b6-ddd2ea768107/mbid-6f968c42-5a5d-4023-a7b6-ddd2ea768107-14698228817_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3cdc5346-7bfd-4096-b884-abb2fd58b070"
     }
   ]
 }
