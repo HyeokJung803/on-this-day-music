@@ -124,7 +124,8 @@
     "09-26": 2026,
     "09-27": 2026,
     "09-28": 2026,
-    "09-29": 2026
+    "09-29": 2026,
+    "09-30": 2026
   },
   "08-29": [
     {
@@ -1638,6 +1639,63 @@
       "year": 2016,
       "image": "https://dn710709.ca.archive.org/0/items/mbid-6f968c42-5a5d-4023-a7b6-ddd2ea768107/mbid-6f968c42-5a5d-4023-a7b6-ddd2ea768107-14698228817_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/3cdc5346-7bfd-4096-b884-abb2fd58b070"
+    }
+  ],
+  "09-30": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Criminal",
+      "curation": "오늘의 발견",
+      "artist": "브리트니 스피어스",
+      "year": 2011,
+      "image": "https://dn711000.ca.archive.org/0/items/mbid-a6bb6edb-c7d9-41c0-bfc5-6435a6f1d984/mbid-a6bb6edb-c7d9-41c0-bfc5-6435a6f1d984-12112027167_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cea67a92-db08-4950-bdc6-6d52fc622243"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Entergalactic",
+      "curation": "오늘의 발견",
+      "artist": "키드 커디",
+      "year": 2022,
+      "image": "https://dn710109.ca.archive.org/0/items/mbid-4df5b4c5-82db-4b20-994b-0b4fe32574f4/mbid-4df5b4c5-82db-4b20-994b-0b4fe32574f4-33701610241_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6b074b0a-105c-4a74-9647-73a0c123355c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "A Seat at the Table",
+      "curation": "오늘의 발견",
+      "artist": "솔란지 놀스",
+      "year": 2016,
+      "image": "https://dn710907.ca.archive.org/0/items/mbid-3e3c90cd-0c0c-4beb-8f7b-b95a076c89eb/mbid-3e3c90cd-0c0c-4beb-8f7b-b95a076c89eb-14763601258_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/331a7ba1-fae2-4881-b434-554f46c13746"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "The End, So Far",
+      "curation": "오늘의 발견",
+      "artist": "슬립낫",
+      "year": 2022,
+      "image": "https://dn721906.ca.archive.org/0/items/mbid-1c623cf0-722c-4d21-816d-4af47a00903f/mbid-1c623cf0-722c-4d21-816d-4af47a00903f-33193963598_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3a2b2278-3e35-44c5-a1c2-f71bc59226a1"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Let's Get It On",
+      "curation": "오늘의 발견",
+      "artist": "동해 & 은혁",
+      "year": 2015,
+      "image": "https://dn711202.ca.archive.org/0/items/mbid-4953af0b-4915-4687-b632-4a1d21d87838/mbid-4953af0b-4915-4687-b632-4a1d21d87838-20943700338_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0c5e3e6f-ea41-45a0-8bb9-173281ffa276"
     }
   ]
 }
