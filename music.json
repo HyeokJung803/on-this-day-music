@@ -125,7 +125,8 @@
     "09-27": 2026,
     "09-28": 2026,
     "09-29": 2026,
-    "09-30": 2026
+    "09-30": 2026,
+    "10-01": 2026
   },
   "08-29": [
     {
@@ -1696,6 +1697,52 @@
       "year": 2015,
       "image": "https://dn711202.ca.archive.org/0/items/mbid-4953af0b-4915-4687-b632-4a1d21d87838/mbid-4953af0b-4915-4687-b632-4a1d21d87838-20943700338_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/0c5e3e6f-ea41-45a0-8bb9-173281ffa276"
+    }
+  ],
+  "10-01": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Fever",
+      "curation": "오늘의 발견",
+      "artist": "카일리 미노그",
+      "year": 2001,
+      "image": "https://dn721501.ca.archive.org/0/items/mbid-8d3e2f07-e3f4-4c41-942a-54b59a812b1b/mbid-8d3e2f07-e3f4-4c41-942a-54b59a812b1b-13226700705_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d691b0b0-33c2-393a-bc63-dbb681ee662c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Original Soul of Michael Jackson",
+      "curation": "오늘의 발견",
+      "artist": "마이클 잭슨",
+      "year": 1987,
+      "image": "https://ia803105.us.archive.org/19/items/mbid-9b263a9e-2b8b-411e-84c1-6e21f002d10c/mbid-9b263a9e-2b8b-411e-84c1-6e21f002d10c-45591985227_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/30abac22-0c88-3340-b955-61dd3be73c55"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "The Unforgettable Fire",
+      "curation": "오늘의 발견",
+      "artist": "U2",
+      "year": 1984,
+      "image": "https://dn721904.ca.archive.org/0/items/mbid-20fffa13-4505-45d9-995a-7d9d50cc7ebd/mbid-20fffa13-4505-45d9-995a-7d9d50cc7ebd-38620343994_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c84d00f4-afd3-3184-be62-6ae5f135aa38"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "The Feels",
+      "curation": "오늘의 발견",
+      "artist": "트와이스",
+      "year": 2021,
+      "image": "https://ia800603.us.archive.org/8/items/mbid-c297c8fb-007d-4f6a-ae80-13eb06b824db/mbid-c297c8fb-007d-4f6a-ae80-13eb06b824db-37581719376_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b4407680-0a70-4da6-8144-7a139865b1c5"
     }
   ]
 }
