@@ -126,7 +126,8 @@
     "09-28": 2026,
     "09-29": 2026,
     "09-30": 2026,
-    "10-01": 2026
+    "10-01": 2026,
+    "10-02": 2026
   },
   "08-29": [
     {
@@ -1743,6 +1744,63 @@
       "year": 2021,
       "image": "https://ia800603.us.archive.org/8/items/mbid-c297c8fb-007d-4f6a-ae80-13eb06b824db/mbid-c297c8fb-007d-4f6a-ae80-13eb06b824db-37581719376_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/b4407680-0a70-4da6-8144-7a139865b1c5"
+    }
+  ],
+  "10-02": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Unbreakable (재닛 잭슨의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "재닛 잭슨",
+      "year": 2015,
+      "image": "https://dn710803.ca.archive.org/0/items/mbid-e247066d-8fbe-4d5e-befa-3c910a14559d/mbid-e247066d-8fbe-4d5e-befa-3c910a14559d-19326007628_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5297d7a8-56f3-4e47-b136-c087d7d619b1"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Savage Mode II",
+      "curation": "오늘의 발견",
+      "artist": "메트로 붐인",
+      "year": 2020,
+      "image": "https://dn721606.ca.archive.org/0/items/mbid-3dbe18f8-925d-477d-b4bd-ed81b8adfc4d/mbid-3dbe18f8-925d-477d-b4bd-ed81b8adfc4d-27420314000_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1bbe14c5-a321-40bf-853c-f00063d78881"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Rarities",
+      "curation": "오늘의 발견",
+      "artist": "머라이어 캐리",
+      "year": 2020,
+      "image": "https://dn721608.ca.archive.org/0/items/mbid-6ec184a5-822d-4734-b4eb-ec3576bc7598/mbid-6ec184a5-822d-4734-b4eb-ec3576bc7598-27059347809_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/25407fe7-9599-46e4-95be-f82bc22b77ad"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "(What's the Story) Morning Glory?",
+      "curation": "오늘의 발견",
+      "artist": "오아시스",
+      "year": 1995,
+      "image": "https://dn710200.ca.archive.org/0/items/mbid-ed286309-6e64-48e3-835b-61aaf86cdb86/mbid-ed286309-6e64-48e3-835b-61aaf86cdb86-39250165476_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cc7e6348-cc55-31fa-aeb2-748a46a81cb3"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "The Album",
+      "curation": "오늘의 발견",
+      "artist": "블랙핑크",
+      "year": 2020,
+      "image": "https://dn710002.ca.archive.org/0/items/mbid-6f673878-edde-46ac-82fd-0c198302d6f4/mbid-6f673878-edde-46ac-82fd-0c198302d6f4-27413237641_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8240b45e-5e5c-4c47-a96c-0a0d2c556c08"
     }
   ]
 }
