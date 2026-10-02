@@ -127,7 +127,8 @@
     "09-29": 2026,
     "09-30": 2026,
     "10-01": 2026,
-    "10-02": 2026
+    "10-02": 2026,
+    "10-03": 2026
   },
   "08-29": [
     {
@@ -1801,6 +1802,63 @@
       "year": 2020,
       "image": "https://dn710002.ca.archive.org/0/items/mbid-6f673878-edde-46ac-82fd-0c198302d6f4/mbid-6f673878-edde-46ac-82fd-0c198302d6f4-27413237641_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/8240b45e-5e5c-4c47-a96c-0a0d2c556c08"
+    }
+  ],
+  "10-03": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "The Life of a Showgirl",
+      "curation": "오늘의 발견",
+      "artist": "테일러 스위프트",
+      "year": 2025,
+      "image": "https://dn710100.ca.archive.org/0/items/mbid-c6f36737-e382-4754-960d-fcc746e973a1/mbid-c6f36737-e382-4754-960d-fcc746e973a1-43009973169_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9ae7e7e9-ac40-4874-bd43-d77a9bb9b617"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Last of a Dying Breed",
+      "curation": "오늘의 발견",
+      "artist": "스카페이스",
+      "year": 2000,
+      "image": "https://dn710906.ca.archive.org/0/items/mbid-2daf9190-2e10-47a5-90ed-daa805e8f399/mbid-2daf9190-2e10-47a5-90ed-daa805e8f399-18892758809_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3718ceb7-57b4-39c3-949b-3fa11139c87d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Say Say Say",
+      "curation": "오늘의 발견",
+      "artist": "폴 매카트니",
+      "year": 1983,
+      "image": "https://dn721605.ca.archive.org/0/items/mbid-3cebec11-8e0d-4910-b301-0523fddd8b5f/mbid-3cebec11-8e0d-4910-b301-0523fddd8b5f-36404113419_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9f331029-840f-46f8-8c80-bd01def11224"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Genesis",
+      "curation": "오늘의 발견",
+      "artist": "제네시스",
+      "year": 1983,
+      "image": "https://dn711004.ca.archive.org/0/items/mbid-72ce18dd-f6fc-449b-b542-2abc5d56e548/mbid-72ce18dd-f6fc-449b-b542-2abc5d56e548-1255895325_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/48bb31b2-1b07-38ec-9ef2-3bb52c1f9411"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "I am A Dreamer",
+      "curation": "오늘의 발견",
+      "artist": "박효신",
+      "year": 2016,
+      "image": "https://dn710602.ca.archive.org/0/items/mbid-17daa050-2fb7-4ef4-a768-e684c9b591c0/mbid-17daa050-2fb7-4ef4-a768-e684c9b591c0-14796407798_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d349884a-3a1d-4dff-9c07-181a3e09ef41"
     }
   ]
 }
