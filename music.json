@@ -129,7 +129,8 @@
     "10-01": 2026,
     "10-02": 2026,
     "10-03": 2026,
-    "10-04": 2026
+    "10-04": 2026,
+    "10-05": 2026
   },
   "08-29": [
     {
@@ -1906,6 +1907,63 @@
       "year": 2010,
       "image": "https://dn721803.ca.archive.org/0/items/mbid-3d2b148e-8c0a-42b6-baae-c3ee7322a569/mbid-3d2b148e-8c0a-42b6-baae-c3ee7322a569-998580956_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/b3d1fbf7-dd1c-4119-a16e-58c2feb5bcb0"
+    }
+  ],
+  "10-05": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Speak & Spell",
+      "curation": "오늘의 발견",
+      "artist": "디페쉬 모드",
+      "year": 1981,
+      "image": "https://dn721902.ca.archive.org/0/items/mbid-f1a3f01c-77e9-40f0-904c-6728330ec57c/mbid-f1a3f01c-77e9-40f0-904c-6728330ec57c-8343767175_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7a0e0366-91f4-3444-b45a-83b158004165"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Trench",
+      "curation": "오늘의 발견",
+      "artist": "트웬티 원 파일럿츠",
+      "year": 2018,
+      "image": "https://dn721506.ca.archive.org/0/items/mbid-05c67876-38cc-4297-ad2b-754247d2ab83/mbid-05c67876-38cc-4297-ad2b-754247d2ab83-20765385479_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b2460e22-8948-441a-b894-f031b57d4231"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Trouble",
+      "curation": "오늘의 발견",
+      "artist": "리오나 루이스",
+      "year": 2012,
+      "image": "https://dn711005.ca.archive.org/0/items/mbid-083a139c-9bab-4398-be77-4fdb1a6ad112/mbid-083a139c-9bab-4398-be77-4fdb1a6ad112-2960834377_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8c7e183e-54be-447d-ba40-50721607618b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Led Zeppelin III",
+      "curation": "오늘의 발견",
+      "artist": "레드 제플린",
+      "year": 1970,
+      "image": "https://dn710700.ca.archive.org/0/items/mbid-7aadcfa2-df82-480e-8d2d-7ec4d0b41172/mbid-7aadcfa2-df82-480e-8d2d-7ec4d0b41172-1287533205_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/53f80f76-f8af-3558-bfd5-e7221e055c75"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Feeling Sensation",
+      "curation": "오늘의 발견",
+      "artist": "SF9",
+      "year": 2016,
+      "image": "https://dn711203.ca.archive.org/0/items/mbid-d86255c8-a82b-4a9c-9b0e-38ce49d2eabb/mbid-d86255c8-a82b-4a9c-9b0e-38ce49d2eabb-40923422599_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a86ef200-d814-413e-8105-ba735d0bdbca"
     }
   ]
 }
