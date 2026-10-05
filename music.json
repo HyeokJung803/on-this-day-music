@@ -130,7 +130,8 @@
     "10-02": 2026,
     "10-03": 2026,
     "10-04": 2026,
-    "10-05": 2026
+    "10-05": 2026,
+    "10-06": 2026
   },
   "08-29": [
     {
@@ -1964,6 +1965,63 @@
       "year": 2016,
       "image": "https://dn711203.ca.archive.org/0/items/mbid-d86255c8-a82b-4a9c-9b0e-38ce49d2eabb/mbid-d86255c8-a82b-4a9c-9b0e-38ce49d2eabb-40923422599_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/a86ef200-d814-413e-8105-ba735d0bdbca"
+    }
+  ],
+  "10-06": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Pies Descalzos",
+      "curation": "오늘의 발견",
+      "artist": "샤키라",
+      "year": 1995,
+      "image": "https://dn710106.ca.archive.org/0/items/mbid-35f5fb77-847b-462b-800f-2daae771ba3c/mbid-35f5fb77-847b-462b-800f-2daae771ba3c-40577889777_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/4d0871d0-918e-36b3-a4b1-b6232f5d43d1"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Lil Pump",
+      "curation": "오늘의 발견",
+      "artist": "릴 펌",
+      "year": 2017,
+      "image": "https://dn710705.ca.archive.org/0/items/mbid-548f26e3-9578-49bf-bdfa-27d93a022be7/mbid-548f26e3-9578-49bf-bdfa-27d93a022be7-18269661999_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c3b4e6c6-4bcb-40c9-8cc6-640ae623bb56"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Admirável Chip Novo (Re)Ativado",
+      "curation": "오늘의 발견",
+      "artist": "Pitty",
+      "year": 2023,
+      "image": "https://dn710206.ca.archive.org/0/items/mbid-a4612bce-db8e-4931-adb5-71531d0978ce/mbid-a4612bce-db8e-4931-adb5-71531d0978ce-36909712422_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/964e2822-ddcf-415d-a699-fb2b08a231ea"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Heaven Upside Down",
+      "curation": "오늘의 발견",
+      "artist": "메릴린 맨슨",
+      "year": 2017,
+      "image": "https://ia600802.us.archive.org/16/items/mbid-3906ae75-43cb-4d6e-815a-8e1379b0afe0/mbid-3906ae75-43cb-4d6e-815a-8e1379b0afe0-17942786279_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7000fa0a-81eb-4238-af55-916e774b03a2"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Fact Check",
+      "curation": "오늘의 발견",
+      "artist": "NCT 127",
+      "year": 2023,
+      "image": "https://dn710007.ca.archive.org/0/items/mbid-0e64f6ad-6a50-4e09-a2a6-6574b63a2464/mbid-0e64f6ad-6a50-4e09-a2a6-6574b63a2464-36907527750_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/29def30b-0fda-4c0c-b02f-f7b895959354"
     }
   ]
 }
