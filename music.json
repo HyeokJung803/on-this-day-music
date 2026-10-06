@@ -131,7 +131,8 @@
     "10-03": 2026,
     "10-04": 2026,
     "10-05": 2026,
-    "10-06": 2026
+    "10-06": 2026,
+    "10-07": 2026
   },
   "08-29": [
     {
@@ -2022,6 +2023,63 @@
       "year": 2023,
       "image": "https://dn710007.ca.archive.org/0/items/mbid-0e64f6ad-6a50-4e09-a2a6-6574b63a2464/mbid-0e64f6ad-6a50-4e09-a2a6-6574b63a2464-36907527750_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/29def30b-0fda-4c0c-b02f-f7b895959354"
+    }
+  ],
+  "10-07": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Benzin",
+      "curation": "오늘의 발견",
+      "artist": "람슈타인",
+      "year": 2005,
+      "image": "https://dn710802.ca.archive.org/0/items/mbid-efcde22d-38d5-454b-96ab-1fa527c28dcd/mbid-efcde22d-38d5-454b-96ab-1fa527c28dcd-22997709133_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/975442f0-f879-3d42-9591-cd46722c69db"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "My Name Is My Name",
+      "curation": "오늘의 발견",
+      "artist": "푸샤 T",
+      "year": 2013,
+      "image": "https://ia800101.us.archive.org/19/items/mbid-cf929478-629a-46dd-bf95-2c6b9c8d38f3/mbid-cf929478-629a-46dd-bf95-2c6b9c8d38f3-40048455424_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1e39598e-63de-4232-a5dc-555834ca7f2f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Coping Mechanism",
+      "curation": "오늘의 발견",
+      "artist": "윌로 스미스",
+      "year": 2022,
+      "image": "https://dn710000.ca.archive.org/0/items/mbid-e1d28291-8f31-49c1-b544-32b58f9ef0cf/mbid-e1d28291-8f31-49c1-b544-32b58f9ef0cf-33885936576_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8448bf09-668c-4c19-8160-e27619f8546d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Reign in Blood",
+      "curation": "오늘의 발견",
+      "artist": "슬레이어",
+      "year": 1986,
+      "image": "https://dn710303.ca.archive.org/0/items/mbid-e80dcb10-f532-4da1-9458-afd541e4a9ea/mbid-e80dcb10-f532-4da1-9458-afd541e4a9ea-13385966224_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/dbf1b3c0-1efb-4e5f-9fe1-4c42b144aa24"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Chocolate Love",
+      "curation": "오늘의 발견",
+      "artist": "f(x)",
+      "year": 2009,
+      "image": "https://dn710605.ca.archive.org/0/items/mbid-dcb23551-704d-4f23-9b6d-e83bd9112a7f/mbid-dcb23551-704d-4f23-9b6d-e83bd9112a7f-4737793802_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/02c8b51b-b9f8-454f-834c-2ab1bf5445d8"
     }
   ]
 }
