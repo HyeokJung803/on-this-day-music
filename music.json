@@ -132,7 +132,8 @@
     "10-04": 2026,
     "10-05": 2026,
     "10-06": 2026,
-    "10-07": 2026
+    "10-07": 2026,
+    "10-08": 2026
   },
   "08-29": [
     {
@@ -2080,6 +2081,63 @@
       "year": 2009,
       "image": "https://dn710605.ca.archive.org/0/items/mbid-dcb23551-704d-4f23-9b6d-e83bd9112a7f/mbid-dcb23551-704d-4f23-9b6d-e83bd9112a7f-4737793802_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/02c8b51b-b9f8-454f-834c-2ab1bf5445d8"
+    }
+  ],
+  "10-08": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "If I Were a Boy",
+      "curation": "오늘의 발견",
+      "artist": "BC Jean",
+      "year": 2008,
+      "image": "https://dn710200.ca.archive.org/0/items/mbid-9be700d4-4243-3f28-a588-2896ebf35a53/mbid-9be700d4-4243-3f28-a588-2896ebf35a53-35707878449_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/86ac9e29-f94d-31f4-921e-fad9c8693a53"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Life of a Don",
+      "curation": "오늘의 발견",
+      "artist": "돈 톨리버",
+      "year": 2021,
+      "image": "https://dn710209.ca.archive.org/0/items/mbid-39ab8f33-1206-4f5a-a87e-77c268b04fd0/mbid-39ab8f33-1206-4f5a-a87e-77c268b04fd0-30615246541_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/180c2861-089c-418b-b54a-a3228386fd2c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Put Me in Your Mix",
+      "curation": "오늘의 발견",
+      "artist": "배리 화이트",
+      "year": 1991,
+      "image": "https://ia800608.us.archive.org/9/items/mbid-2b83b338-a8c3-4056-a478-96661ce92391/mbid-2b83b338-a8c3-4056-a478-96661ce92391-13938923375_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5e718ac5-d245-3589-8276-e319216f3eba"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Antichrist Superstar",
+      "curation": "오늘의 발견",
+      "artist": "메릴린 맨슨",
+      "year": 1996,
+      "image": "https://dn721509.ca.archive.org/0/items/mbid-807ccf9e-0d14-4f5e-ab09-ae944fdf58a8/mbid-807ccf9e-0d14-4f5e-ab09-ae944fdf58a8-21167273304_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6cb17389-101a-3f0a-8864-bea548465406"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "NEW RULES",
+      "curation": "오늘의 발견",
+      "artist": "위키미키",
+      "year": 2020,
+      "image": "https://dn710201.ca.archive.org/0/items/mbid-809c5c49-4e42-41b6-af72-f03ab115d86c/mbid-809c5c49-4e42-41b6-af72-f03ab115d86c-27465602591_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/40dd5008-48c0-48e4-9196-e4f9bcd159a8"
     }
   ]
 }
