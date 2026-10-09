@@ -134,7 +134,8 @@
     "10-06": 2026,
     "10-07": 2026,
     "10-08": 2026,
-    "10-09": 2026
+    "10-09": 2026,
+    "10-10": 2026
   },
   "08-29": [
     {
@@ -2196,6 +2197,52 @@
       "year": 2009,
       "image": "https://dn710609.ca.archive.org/0/items/mbid-d61ae9cd-ceef-4428-aae7-1e32016cac51/mbid-d61ae9cd-ceef-4428-aae7-1e32016cac51-8296668663_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/8262c53c-ad91-4f7e-8b5b-ecabe417506c"
+    }
+  ],
+  "10-10": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Dog Man Star",
+      "curation": "오늘의 발견",
+      "artist": "스웨이드",
+      "year": 1994,
+      "image": "https://dn710902.ca.archive.org/0/items/mbid-b71f964d-0727-48c7-b3c1-76e4be751450/mbid-b71f964d-0727-48c7-b3c1-76e4be751450-21198558492_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/da15737e-3eb3-31e4-97f0-fe46299f75fb"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "KRS-One",
+      "curation": "오늘의 발견",
+      "artist": "KRS-One",
+      "year": 1995,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-2202896d-35df-41c2-9dfe-957973a3669e/mbid-2202896d-35df-41c2-9dfe-957973a3669e-1674613187_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2de75ea8-8e4d-31cd-a26e-298d3831859a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "In the Court of the Crimson King",
+      "curation": "오늘의 발견",
+      "artist": "킹 크림슨",
+      "year": 1969,
+      "image": "https://dn710709.ca.archive.org/0/items/mbid-99b00db1-1b1f-3b58-9bce-e3428ded3ee7/mbid-99b00db1-1b1f-3b58-9bce-e3428ded3ee7-2985712197_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a50636b5-5233-3329-a7f3-dba3d0e00ef7"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Wings",
+      "curation": "오늘의 발견",
+      "artist": "방탄소년단",
+      "year": 2016,
+      "image": "https://dn710900.ca.archive.org/0/items/mbid-cc613cb1-be50-4627-9ca5-68b09f58a8e4/mbid-cc613cb1-be50-4627-9ca5-68b09f58a8e4-14849913797_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ddbf733c-1182-42a2-9bae-059afcbc3b93"
     }
   ]
 }
