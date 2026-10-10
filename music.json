@@ -135,7 +135,8 @@
     "10-07": 2026,
     "10-08": 2026,
     "10-09": 2026,
-    "10-10": 2026
+    "10-10": 2026,
+    "10-11": 2026
   },
   "08-29": [
     {
@@ -2243,6 +2244,63 @@
       "year": 2016,
       "image": "https://dn710900.ca.archive.org/0/items/mbid-cc613cb1-be50-4627-9ca5-68b09f58a8e4/mbid-cc613cb1-be50-4627-9ca5-68b09f58a8e4-14849913797_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/ddbf733c-1182-42a2-9bae-059afcbc3b93"
+    }
+  ],
+  "10-11": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Arrival",
+      "curation": "오늘의 발견",
+      "artist": "아바",
+      "year": 1976,
+      "image": "https://dn710806.ca.archive.org/0/items/mbid-bc141786-124f-4690-aa6f-828afb9b3297/mbid-bc141786-124f-4690-aa6f-828afb9b3297-3127628964_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e464e167-83ab-3b59-88bd-262cf552056e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "9",
+      "curation": "오늘의 발견",
+      "artist": "릴 킴",
+      "year": 2019,
+      "image": "https://ia903107.us.archive.org/23/items/mbid-6735d7f4-b3e5-4b91-9cb0-6ae1f05f3a0b/mbid-6735d7f4-b3e5-4b91-9cb0-6ae1f05f3a0b-24273592459_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a4b48d8b-b263-4498-aa6b-a991721b4f7c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Can't Slow Down",
+      "curation": "오늘의 발견",
+      "artist": "라이어넬 리치",
+      "year": 1983,
+      "image": "https://dn711007.ca.archive.org/0/items/mbid-0503f8b7-4637-4b14-90e0-550388f98081/mbid-0503f8b7-4637-4b14-90e0-550388f98081-9036543277_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cccdb1a1-333d-30e1-9486-81b8113e608a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Thug Life: Volume 1",
+      "curation": "오늘의 발견",
+      "artist": "터그 라이프",
+      "year": 1994,
+      "image": "https://dn710209.ca.archive.org/0/items/mbid-122c3fcd-24b1-4866-b775-c67c537de68d/mbid-122c3fcd-24b1-4866-b775-c67c537de68d-36113166181_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6d810afd-b059-31ca-b3e2-6c7e2a7d6efd"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Mantra",
+      "curation": "오늘의 발견",
+      "artist": "제니 김",
+      "year": 2024,
+      "image": "https://ia801906.us.archive.org/19/items/mbid-afc40acc-e8d3-4b08-9fbf-36be95885e50/mbid-afc40acc-e8d3-4b08-9fbf-36be95885e50-40393948217_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/74e8b845-734c-4064-9ef3-dd26df3204bf"
     }
   ]
 }
