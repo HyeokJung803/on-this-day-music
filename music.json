@@ -136,7 +136,8 @@
     "10-08": 2026,
     "10-09": 2026,
     "10-10": 2026,
-    "10-11": 2026
+    "10-11": 2026,
+    "10-12": 2026
   },
   "08-29": [
     {
@@ -2301,6 +2302,52 @@
       "year": 2024,
       "image": "https://ia801906.us.archive.org/19/items/mbid-afc40acc-e8d3-4b08-9fbf-36be95885e50/mbid-afc40acc-e8d3-4b08-9fbf-36be95885e50-40393948217_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/74e8b845-734c-4064-9ef3-dd26df3204bf"
+    }
+  ],
+  "10-12": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "You've Come a Long Way, Baby",
+      "curation": "오늘의 발견",
+      "artist": "팻보이 슬림",
+      "year": 1998,
+      "image": "https://dn710304.ca.archive.org/0/items/mbid-bea082e9-f79d-31d6-8497-f280defb6775/mbid-bea082e9-f79d-31d6-8497-f280defb6775-5678958512_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/435fe38e-404c-3887-8300-cc94420a121c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Escapism",
+      "curation": "오늘의 발견",
+      "artist": "레이",
+      "year": 2022,
+      "image": "https://dn710207.ca.archive.org/0/items/mbid-5981102e-5148-4a3a-8eb2-4ae835261d35/mbid-5981102e-5148-4a3a-8eb2-4ae835261d35-33893687808_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/926f3e3f-2d60-49fe-a928-32ec65595762"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "October",
+      "curation": "오늘의 발견",
+      "artist": "U2",
+      "year": 1981,
+      "image": "https://dn710604.ca.archive.org/0/items/mbid-cb24eab2-e812-4f25-b4e8-92451fdcdb89/mbid-cb24eab2-e812-4f25-b4e8-92451fdcdb89-11880288560_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/87febb2c-e117-3a0d-a7f6-8fd9a6421af1"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Regular-Irregular",
+      "curation": "오늘의 발견",
+      "artist": "NCT 127",
+      "year": 2018,
+      "image": "https://dn711005.ca.archive.org/0/items/mbid-f2452147-fddd-4d79-8cbf-7ff08dfd04fb/mbid-f2452147-fddd-4d79-8cbf-7ff08dfd04fb-21181171005_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c3b36bf5-1cb4-43c2-a1b7-c6fd4fb65959"
     }
   ]
 }
