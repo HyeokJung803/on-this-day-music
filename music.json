@@ -138,7 +138,8 @@
     "10-10": 2026,
     "10-11": 2026,
     "10-12": 2026,
-    "10-13": 2026
+    "10-13": 2026,
+    "10-14": 2026
   },
   "08-29": [
     {
@@ -2406,6 +2407,63 @@
       "year": 2025,
       "image": "https://dn721903.ca.archive.org/0/items/mbid-b54f9c5c-5729-4932-8302-00d4d940ba71/mbid-b54f9c5c-5729-4932-8302-00d4d940ba71-43234813053_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/fbdd1a42-b8fe-47a6-8bf4-927b61e567f0"
+    }
+  ],
+  "10-14": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Let's Get to It",
+      "curation": "오늘의 발견",
+      "artist": "카일리 미노그",
+      "year": 1991,
+      "image": "https://dn710600.ca.archive.org/0/items/mbid-477b8cd6-3dc1-449a-942c-debe87f43ab7/mbid-477b8cd6-3dc1-449a-942c-debe87f43ab7-16778117581_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/010221b5-eb76-331a-a0b5-ed3aa73dfe67"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Blood Moon: Year of the Wolf",
+      "curation": "오늘의 발견",
+      "artist": "게임",
+      "year": 2014,
+      "image": "https://dn721302.ca.archive.org/0/items/mbid-732055ac-f25e-4281-9525-cae9e19f66bf/mbid-732055ac-f25e-4281-9525-cae9e19f66bf-8622849124_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3e1ed384-d918-4a8b-8c14-dbcda76f9d61"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Girl Talk/The Speed Star",
+      "curation": "오늘의 발견",
+      "artist": "아무로 나미에",
+      "year": 2004,
+      "image": "https://dn721803.ca.archive.org/0/items/mbid-bd8e703c-7fac-4966-af03-4815312322fd/mbid-bd8e703c-7fac-4966-af03-4815312322fd-9321755368_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/86b72620-db55-30a0-8ebf-e2224c4f1d1a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "\"Heroes\"",
+      "curation": "오늘의 발견",
+      "artist": "데이비드 보위",
+      "year": 1977,
+      "image": "https://dn721604.ca.archive.org/0/items/mbid-fa48c4d5-6d0a-492d-b91f-4a1f70d274f2/mbid-fa48c4d5-6d0a-492d-b91f-4a1f70d274f2-26856287557_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1f5ef8d3-10ca-30eb-b41e-85b16987d412"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Everybody",
+      "curation": "오늘의 발견",
+      "artist": "샤이니",
+      "year": 2013,
+      "image": "https://dn711303.ca.archive.org/0/items/mbid-053a0b47-4340-4ab9-a206-38a761d4c26d/mbid-053a0b47-4340-4ab9-a206-38a761d4c26d-9473461590_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/702ed9b8-d3b1-42ae-acb7-94b4f80f1684"
     }
   ]
 }
