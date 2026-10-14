@@ -139,7 +139,8 @@
     "10-11": 2026,
     "10-12": 2026,
     "10-13": 2026,
-    "10-14": 2026
+    "10-14": 2026,
+    "10-15": 2026
   },
   "08-29": [
     {
@@ -2464,6 +2465,52 @@
       "year": 2013,
       "image": "https://dn711303.ca.archive.org/0/items/mbid-053a0b47-4340-4ab9-a206-38a761d4c26d/mbid-053a0b47-4340-4ab9-a206-38a761d4c26d-9473461590_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/702ed9b8-d3b1-42ae-acb7-94b4f80f1684"
+    }
+  ],
+  "10-15": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Santa Claus Lane",
+      "curation": "오늘의 발견",
+      "artist": "힐러리 더프",
+      "year": 2002,
+      "image": "https://dn721903.ca.archive.org/0/items/mbid-5c3fa3e8-130f-4de8-a950-e09345826cf9/mbid-5c3fa3e8-130f-4de8-a950-e09345826cf9-35240360955_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5f7dd21e-bce8-3e48-b882-0283a9405d29"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "House Party 2 – Original Motion Picture Soundtrack",
+      "curation": "오늘의 발견",
+      "artist": "Various artists",
+      "year": 1991,
+      "image": "https://dn710304.ca.archive.org/0/items/mbid-eef9edad-961f-4ce0-8b78-21e2cc307868/mbid-eef9edad-961f-4ce0-8b78-21e2cc307868-10325853336_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c3d00be8-e0d5-3d9d-ad56-8373fd800f60"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "ROCK",
+      "title": "She's So High",
+      "curation": "오늘의 발견",
+      "artist": "블러",
+      "year": 1990,
+      "image": "https://dn711007.ca.archive.org/0/items/mbid-a16fbc45-58df-370e-a6cd-3c92c4033c37/mbid-a16fbc45-58df-370e-a6cd-3c92c4033c37-2755102023_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/64468b93-32ec-3804-be78-7668018f03c9"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "TARA's Free Time In Paris & Swiss",
+      "curation": "오늘의 발견",
+      "artist": "티아라",
+      "year": 2012,
+      "image": "https://dn711003.ca.archive.org/0/items/mbid-da1fc48a-1c2b-4c67-a57a-e98c1dc245db/mbid-da1fc48a-1c2b-4c67-a57a-e98c1dc245db-13661473362_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/310e9936-97c0-4654-bd51-5a3f0416363c"
     }
   ]
 }
