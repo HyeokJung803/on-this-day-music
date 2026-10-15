@@ -140,7 +140,8 @@
     "10-12": 2026,
     "10-13": 2026,
     "10-14": 2026,
-    "10-15": 2026
+    "10-15": 2026,
+    "10-16": 2026
   },
   "08-29": [
     {
@@ -2511,6 +2512,63 @@
       "year": 2012,
       "image": "https://dn711003.ca.archive.org/0/items/mbid-da1fc48a-1c2b-4c67-a57a-e98c1dc245db/mbid-da1fc48a-1c2b-4c67-a57a-e98c1dc245db-13661473362_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/310e9936-97c0-4654-bd51-5a3f0416363c"
+    }
+  ],
+  "10-16": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Confident (음반)",
+      "curation": "오늘의 발견",
+      "artist": "데미 로바토",
+      "year": 2015,
+      "image": "https://dn710704.ca.archive.org/0/items/mbid-f820acf7-ca4b-4319-a166-8e4fa34a8d23/mbid-f820acf7-ca4b-4319-a166-8e4fa34a8d23-11535787496_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0df19e51-b297-4721-96b6-43d6874755b9"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Back from Hell",
+      "curation": "오늘의 발견",
+      "artist": "런 디엠씨",
+      "year": 1990,
+      "image": "https://dn710107.ca.archive.org/0/items/mbid-2a6ae94c-9b24-3f34-8915-f16ea4df03ca/mbid-2a6ae94c-9b24-3f34-8915-f16ea4df03ca-40533651104_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ca48d470-4741-333f-b854-4676cdf4ef34"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Baby I Like",
+      "curation": "오늘의 발견",
+      "artist": "쿠라키 마이",
+      "year": 1999,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-9f8cd929-d406-45e3-98f9-ed685095c6e7/mbid-9f8cd929-d406-45e3-98f9-ed685095c6e7-39342334422_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d97889fd-8d5f-3884-b4ac-4aa27d5a9a8b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "It's Only Rock 'n Roll",
+      "curation": "오늘의 발견",
+      "artist": "롤링 스톤스",
+      "year": 1974,
+      "image": "https://dn710904.ca.archive.org/0/items/mbid-d649cfa8-acd8-4b78-8602-a14ae4435f22/mbid-d649cfa8-acd8-4b78-8602-a14ae4435f22-22189211608_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cc0ef7ba-01f1-3faf-8238-b63369ff5d2b"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Winter Games",
+      "curation": "오늘의 발견",
+      "artist": "2PM",
+      "year": 2013,
+      "image": "https://dn710001.ca.archive.org/0/items/mbid-aa93594d-1b92-4fef-8158-6c322b9bef92/mbid-aa93594d-1b92-4fef-8158-6c322b9bef92-39169951030_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/12b3aaef-b2c7-4224-b69c-fa752bcb059e"
     }
   ]
 }
