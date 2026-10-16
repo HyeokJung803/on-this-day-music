@@ -141,7 +141,8 @@
     "10-13": 2026,
     "10-14": 2026,
     "10-15": 2026,
-    "10-16": 2026
+    "10-16": 2026,
+    "10-17": 2026
   },
   "08-29": [
     {
@@ -2569,6 +2570,52 @@
       "year": 2013,
       "image": "https://dn710001.ca.archive.org/0/items/mbid-aa93594d-1b92-4fef-8158-6c322b9bef92/mbid-aa93594d-1b92-4fef-8158-6c322b9bef92-39169951030_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/12b3aaef-b2c7-4224-b69c-fa752bcb059e"
+    }
+  ],
+  "10-17": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "When the Party's Over",
+      "curation": "오늘의 발견",
+      "artist": "빌리 아일리시",
+      "year": 2018,
+      "image": "https://dn710708.ca.archive.org/0/items/mbid-91dd7b3d-bbdb-428e-aa78-6e52ded2f08e/mbid-91dd7b3d-bbdb-428e-aa78-6e52ded2f08e-21226320020_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/072dc822-de02-4fe9-b8bc-dbe1e1158fc8"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Back for the First Time",
+      "curation": "오늘의 발견",
+      "artist": "루다크리스",
+      "year": 2000,
+      "image": "https://dn710604.ca.archive.org/0/items/mbid-38f4062d-8162-4044-b4d2-645858b6cc56/mbid-38f4062d-8162-4044-b4d2-645858b6cc56-2729959140_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/280243c1-f6e1-3a57-8ed9-cda8373def33"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Inner City Blues – The Music of Marvin Gaye",
+      "curation": "오늘의 발견",
+      "artist": "Various artists",
+      "year": 1995,
+      "image": "https://dn710803.ca.archive.org/0/items/mbid-6463dcd8-ccc4-49f6-830d-034122f68683/mbid-6463dcd8-ccc4-49f6-830d-034122f68683-5984452698_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6dc0994b-cd85-39e9-bcbf-cd87de11ebb7"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Making Movies",
+      "curation": "오늘의 발견",
+      "artist": "다이어 스트레이츠",
+      "year": 1980,
+      "image": "https://dn710006.ca.archive.org/0/items/mbid-846b36e6-8e71-41cc-b54c-a59aed4112da/mbid-846b36e6-8e71-41cc-b54c-a59aed4112da-27193925191_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5b0a15ce-8aa9-323b-8fb6-02b657756ba9"
     }
   ]
 }
