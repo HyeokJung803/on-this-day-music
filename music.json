@@ -142,7 +142,8 @@
     "10-14": 2026,
     "10-15": 2026,
     "10-16": 2026,
-    "10-17": 2026
+    "10-17": 2026,
+    "10-18": 2026
   },
   "08-29": [
     {
@@ -2616,6 +2617,63 @@
       "year": 1980,
       "image": "https://dn710006.ca.archive.org/0/items/mbid-846b36e6-8e71-41cc-b54c-a59aed4112da/mbid-846b36e6-8e71-41cc-b54c-a59aed4112da-27193925191_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/5b0a15ce-8aa9-323b-8fb6-02b657756ba9"
+    }
+  ],
+  "10-18": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Sunflower",
+      "curation": "오늘의 발견",
+      "artist": "포스트 말론",
+      "year": 2018,
+      "image": "https://dn721709.ca.archive.org/0/items/mbid-f12f7c3e-46b0-483b-93ea-e7b3bb0c4dd0/mbid-f12f7c3e-46b0-483b-93ea-e7b3bb0c4dd0-42264767907_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/20772646-5e42-4074-a9f0-6491984f837b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Diary",
+      "curation": "오늘의 발견",
+      "artist": "스카페이스",
+      "year": 1994,
+      "image": "https://dn710704.ca.archive.org/0/items/mbid-6336ee8c-067b-46e8-b2d9-212f16b4e1ef/mbid-6336ee8c-067b-46e8-b2d9-212f16b4e1ef-14279367035_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bc009ee0-05bc-37f9-8b07-ce93e09131eb"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Beneath Your Beautiful",
+      "curation": "오늘의 발견",
+      "artist": "에밀리 샌데",
+      "year": 2012,
+      "image": "https://dn710900.ca.archive.org/0/items/mbid-b2cc9b68-f0a1-40f5-8076-c0abb769835a/mbid-b2cc9b68-f0a1-40f5-8076-c0abb769835a-46349523977_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/22574118-d05d-446d-88dc-05ee64b9773e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "A Real Dead One",
+      "curation": "오늘의 발견",
+      "artist": "아이언 메이든",
+      "year": 1993,
+      "image": "https://dn721909.ca.archive.org/0/items/mbid-e704e926-33cf-47d0-b328-ec08cf07306e/mbid-e704e926-33cf-47d0-b328-ec08cf07306e-22615379297_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5bd1d4d4-862e-323e-a5b6-4c8a89bd4e9b"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Ringo",
+      "curation": "오늘의 발견",
+      "artist": "ITZY",
+      "year": 2023,
+      "image": "https://dn721603.ca.archive.org/0/items/mbid-c14f6672-e134-4f05-98c5-9013d6d9e684/mbid-c14f6672-e134-4f05-98c5-9013d6d9e684-36397635579_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e85b905c-be97-40ed-b74b-6bed712322a9"
     }
   ]
 }
