@@ -143,7 +143,8 @@
     "10-15": 2026,
     "10-16": 2026,
     "10-17": 2026,
-    "10-18": 2026
+    "10-18": 2026,
+    "10-19": 2026
   },
   "08-29": [
     {
@@ -2674,6 +2675,52 @@
       "year": 2023,
       "image": "https://dn721603.ca.archive.org/0/items/mbid-c14f6672-e134-4f05-98c5-9013d6d9e684/mbid-c14f6672-e134-4f05-98c5-9013d6d9e684-36397635579_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/e85b905c-be97-40ed-b74b-6bed712322a9"
+    }
+  ],
+  "10-19": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Wednesday Morning, 3 A.M.",
+      "curation": "오늘의 발견",
+      "artist": "사이먼 앤 가펑클",
+      "year": 1964,
+      "image": "https://dn710803.ca.archive.org/0/items/mbid-bdbc5ee3-95a4-3427-b5c5-252c40ff9e2e/mbid-bdbc5ee3-95a4-3427-b5c5-252c40ff9e2e-10158988474_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6c21abaf-2962-3037-836f-842431587949"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Colton Grundy: The Undying",
+      "curation": "오늘의 발견",
+      "artist": "Blaze Ya Dead Homie",
+      "year": 2004,
+      "image": "https://dn710707.ca.archive.org/0/items/mbid-cbe9c33c-1272-437e-9575-fd6bf97e1b99/mbid-cbe9c33c-1272-437e-9575-fd6bf97e1b99-40863251698_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/669229d2-a071-33c6-8a3b-c4b9ab02c50b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Meaning of Life",
+      "curation": "오늘의 발견",
+      "artist": "켈리 클락슨",
+      "year": 2017,
+      "image": "https://dn710902.ca.archive.org/0/items/mbid-79313cdb-32ad-47ca-b0a0-4dfbbdd4c16a/mbid-79313cdb-32ad-47ca-b0a0-4dfbbdd4c16a-18089016631_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a2431924-dd7a-430b-8094-e7a51122cd8e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Pin Ups",
+      "curation": "오늘의 발견",
+      "artist": "데이비드 보위",
+      "year": 1973,
+      "image": "https://dn710707.ca.archive.org/0/items/mbid-4abe64de-327b-37fd-a233-c9843f70c868/mbid-4abe64de-327b-37fd-a233-c9843f70c868-2997775097_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8b7bd1c2-be07-3083-989a-714f219f1ff8"
     }
   ]
 }
