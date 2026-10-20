@@ -145,7 +145,8 @@
     "10-17": 2026,
     "10-18": 2026,
     "10-19": 2026,
-    "10-20": 2026
+    "10-20": 2026,
+    "10-21": 2026
   },
   "08-29": [
     {
@@ -2768,6 +2769,63 @@
       "year": 2010,
       "image": "https://dn721607.ca.archive.org/0/items/mbid-3ac39749-b63c-4e19-a21f-9153c5e719a8/mbid-3ac39749-b63c-4e19-a21f-9153c5e719a8-38686503216_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/73efeca1-fca7-4855-a3ca-6cc5acb0844e"
+    }
+  ],
+  "10-21": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Rockabye",
+      "curation": "오늘의 발견",
+      "artist": "숀 폴",
+      "year": 2016,
+      "image": "https://dn710105.ca.archive.org/0/items/mbid-8b13961c-89ba-4eb6-a5cc-f36d4a17f7a3/mbid-8b13961c-89ba-4eb6-a5cc-f36d4a17f7a3-30500774216_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/4d437564-f5e0-41d0-9dea-375aef8f1fca"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Carlo Cokxxx Nutten",
+      "curation": "오늘의 발견",
+      "artist": "Fler",
+      "year": 2002,
+      "image": "https://dn711309.ca.archive.org/0/items/mbid-e2488f20-4510-4db1-afbf-edc26540056c/mbid-e2488f20-4510-4db1-afbf-edc26540056c-17837978019_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cde1cd51-be6d-35f8-ba69-ec5e92a15d6f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Do What U Want",
+      "curation": "오늘의 발견",
+      "artist": "레이디 가가",
+      "year": 2013,
+      "image": "https://dn710807.ca.archive.org/0/items/mbid-f06a26b4-b011-4cbf-9dc5-01e1eb416f87/mbid-f06a26b4-b011-4cbf-9dc5-01e1eb416f87-6581944747_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/19d836a6-2f82-427e-a05b-717776b8c648"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Stronger",
+      "curation": "오늘의 발견",
+      "artist": "켈리 클락슨",
+      "year": 2011,
+      "image": "https://dn710908.ca.archive.org/0/items/mbid-ae13c2c9-0d87-4653-9cc3-379a9602714a/mbid-ae13c2c9-0d87-4653-9cc3-379a9602714a-10152453902_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cc073eb5-920b-4dad-a7f7-178a5cad1966"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Eat You Up",
+      "curation": "오늘의 발견",
+      "artist": "보아",
+      "year": 2008,
+      "image": "https://dn710803.ca.archive.org/0/items/mbid-682661eb-b3c8-43ac-9494-5868bc57dabc/mbid-682661eb-b3c8-43ac-9494-5868bc57dabc-7344942468_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5c053130-241f-47eb-b398-543077a04d89"
     }
   ]
 }
