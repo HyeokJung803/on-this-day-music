@@ -147,7 +147,8 @@
     "10-19": 2026,
     "10-20": 2026,
     "10-21": 2026,
-    "10-22": 2026
+    "10-22": 2026,
+    "10-23": 2026
   },
   "08-29": [
     {
@@ -2884,6 +2885,63 @@
       "year": 2018,
       "image": "https://dn711007.ca.archive.org/0/items/mbid-0df775c6-1410-4353-80fd-c6e596199e51/mbid-0df775c6-1410-4353-80fd-c6e596199e51-21296325203_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/1c0f736a-c0fc-46bb-832a-bc17e1e2d2c7"
+    }
+  ],
+  "10-23": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Rehab",
+      "curation": "오늘의 발견",
+      "artist": "에이미 와인하우스",
+      "year": 2006,
+      "image": "https://ia600409.us.archive.org/11/items/mbid-263b570a-4379-4677-afa1-761885bec224/mbid-263b570a-4379-4677-afa1-761885bec224-14386633681_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/aea5b8c0-5e9d-30c1-873b-510f592faa1f"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Song Machine, Season One: Strange Timez",
+      "curation": "오늘의 발견",
+      "artist": "고릴라즈",
+      "year": 2020,
+      "image": "https://dn710004.ca.archive.org/0/items/mbid-85ec5dd8-ce80-41d2-8b94-3a4022cfd833/mbid-85ec5dd8-ce80-41d2-8b94-3a4022cfd833-27855599968_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bd8866c2-3d48-4c4e-97d8-442ec2792b40"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Rhythm Nation",
+      "curation": "오늘의 발견",
+      "artist": "재닛 잭슨",
+      "year": 1989,
+      "image": "https://dn710706.ca.archive.org/0/items/mbid-7e09d0dd-01dd-4f35-984b-710e71a17bb3/mbid-7e09d0dd-01dd-4f35-984b-710e71a17bb3-17194924799_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c77ffae9-6512-46dc-a5b4-4b36f4692024"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Raising Sand",
+      "curation": "오늘의 발견",
+      "artist": "앨리슨 크라우스",
+      "year": 2007,
+      "image": "https://dn710904.ca.archive.org/0/items/mbid-060d2f99-5f82-488a-9f0a-b6b1a8112026/mbid-060d2f99-5f82-488a-9f0a-b6b1a8112026-10151905692_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/28129af8-25e1-36e6-a0f1-e8f0fa5779cf"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Mono",
+      "curation": "오늘의 발견",
+      "artist": "김남준",
+      "year": 2018,
+      "image": "https://dn710706.ca.archive.org/0/items/mbid-8712da57-f453-45d2-baae-f1e14c5fcdbc/mbid-8712da57-f453-45d2-baae-f1e14c5fcdbc-21643820338_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/68d9efc2-d094-44b8-b4d9-7fb3accaba86"
     }
   ]
 }
