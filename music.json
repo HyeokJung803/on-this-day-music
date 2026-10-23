@@ -148,7 +148,8 @@
     "10-20": 2026,
     "10-21": 2026,
     "10-22": 2026,
-    "10-23": 2026
+    "10-23": 2026,
+    "10-24": 2026
   },
   "08-29": [
     {
@@ -2942,6 +2943,52 @@
       "year": 2018,
       "image": "https://dn710706.ca.archive.org/0/items/mbid-8712da57-f453-45d2-baae-f1e14c5fcdbc/mbid-8712da57-f453-45d2-baae-f1e14c5fcdbc-21643820338_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/68d9efc2-d094-44b8-b4d9-7fb3accaba86"
+    }
+  ],
+  "10-24": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Oh Father",
+      "curation": "오늘의 발견",
+      "artist": "마돈나",
+      "year": 1989,
+      "image": "https://dn710704.ca.archive.org/0/items/mbid-8869d03d-d0c2-4052-8981-864571d1633e/mbid-8869d03d-d0c2-4052-8981-864571d1633e-1871627309_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/88f09c45-ff8d-4299-b557-3a9ea6f934e5"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Run the Jewels 2",
+      "curation": "오늘의 발견",
+      "artist": "런 더 쥬얼스",
+      "year": 2014,
+      "image": "https://dn711105.ca.archive.org/0/items/mbid-8d5673a1-f435-4a02-9e32-8741397969c8/mbid-8d5673a1-f435-4a02-9e32-8741397969c8-10297212424_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/581d7ac8-8f1d-4d4a-a224-de9c9cd76b39"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Whoa, Nelly!",
+      "curation": "오늘의 발견",
+      "artist": "넬리 퍼타도",
+      "year": 2000,
+      "image": "https://dn710908.ca.archive.org/0/items/mbid-6fdc4927-31f5-47e7-a2f5-5bc45e0f68bf/mbid-6fdc4927-31f5-47e7-a2f5-5bc45e0f68bf-14791990230_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9713ae12-a4e5-3fbb-a660-d152390430ce"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "1",
+      "curation": "오늘의 발견",
+      "artist": "B1A4",
+      "year": 2012,
+      "image": "https://dn710601.ca.archive.org/0/items/mbid-e42a092d-1b44-49df-96a3-b059998b6f71/mbid-e42a092d-1b44-49df-96a3-b059998b6f71-9438904841_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/65f8d25f-4521-4f9f-a456-ffd350a67396"
     }
   ]
 }
