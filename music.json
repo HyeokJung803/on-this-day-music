@@ -149,7 +149,8 @@
     "10-21": 2026,
     "10-22": 2026,
     "10-23": 2026,
-    "10-24": 2026
+    "10-24": 2026,
+    "10-25": 2026
   },
   "08-29": [
     {
@@ -2989,6 +2990,52 @@
       "year": 2012,
       "image": "https://dn710601.ca.archive.org/0/items/mbid-e42a092d-1b44-49df-96a3-b059998b6f71/mbid-e42a092d-1b44-49df-96a3-b059998b6f71-9438904841_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/65f8d25f-4521-4f9f-a456-ffd350a67396"
+    }
+  ],
+  "10-25": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Blackout",
+      "curation": "오늘의 발견",
+      "artist": "브리트니 스피어스",
+      "year": 2007,
+      "image": "https://dn710805.ca.archive.org/0/items/mbid-39b6426d-0377-4b44-965e-707a4e495645/mbid-39b6426d-0377-4b44-965e-707a4e495645-25606302291_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0b8e14e1-d44d-3770-8617-5c6137a444a8"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Jesus Is King",
+      "curation": "오늘의 발견",
+      "artist": "카니예 웨스트",
+      "year": 2019,
+      "image": "https://dn721800.ca.archive.org/0/items/mbid-c347a1ef-11e3-4cff-a99c-e626eca8cdea/mbid-c347a1ef-11e3-4cff-a99c-e626eca8cdea-27721678512_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ee26718c-2633-4278-8718-f3a45a95f20e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Speak Now",
+      "curation": "오늘의 발견",
+      "artist": "테일러 스위프트",
+      "year": 2010,
+      "image": "https://dn710701.ca.archive.org/0/items/mbid-b5e2fc4f-ae51-3a32-9a5a-31224a91807d/mbid-b5e2fc4f-ae51-3a32-9a5a-31224a91807d-8900360437_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ba1259eb-d41e-41c5-a70c-0e6fa73e6708"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "졸업 (브로콜리 너마저의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "브로콜리 너마저",
+      "year": 2010,
+      "image": "https://dn711106.ca.archive.org/0/items/mbid-e60b5a8d-a609-410b-8355-04ce64033bd6/mbid-e60b5a8d-a609-410b-8355-04ce64033bd6-22955634631_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/956623a8-716c-4fa3-a94c-f3a0ee8c8102"
     }
   ]
 }
