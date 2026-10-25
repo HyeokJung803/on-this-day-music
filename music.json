@@ -150,7 +150,8 @@
     "10-22": 2026,
     "10-23": 2026,
     "10-24": 2026,
-    "10-25": 2026
+    "10-25": 2026,
+    "10-26": 2026
   },
   "08-29": [
     {
@@ -3036,6 +3037,63 @@
       "year": 2010,
       "image": "https://dn711106.ca.archive.org/0/items/mbid-e60b5a8d-a609-410b-8355-04ce64033bd6/mbid-e60b5a8d-a609-410b-8355-04ce64033bd6-22955634631_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/956623a8-716c-4fa3-a94c-f3a0ee8c8102"
+    }
+  ],
+  "10-26": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Firework",
+      "curation": "오늘의 발견",
+      "artist": "케이티 페리",
+      "year": 2010,
+      "image": "https://ia601404.us.archive.org/23/items/mbid-aa7a4143-d38b-4f4a-abcd-bdcdb19155e0/mbid-aa7a4143-d38b-4f4a-abcd-bdcdb19155e0-39605446061_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a0bef2bf-5e59-4c63-9bbe-e9e48a551280"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Masters of the Sun Vol. 1",
+      "curation": "오늘의 발견",
+      "artist": "블랙 아이드 피스",
+      "year": 2018,
+      "image": "https://dn710900.ca.archive.org/0/items/mbid-88b3b34c-8471-44fc-b208-2147fdc1d86d/mbid-88b3b34c-8471-44fc-b208-2147fdc1d86d-21243420981_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f974533d-fc91-4811-8600-f3cabcbc54f4"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Walk Alone",
+      "curation": "오늘의 발견",
+      "artist": "루디멘털",
+      "year": 2018,
+      "image": "https://dn710608.ca.archive.org/0/items/mbid-1420a0d6-3774-4533-b1f3-38b241618a4e/mbid-1420a0d6-3774-4533-b1f3-38b241618a4e-21820822847_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0c24b910-0c3c-4b3e-a529-f517b45623be"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Avenged Sevenfold",
+      "curation": "오늘의 발견",
+      "artist": "어벤지드 세븐폴드",
+      "year": 2007,
+      "image": "https://dn710102.ca.archive.org/0/items/mbid-ef3fdd7b-b023-4248-9d6c-ccf9ccd9aeb3/mbid-ef3fdd7b-b023-4248-9d6c-ccf9ccd9aeb3-30047395373_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/94672194-7f42-3965-a489-f2f3cdc1c79e"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Eyes wide open",
+      "curation": "오늘의 발견",
+      "artist": "트와이스",
+      "year": 2020,
+      "image": "https://dn710206.ca.archive.org/0/items/mbid-72ec6f3e-6f94-41e3-99b5-a01db5eac451/mbid-72ec6f3e-6f94-41e3-99b5-a01db5eac451-37558492931_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/aa05ff10-8589-4c9c-a0d4-6b024f4e4556"
     }
   ]
 }
