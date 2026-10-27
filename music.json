@@ -152,7 +152,8 @@
     "10-24": 2026,
     "10-25": 2026,
     "10-26": 2026,
-    "10-27": 2026
+    "10-27": 2026,
+    "10-28": 2026
   },
   "08-29": [
     {
@@ -3152,6 +3153,63 @@
       "year": 2015,
       "image": "https://ia800804.us.archive.org/4/items/mbid-93ce6f68-159c-497c-bce3-3130ea0faa84/mbid-93ce6f68-159c-497c-bce3-3130ea0faa84-37287548894_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/83a065ef-475e-4635-b263-6dccc563ada2"
+    }
+  ],
+  "10-28": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Anthology 3",
+      "curation": "오늘의 발견",
+      "artist": "비틀즈",
+      "year": 1996,
+      "image": "https://dn710606.ca.archive.org/0/items/mbid-ef375057-5e83-43d6-9952-a12dbd6429fe/mbid-ef375057-5e83-43d6-9952-a12dbd6429fe-17494373860_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/106bdc21-f1b2-33d1-b71e-00bbe396e65c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Bad and Boujee",
+      "curation": "오늘의 발견",
+      "artist": "릴 우지 버트",
+      "year": 2016,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-42344c51-680a-49d4-b9b1-32882d428813/mbid-42344c51-680a-49d4-b9b1-32882d428813-37720185641_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/691ae8e3-fbcf-4c87-924a-5a5c7df4b45b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Recovery",
+      "curation": "오늘의 발견",
+      "artist": "저스틴 비버",
+      "year": 2013,
+      "image": "https://dn710707.ca.archive.org/0/items/mbid-801eacaf-dcc1-4d6b-aa72-6d1928a433c4/mbid-801eacaf-dcc1-4d6b-aa72-6d1928a433c4-5712109790_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cf900029-ef77-4b40-ae1b-e47d349b619d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "News of the World",
+      "curation": "오늘의 발견",
+      "artist": "퀸",
+      "year": 1977,
+      "image": "https://dn710706.ca.archive.org/0/items/mbid-5281690f-7ba9-40d7-8417-d22473561ca4/mbid-5281690f-7ba9-40d7-8417-d22473561ca4-28459870614_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c172ea98-3a82-3254-b8ad-25a4f465ba03"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Purpose",
+      "curation": "오늘의 발견",
+      "artist": "태연",
+      "year": 2019,
+      "image": "https://dn710700.ca.archive.org/0/items/mbid-ea1f8eb3-2efa-4cbe-b0ed-8d4f11f12e75/mbid-ea1f8eb3-2efa-4cbe-b0ed-8d4f11f12e75-24501407277_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/ace5194a-964e-4629-be1d-e672d077fd6a"
     }
   ]
 }
