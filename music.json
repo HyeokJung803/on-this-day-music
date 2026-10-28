@@ -153,7 +153,8 @@
     "10-25": 2026,
     "10-26": 2026,
     "10-27": 2026,
-    "10-28": 2026
+    "10-28": 2026,
+    "10-29": 2026
   },
   "08-29": [
     {
@@ -3210,6 +3211,52 @@
       "year": 2019,
       "image": "https://dn710700.ca.archive.org/0/items/mbid-ea1f8eb3-2efa-4cbe-b0ed-8d4f11f12e75/mbid-ea1f8eb3-2efa-4cbe-b0ed-8d4f11f12e75-24501407277_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/ace5194a-964e-4629-be1d-e672d077fd6a"
+    }
+  ],
+  "10-29": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "=",
+      "curation": "오늘의 발견",
+      "artist": "에드 시런",
+      "year": 2021,
+      "image": "https://dn721904.ca.archive.org/0/items/mbid-ccfe374a-ccfa-4cbc-a37c-1cd40b914b75/mbid-ccfe374a-ccfa-4cbc-a37c-1cd40b914b75-31339443358_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/51182052-d6d4-49a0-bd87-a88cdb211bed"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Death Certificate",
+      "curation": "오늘의 발견",
+      "artist": "아이스 큐브",
+      "year": 1991,
+      "image": "https://dn711007.ca.archive.org/0/items/mbid-291a821a-f1f3-4205-9abe-4a037c2b76ad/mbid-291a821a-f1f3-4205-9abe-4a037c2b76ad-5860290031_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5e111110-e4af-3487-b498-c7fa44ddf32c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "비디오 앨범",
+      "genre": "ROCK",
+      "title": "The Big Four: Live from Sofia, Bulgaria",
+      "curation": "오늘의 발견",
+      "artist": "메가데스",
+      "year": 2010,
+      "image": "https://dn721805.ca.archive.org/0/items/mbid-43af64d0-ff3d-480b-b8a0-b4563556068b/mbid-43af64d0-ff3d-480b-b8a0-b4563556068b-7496164334_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0ad18f14-c0bc-4046-92fd-1e94e97c0ac1"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "COLOR*IZ",
+      "curation": "오늘의 발견",
+      "artist": "아이즈원",
+      "year": 2018,
+      "image": "https://dn710809.ca.archive.org/0/items/mbid-64ac327e-4a7d-48eb-9bb3-303e0c77ecfb/mbid-64ac327e-4a7d-48eb-9bb3-303e0c77ecfb-21330176377_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/550c18e6-408b-4c2d-bd0a-ed3b403b8a55"
     }
   ]
 }
