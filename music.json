@@ -154,7 +154,8 @@
     "10-26": 2026,
     "10-27": 2026,
     "10-28": 2026,
-    "10-29": 2026
+    "10-29": 2026,
+    "10-30": 2026
   },
   "08-29": [
     {
@@ -3257,6 +3258,63 @@
       "year": 2018,
       "image": "https://dn710809.ca.archive.org/0/items/mbid-64ac327e-4a7d-48eb-9bb3-303e0c77ecfb/mbid-64ac327e-4a7d-48eb-9bb3-303e0c77ecfb-21330176377_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/550c18e6-408b-4c2d-bd0a-ed3b403b8a55"
+    }
+  ],
+  "10-30": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Positions",
+      "curation": "오늘의 발견",
+      "artist": "아리아나 그란데",
+      "year": 2020,
+      "image": "https://dn721805.ca.archive.org/0/items/mbid-9e1785c6-cb0d-4d82-bc42-cc9dc48f5405/mbid-9e1785c6-cb0d-4d82-bc42-cc9dc48f5405-39694332357_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7db1808d-53bc-4bde-9ee2-5dfc96cfeb45"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Instructions",
+      "curation": "오늘의 발견",
+      "artist": "저메인 듀프리",
+      "year": 2001,
+      "image": "https://ia601506.us.archive.org/27/items/mbid-7a1c8611-5d3c-4132-afc6-e7913d4c69a0/mbid-7a1c8611-5d3c-4132-afc6-e7913d4c69a0-17053346078_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a66099dd-8363-3ccd-9230-aa40a1b5cf40"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Amy",
+      "curation": "오늘의 발견",
+      "artist": "Antonio Pinto",
+      "year": 2015,
+      "image": "https://dn721501.ca.archive.org/0/items/mbid-ef23abb2-4dd7-49f5-afdb-e4d17154bcaa/mbid-ef23abb2-4dd7-49f5-afdb-e4d17154bcaa-39109119364_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/628ed87c-789d-4839-b92d-df7b1ed8c86d"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Meddle",
+      "curation": "오늘의 발견",
+      "artist": "핑크 플로이드",
+      "year": 1971,
+      "image": "https://dn721905.ca.archive.org/0/items/mbid-a59a0e76-ae5c-4373-84de-644f55a45150/mbid-a59a0e76-ae5c-4373-84de-644f55a45150-12699162449_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/4e98c9b4-92f6-3049-b9da-a1088b623672"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "twicetagram",
+      "curation": "오늘의 발견",
+      "artist": "트와이스",
+      "year": 2017,
+      "image": "https://dn710308.ca.archive.org/0/items/mbid-5c0575f7-bc2c-4592-acb9-d7e7af7b7b61/mbid-5c0575f7-bc2c-4592-acb9-d7e7af7b7b61-25611125890_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/23f9bb2e-c6a9-40ec-9202-922220e5015e"
     }
   ]
 }
