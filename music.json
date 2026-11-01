@@ -156,7 +156,8 @@
     "10-28": 2026,
     "10-29": 2026,
     "10-30": 2026,
-    "10-31": 2026
+    "10-31": 2026,
+    "11-02": 2026
   },
   "08-29": [
     {
@@ -3373,6 +3374,52 @@
       "year": 2016,
       "image": "https://ia903200.us.archive.org/30/items/mbid-e092fe7a-2dd6-47e7-a9fc-cfedf1a7fea9/mbid-e092fe7a-2dd6-47e7-a9fc-cfedf1a7fea9-15034846467_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/3ff8932b-d244-4544-974e-7773c6c2b7e9"
+    }
+  ],
+  "11-02": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Merry Christmas II You",
+      "curation": "오늘의 발견",
+      "artist": "머라이어 캐리",
+      "year": 2010,
+      "image": "https://dn710902.ca.archive.org/0/items/mbid-e004eaf9-bea4-48da-b6e8-5941b94ab993/mbid-e004eaf9-bea4-48da-b6e8-5941b94ab993-21793436484_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7894fb13-3d22-47be-a710-d213adc99cb0"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Tha Block Is Hot",
+      "curation": "오늘의 발견",
+      "artist": "릴 웨인",
+      "year": 1999,
+      "image": "https://ia800507.us.archive.org/2/items/mbid-f955ae91-611a-44a2-9636-d010022a5054/mbid-f955ae91-611a-44a2-9636-d010022a5054-13936157091_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f9192795-8b2c-396f-8f6c-b9c00964f680"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Disraeli Gears",
+      "curation": "오늘의 발견",
+      "artist": "크림",
+      "year": 1967,
+      "image": "https://ia601401.us.archive.org/26/items/mbid-2cd2d18a-b1e4-3d7f-b9e2-d6bb4976ec24/mbid-2cd2d18a-b1e4-3d7f-b9e2-d6bb4976ec24-7616204941_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bbd66e31-ac27-3432-81a7-0d4b4b4c5de5"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Ultra Lover",
+      "curation": "오늘의 발견",
+      "artist": "2PM",
+      "year": 2011,
+      "image": "https://dn710201.ca.archive.org/0/items/mbid-0df80d71-51d8-4f09-9790-7c3ae24e3834/mbid-0df80d71-51d8-4f09-9790-7c3ae24e3834-39144143520_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/48385cd6-baaa-49ee-91b3-459bf8398d1c"
     }
   ]
 }
