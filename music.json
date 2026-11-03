@@ -157,7 +157,8 @@
     "10-29": 2026,
     "10-30": 2026,
     "10-31": 2026,
-    "11-02": 2026
+    "11-02": 2026,
+    "11-04": 2026
   },
   "08-29": [
     {
@@ -3420,6 +3421,63 @@
       "year": 2011,
       "image": "https://dn710201.ca.archive.org/0/items/mbid-0df80d71-51d8-4f09-9790-7c3ae24e3834/mbid-0df80d71-51d8-4f09-9790-7c3ae24e3834-39144143520_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/48385cd6-baaa-49ee-91b3-459bf8398d1c"
+    }
+  ],
+  "11-04": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Shepherd Moons",
+      "curation": "오늘의 발견",
+      "artist": "에냐",
+      "year": 1991,
+      "image": "https://dn710202.ca.archive.org/0/items/mbid-eca88cbc-ea25-4a88-8ff4-dc7182264bc2/mbid-eca88cbc-ea25-4a88-8ff4-dc7182264bc2-34783123300_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/678a2bac-4b27-314e-929b-2612938dd1f2"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Her Loss",
+      "curation": "오늘의 발견",
+      "artist": "드레이크",
+      "year": 2022,
+      "image": "https://dn721801.ca.archive.org/0/items/mbid-95843243-a94f-49b3-beb8-bd1d05e54265/mbid-95843243-a94f-49b3-beb8-bd1d05e54265-34003800768_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/81463cd8-2608-41d7-9112-acf9981dd054"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Nightride",
+      "curation": "오늘의 발견",
+      "artist": "티나쉬",
+      "year": 2016,
+      "image": "https://dn711408.ca.archive.org/0/items/mbid-df45dd69-1395-4558-888f-d4fdde423180/mbid-df45dd69-1395-4558-888f-d4fdde423180-15066417874_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/81ab780a-ff92-4d5f-8be0-5ab90bb40d02"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "David Bowie",
+      "curation": "오늘의 발견",
+      "artist": "데이비드 보위",
+      "year": 1969,
+      "image": "https://dn711109.ca.archive.org/0/items/mbid-767ee61d-6395-4ba9-bf79-ab0bf6701669/mbid-767ee61d-6395-4ba9-bf79-ab0bf6701669-22632553566_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2e12918c-4973-3537-b9ab-e4723ae1ae1d"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "코에오키카세테",
+      "curation": "오늘의 발견",
+      "artist": "빅뱅",
+      "year": 2009,
+      "image": "https://dn710609.ca.archive.org/0/items/mbid-c23de286-3315-4a01-9c2b-56377bddc1aa/mbid-c23de286-3315-4a01-9c2b-56377bddc1aa-3436907193_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/dda961bc-a0df-46f5-9393-474f082131ef"
     }
   ]
 }
