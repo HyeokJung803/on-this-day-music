@@ -158,7 +158,8 @@
     "10-30": 2026,
     "10-31": 2026,
     "11-02": 2026,
-    "11-04": 2026
+    "11-04": 2026,
+    "11-05": 2026
   },
   "08-29": [
     {
@@ -3478,6 +3479,63 @@
       "year": 2009,
       "image": "https://dn710609.ca.archive.org/0/items/mbid-c23de286-3315-4a01-9c2b-56377bddc1aa/mbid-c23de286-3315-4a01-9c2b-56377bddc1aa-3436907193_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/dda961bc-a0df-46f5-9393-474f082131ef"
+    }
+  ],
+  "11-05": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Voyage",
+      "curation": "오늘의 발견",
+      "artist": "아바",
+      "year": 2021,
+      "image": "https://dn710205.ca.archive.org/0/items/mbid-d7977699-858a-471c-96fb-8111bd95e985/mbid-d7977699-858a-471c-96fb-8111bd95e985-30307519397_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9077617d-b73f-4498-b415-175d5b843790"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Marshall Mathers LP 2",
+      "curation": "오늘의 발견",
+      "artist": "에미넴",
+      "year": 2013,
+      "image": "https://dn721502.ca.archive.org/0/items/mbid-41d88360-ec68-43f5-b461-d9016d38a275/mbid-41d88360-ec68-43f5-b461-d9016d38a275-42148337676_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b1fdc9cc-8680-44da-abab-59edca6b2ad3"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Lady Killer",
+      "curation": "오늘의 발견",
+      "artist": "시로 그린",
+      "year": 2010,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-6f6dac74-55a0-4325-8d2e-e811c8334db7/mbid-6f6dac74-55a0-4325-8d2e-e811c8334db7-28194580063_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/765e2a73-96d5-49ce-8bf9-c0641d8bceda"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Madman Across the Water",
+      "curation": "오늘의 발견",
+      "artist": "엘튼 존",
+      "year": 1971,
+      "image": "https://dn710807.ca.archive.org/0/items/mbid-2f0a0f9b-a3ae-4cf4-b86f-069242af1576/mbid-2f0a0f9b-a3ae-4cf4-b86f-069242af1576-11309050137_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9c371adb-37de-308c-88ea-8e52248ab1a1"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Remember",
+      "curation": "오늘의 발견",
+      "artist": "빅뱅",
+      "year": 2008,
+      "image": "https://ia801901.us.archive.org/29/items/mbid-36cb801a-477d-464b-b7ae-03056a3b7943/mbid-36cb801a-477d-464b-b7ae-03056a3b7943-15414892468_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/fce278dc-f1e5-390c-884e-c5d396c44bb2"
     }
   ]
 }
