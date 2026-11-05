@@ -159,7 +159,8 @@
     "10-31": 2026,
     "11-02": 2026,
     "11-04": 2026,
-    "11-05": 2026
+    "11-05": 2026,
+    "11-06": 2026
   },
   "08-29": [
     {
@@ -3536,6 +3537,63 @@
       "year": 2008,
       "image": "https://ia801901.us.archive.org/29/items/mbid-36cb801a-477d-464b-b7ae-03056a3b7943/mbid-36cb801a-477d-464b-b7ae-03056a3b7943-15414892468_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/fce278dc-f1e5-390c-884e-c5d396c44bb2"
+    }
+  ],
+  "11-06": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Disco (카일리 미노그의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "카일리 미노그",
+      "year": 2020,
+      "image": "https://dn721604.ca.archive.org/0/items/mbid-6e8d6b51-a630-4deb-a8b3-55c8429b7a2d/mbid-6e8d6b51-a630-4deb-a8b3-55c8429b7a2d-27595710191_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/f01db7e3-63bb-4856-9581-0bf3b472447e"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "American Gangster (음반)",
+      "curation": "오늘의 발견",
+      "artist": "제이 지",
+      "year": 2007,
+      "image": "https://dn710605.ca.archive.org/0/items/mbid-69cba956-dbbe-4f39-8bd1-86ed20c98f73/mbid-69cba956-dbbe-4f39-8bd1-86ed20c98f73-7393043424_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/4632d7ca-8813-303b-b85d-c1125cb05671"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "Characters",
+      "curation": "오늘의 발견",
+      "artist": "스티비 원더",
+      "year": 1987,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-6728ce96-31d5-49c4-aa28-54dc9f5e8f97/mbid-6728ce96-31d5-49c4-aa28-54dc9f5e8f97-41101910559_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/05177b0d-6b30-3cc0-802e-2ea00c2e1846"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Crazy World",
+      "curation": "오늘의 발견",
+      "artist": "스콜피언스",
+      "year": 1990,
+      "image": "https://ia903207.us.archive.org/29/items/mbid-6b533591-c044-350c-ab34-c9e563432821/mbid-6b533591-c044-350c-ab34-c9e563432821-17278169151_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d8a27312-3b03-36a0-a184-49b032528c1d"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "PLAY",
+      "curation": "오늘의 발견",
+      "artist": "슈퍼주니어",
+      "year": 2017,
+      "image": "https://dn711305.ca.archive.org/0/items/mbid-54da279f-6284-43a6-bd74-36a2eaa2014b/mbid-54da279f-6284-43a6-bd74-36a2eaa2014b-18244482168_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/59baf78c-18be-42d8-8e92-6e6ac9052c57"
     }
   ]
 }
