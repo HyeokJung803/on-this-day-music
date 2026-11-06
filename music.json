@@ -160,7 +160,8 @@
     "11-02": 2026,
     "11-04": 2026,
     "11-05": 2026,
-    "11-06": 2026
+    "11-06": 2026,
+    "11-07": 2026
   },
   "08-29": [
     {
@@ -3594,6 +3595,63 @@
       "year": 2017,
       "image": "https://dn711305.ca.archive.org/0/items/mbid-54da279f-6284-43a6-bd74-36a2eaa2014b/mbid-54da279f-6284-43a6-bd74-36a2eaa2014b-18244482168_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/59baf78c-18be-42d8-8e92-6e6ac9052c57"
+    }
+  ],
+  "11-07": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Keeps Gettin' Better: A Decade of Hits",
+      "curation": "오늘의 발견",
+      "artist": "크리스티나 아길레라",
+      "year": 2008,
+      "image": "https://dn710700.ca.archive.org/0/items/mbid-599ec580-7ce2-4459-9602-c86a08fa62b2/mbid-599ec580-7ce2-4459-9602-c86a08fa62b2-14959425043_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/addf1cb5-5635-3aa7-9a48-081d2845f116"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Game Related",
+      "curation": "오늘의 발견",
+      "artist": "The Click",
+      "year": 1995,
+      "image": "https://dn711209.ca.archive.org/0/items/mbid-e898bbc0-fe9b-4994-9f5b-6f49b22edfb0/mbid-e898bbc0-fe9b-4994-9f5b-6f49b22edfb0-19019127507_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c967dce4-e599-35f5-9e38-65444aa44033"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Deepness",
+      "curation": "오늘의 발견",
+      "artist": "MISIA",
+      "year": 2012,
+      "image": "https://dn720703.ca.archive.org/0/items/mbid-618b9289-22f8-4b3e-84fd-cb84129d569a/mbid-618b9289-22f8-4b3e-84fd-cb84129d569a-34752800699_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e59161fc-10f5-4472-affd-8f3f0bbd7949"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "90125",
+      "curation": "오늘의 발견",
+      "artist": "예스",
+      "year": 1983,
+      "image": "https://dn710604.ca.archive.org/0/items/mbid-71b9b19d-b007-4258-96d8-c2617d767fea/mbid-71b9b19d-b007-4258-96d8-c2617d767fea-3974508464_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/11267884-baaa-38e5-a11c-0a4907ec1b98"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Wonder World",
+      "curation": "오늘의 발견",
+      "artist": "원더걸스",
+      "year": 2011,
+      "image": "https://dn710202.ca.archive.org/0/items/mbid-fc0afa9a-3c0e-4f41-a51c-ae1324f8d494/mbid-fc0afa9a-3c0e-4f41-a51c-ae1324f8d494-37357250332_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/4e3f45b7-dc47-49bc-bf3d-e48bb0046efe"
     }
   ]
 }
