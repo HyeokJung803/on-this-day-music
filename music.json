@@ -161,7 +161,8 @@
     "11-04": 2026,
     "11-05": 2026,
     "11-06": 2026,
-    "11-07": 2026
+    "11-07": 2026,
+    "11-11": 2026
   },
   "08-29": [
     {
@@ -3652,6 +3653,63 @@
       "year": 2011,
       "image": "https://dn710202.ca.archive.org/0/items/mbid-fc0afa9a-3c0e-4f41-a51c-ae1324f8d494/mbid-fc0afa9a-3c0e-4f41-a51c-ae1324f8d494-37357250332_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/4e3f45b7-dc47-49bc-bf3d-e48bb0046efe"
+    }
+  ],
+  "11-11": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Fearless",
+      "curation": "오늘의 발견",
+      "artist": "테일러 스위프트",
+      "year": 2008,
+      "image": "https://dn710005.ca.archive.org/0/items/mbid-6b36d317-b26f-496a-98d6-bb5dec9b173a/mbid-6b36d317-b26f-496a-98d6-bb5dec9b173a-40731862566_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/63eba062-847c-3b73-8b0f-6baf27bba6fa"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "We Got It from Here... Thank You 4 Your Service",
+      "curation": "오늘의 발견",
+      "artist": "어 트라이브 콜드 퀘스트",
+      "year": 2016,
+      "image": "https://dn711102.ca.archive.org/0/items/mbid-eb3a43ff-34cf-4c17-9be6-9ffa06e7ac40/mbid-eb3a43ff-34cf-4c17-9be6-9ffa06e7ac40-15168124998_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b445860f-edd9-4160-841c-fccf5533ecbd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Stronger",
+      "curation": "오늘의 발견",
+      "artist": "슈가베이비스",
+      "year": 2002,
+      "image": "https://dn720704.ca.archive.org/0/items/mbid-2866a0c7-0f13-4fc7-a4a4-b92370a68141/mbid-2866a0c7-0f13-4fc7-a4a4-b92370a68141-7772170136_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/402b9793-1b3e-3a5c-96c1-44889869aab7"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "BBC Sessions (레드 제플린의 음반)",
+      "curation": "오늘의 발견",
+      "artist": "레드 제플린",
+      "year": 1997,
+      "image": "https://dn711308.ca.archive.org/0/items/mbid-334c6f7e-86a7-4cca-87a5-f583bb1ddd36/mbid-334c6f7e-86a7-4cca-87a5-f583bb1ddd36-22690417635_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/08a7dbdf-18fa-33c5-85b2-bf9114a8ef8d"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "DREAMSCAPE",
+      "curation": "오늘의 발견",
+      "artist": "NCT DREAM",
+      "year": 2024,
+      "image": "https://dn710102.ca.archive.org/0/items/mbid-440562ab-cb8e-4a5f-a159-78f07e752e82/mbid-440562ab-cb8e-4a5f-a159-78f07e752e82-40449142356_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/96701b7b-9569-4766-b2ab-d548c061d5f6"
     }
   ]
 }
