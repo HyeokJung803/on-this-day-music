@@ -164,7 +164,8 @@
     "11-07": 2026,
     "11-11": 2026,
     "11-12": 2026,
-    "11-13": 2026
+    "11-13": 2026,
+    "11-14": 2026
   },
   "08-29": [
     {
@@ -3826,6 +3827,52 @@
       "year": 2019,
       "image": "https://ia903104.us.archive.org/33/items/mbid-4ca67c1c-7c01-4c2f-8687-97619b587acc/mbid-4ca67c1c-7c01-4c2f-8687-97619b587acc-33971836301_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/e929eaa2-f9b5-4af5-9045-632b85fdff92"
+    }
+  ],
+  "11-14": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "One Sweet Day",
+      "curation": "오늘의 발견",
+      "artist": "보이즈 투 멘",
+      "year": 1995,
+      "image": "https://dn710003.ca.archive.org/0/items/mbid-efb80885-42dd-4d8d-b58e-915c6bfb84ca/mbid-efb80885-42dd-4d8d-b58e-915c6bfb84ca-40071129070_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/c54c1738-02f8-3520-9a59-1c3d4d533720"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Beg for Mercy",
+      "curation": "오늘의 발견",
+      "artist": "G-Unit",
+      "year": 2003,
+      "image": "https://dn711301.ca.archive.org/0/items/mbid-8ddf32c1-6642-41af-8e7a-a3430c71efaf/mbid-8ddf32c1-6642-41af-8e7a-a3430c71efaf-35838641671_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cf79dedf-6621-3620-87de-3343f2c07030"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Barrett",
+      "curation": "오늘의 발견",
+      "artist": "시드 배럿",
+      "year": 1970,
+      "image": "https://dn710704.ca.archive.org/0/items/mbid-ab7a4530-675f-4263-9c52-0419b1097167/mbid-ab7a4530-675f-4263-9c52-0419b1097167-23911804199_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/7b33b808-c0df-366a-9d17-ee55d61a9c4e"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Masquerade",
+      "curation": "오늘의 발견",
+      "artist": "2PM",
+      "year": 2012,
+      "image": "https://dn710109.ca.archive.org/0/items/mbid-0e60afd9-08e0-4ad9-8505-00355a857bc7/mbid-0e60afd9-08e0-4ad9-8505-00355a857bc7-39169815315_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/d60b96d3-7f2b-4820-ad26-b40e9c629d72"
     }
   ]
 }
