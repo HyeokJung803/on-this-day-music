@@ -165,7 +165,8 @@
     "11-11": 2026,
     "11-12": 2026,
     "11-13": 2026,
-    "11-14": 2026
+    "11-14": 2026,
+    "11-15": 2026
   },
   "08-29": [
     {
@@ -3873,6 +3874,52 @@
       "year": 2012,
       "image": "https://dn710109.ca.archive.org/0/items/mbid-0e60afd9-08e0-4ad9-8505-00355a857bc7/mbid-0e60afd9-08e0-4ad9-8505-00355a857bc7-39169815315_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/d60b96d3-7f2b-4820-ad26-b40e9c629d72"
+    }
+  ],
+  "11-15": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Someday",
+      "curation": "오늘의 발견",
+      "artist": "머라이어 캐리",
+      "year": 1990,
+      "image": "https://dn710708.ca.archive.org/0/items/mbid-44e524f8-b107-47a2-a0f9-e1f777b04bcd/mbid-44e524f8-b107-47a2-a0f9-e1f777b04bcd-41083637426_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/de0c1f9c-54c9-46b1-b6f7-af2b9fb38928"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Tical",
+      "curation": "오늘의 발견",
+      "artist": "메소드 맨",
+      "year": 1994,
+      "image": "https://dn710001.ca.archive.org/0/items/mbid-dd456b70-8aa2-442e-8758-52010b36e836/mbid-dd456b70-8aa2-442e-8758-52010b36e836-35449190656_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/85af95fb-f93d-30e9-b60e-9ee6eb00d42b"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "ReLoad",
+      "curation": "오늘의 발견",
+      "artist": "메탈리카",
+      "year": 1997,
+      "image": "https://dn710601.ca.archive.org/0/items/mbid-64c581c6-7270-3f3a-8dd2-3fb14a41d679/mbid-64c581c6-7270-3f3a-8dd2-3fb14a41d679-1751609374_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8fd32554-02a7-3788-a761-7012e0e75e55"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "이솝의 붓",
+      "curation": "오늘의 발견",
+      "artist": "부활",
+      "year": 1996,
+      "image": "https://ia903201.us.archive.org/27/items/mbid-34cc0c65-ca5a-46e2-b487-296af3e1bd5d/mbid-34cc0c65-ca5a-46e2-b487-296af3e1bd5d-18120310671_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/a39e2c8d-43d0-4b3a-960c-82d4bcdf95c0"
     }
   ]
 }
