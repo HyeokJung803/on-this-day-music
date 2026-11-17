@@ -168,7 +168,8 @@
     "11-14": 2026,
     "11-15": 2026,
     "11-16": 2026,
-    "11-17": 2026
+    "11-17": 2026,
+    "11-18": 2026
   },
   "08-29": [
     {
@@ -4036,6 +4037,63 @@
       "year": 2020,
       "image": "https://dn710001.ca.archive.org/0/items/mbid-93444968-4b98-4678-af03-02d8f163dcc5/mbid-93444968-4b98-4678-af03-02d8f163dcc5-37381683178_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/80d15d84-f6fb-4272-ad7e-28e75f791859"
+    }
+  ],
+  "11-18": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Immortal",
+      "curation": "오늘의 발견",
+      "artist": "마이클 잭슨",
+      "year": 2011,
+      "image": "https://dn710208.ca.archive.org/0/items/mbid-7150fbe3-7de1-4b5b-9efb-d1960f744e92/mbid-7150fbe3-7de1-4b5b-9efb-d1960f744e92-26600804670_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/37e13f69-f7fe-4033-afb1-7e76fac06294"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Kush",
+      "curation": "오늘의 발견",
+      "artist": "닥터 드레",
+      "year": 2010,
+      "image": "https://ia801602.us.archive.org/32/items/mbid-9657c3e3-cce8-4e0c-ba78-744b5ad1ed22/mbid-9657c3e3-cce8-4e0c-ba78-744b5ad1ed22-9363030994_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5dd40eb5-5779-43dc-b569-e070b92134c8"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "비디오 앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Reel Me",
+      "curation": "오늘의 발견",
+      "artist": "제니퍼 로페즈",
+      "year": 2003,
+      "image": "https://dn721802.ca.archive.org/0/items/mbid-15a28f70-8deb-4c18-891f-187eb8e284f4/mbid-15a28f70-8deb-4c18-891f-187eb8e284f4-7478596203_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/808e3eb4-0d1c-3505-a7a8-eaa9e38c4612"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Achtung Baby",
+      "curation": "오늘의 발견",
+      "artist": "U2",
+      "year": 1991,
+      "image": "https://dn711103.ca.archive.org/0/items/mbid-bde8784b-ae7e-4553-9dda-1c4a19d3a56f/mbid-bde8784b-ae7e-4553-9dda-1c4a19d3a56f-16544589722_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/744c7a1b-ac79-35c4-bd92-7e2c6a24c8d8"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Re-boot",
+      "curation": "오늘의 발견",
+      "artist": "골든차일드 (음악 그룹)",
+      "year": 2019,
+      "image": "https://dn710307.ca.archive.org/0/items/mbid-d41375c6-33e2-4f6e-ae64-a1cb5ca12db0/mbid-d41375c6-33e2-4f6e-ae64-a1cb5ca12db0-25209532522_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/96f92ffd-7d8b-4290-9156-3f3f62e6340e"
     }
   ]
 }
