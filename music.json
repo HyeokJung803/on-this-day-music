@@ -169,7 +169,8 @@
     "11-15": 2026,
     "11-16": 2026,
     "11-17": 2026,
-    "11-18": 2026
+    "11-18": 2026,
+    "11-19": 2026
   },
   "08-29": [
     {
@@ -4094,6 +4095,63 @@
       "year": 2019,
       "image": "https://dn710307.ca.archive.org/0/items/mbid-d41375c6-33e2-4f6e-ae64-a1cb5ca12db0/mbid-d41375c6-33e2-4f6e-ae64-a1cb5ca12db0-25209532522_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/96f92ffd-7d8b-4290-9156-3f3f62e6340e"
+    }
+  ],
+  "11-19": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "DNA",
+      "curation": "오늘의 발견",
+      "artist": "리틀 믹스",
+      "year": 2012,
+      "image": "https://dn710803.ca.archive.org/0/items/mbid-97936135-714f-4d3e-a440-a42a01d73924/mbid-97936135-714f-4d3e-a440-a42a01d73924-14904330402_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/bdcc74ed-710e-4a26-8e40-963c3e604fee"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Civilisation",
+      "curation": "오늘의 발견",
+      "artist": "오렐산",
+      "year": 2021,
+      "image": "https://dn721904.ca.archive.org/0/items/mbid-29d0f38d-bbbe-47e7-b05d-8ab6949df50f/mbid-29d0f38d-bbbe-47e7-b05d-8ab6949df50f-33156504727_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8ffdc8ed-b649-4cf8-9a9c-7412508753d9"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Your Name Never Gone/Now or Never/You Got Me",
+      "curation": "오늘의 발견",
+      "artist": "케미스트리",
+      "year": 2003,
+      "image": "https://dn710904.ca.archive.org/0/items/mbid-8e4a33bb-23e6-318a-b301-12e13eeef9dd/mbid-8e4a33bb-23e6-318a-b301-12e13eeef9dd-11430314395_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5d65b6ef-0f36-3b80-b8c9-6f6b02aa3ce3"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Coda",
+      "curation": "오늘의 발견",
+      "artist": "레드 제플린",
+      "year": 1982,
+      "image": "https://dn721802.ca.archive.org/0/items/mbid-eeadaa4d-89fb-4569-9eca-0d8309627bd0/mbid-eeadaa4d-89fb-4569-9eca-0d8309627bd0-43144099865_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/61de0438-6c34-363f-904e-b4d6267c79b9"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "1¹¹=1(POWER OF DESTINY)",
+      "curation": "오늘의 발견",
+      "artist": "워너원",
+      "year": 2018,
+      "image": "https://dn710303.ca.archive.org/0/items/mbid-28f2f6f6-a3df-4ca6-b864-605a04d907ab/mbid-28f2f6f6-a3df-4ca6-b864-605a04d907ab-21511506025_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/cdfa125b-bdb6-4d38-890c-38efa7f072b7"
     }
   ]
 }
