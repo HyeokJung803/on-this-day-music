@@ -170,7 +170,8 @@
     "11-16": 2026,
     "11-17": 2026,
     "11-18": 2026,
-    "11-19": 2026
+    "11-19": 2026,
+    "11-20": 2026
   },
   "08-29": [
     {
@@ -4152,6 +4153,63 @@
       "year": 2018,
       "image": "https://dn710303.ca.archive.org/0/items/mbid-28f2f6f6-a3df-4ca6-b864-605a04d907ab/mbid-28f2f6f6-a3df-4ca6-b864-605a04d907ab-21511506025_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/cdfa125b-bdb6-4d38-890c-38efa7f072b7"
+    }
+  ],
+  "11-20": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "25",
+      "curation": "오늘의 발견",
+      "artist": "아델",
+      "year": 2015,
+      "image": "https://dn721609.ca.archive.org/0/items/mbid-0fd7b9f9-5921-42c1-bb90-1a3f76b7b628/mbid-0fd7b9f9-5921-42c1-bb90-1a3f76b7b628-12266354356_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/5537624c-3d2f-4f5c-8099-df916082c85c"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The W",
+      "curation": "오늘의 발견",
+      "artist": "우 탱 클랜",
+      "year": 2000,
+      "image": "https://ia801606.us.archive.org/32/items/mbid-08293d37-2d6d-4dc1-8845-3f500b1821bd/mbid-08293d37-2d6d-4dc1-8845-3f500b1821bd-2185606789_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b88f6bdc-0bee-3767-b57f-cbf85c28da68"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "R&B/SOUL",
+      "title": "Nobody Knows",
+      "curation": "오늘의 발견",
+      "artist": "핑크",
+      "year": 2006,
+      "image": "https://dn721805.ca.archive.org/0/items/mbid-92bc9f4a-41ce-4c76-baa3-ae94b47684e3/mbid-92bc9f4a-41ce-4c76-baa3-ae94b47684e3-33227121770_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/3f22dbed-02c0-34fd-96d5-6f5533147aaf"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Year Zero Remixed",
+      "curation": "오늘의 발견",
+      "artist": "나인 인치 네일스",
+      "year": 2007,
+      "image": "https://dn721905.ca.archive.org/0/items/mbid-b9578007-c191-45b7-b69c-c5ff0c880a9c/mbid-b9578007-c191-45b7-b69c-c5ff0c880a9c-34331710858_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/19e3391a-99e8-3496-9379-7e526d6bb599"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Number Nine (Japanese ver.) / Kioku: Kimi ga Kureta Michishirube",
+      "curation": "오늘의 발견",
+      "artist": "티아라",
+      "year": 2013,
+      "image": "https://dn721500.ca.archive.org/0/items/mbid-da937c27-ebb8-47d3-8dec-f8adb59acb76/mbid-da937c27-ebb8-47d3-8dec-f8adb59acb76-6029015417_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b1607f20-fe2c-4220-a0a8-783c2ce30e0f"
     }
   ]
 }
