@@ -171,7 +171,8 @@
     "11-17": 2026,
     "11-18": 2026,
     "11-19": 2026,
-    "11-20": 2026
+    "11-20": 2026,
+    "11-21": 2026
   },
   "08-29": [
     {
@@ -4210,6 +4211,63 @@
       "year": 2013,
       "image": "https://dn721500.ca.archive.org/0/items/mbid-da937c27-ebb8-47d3-8dec-f8adb59acb76/mbid-da937c27-ebb8-47d3-8dec-f8adb59acb76-6029015417_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/b1607f20-fe2c-4220-a0a8-783c2ce30e0f"
+    }
+  ],
+  "11-21": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Francesco Zappa",
+      "curation": "오늘의 발견",
+      "artist": "프랭크 자파",
+      "year": 1984,
+      "image": "https://dn721603.ca.archive.org/0/items/mbid-06ac79d6-6b9b-46a3-9e4f-6241b96297cf/mbid-06ac79d6-6b9b-46a3-9e4f-6241b96297cf-33573391608_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/6236d640-3257-3d91-b853-81fc5017c374"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "HIP-HOP",
+      "title": "Coming Home",
+      "curation": "오늘의 발견",
+      "artist": "Diddy – Dirty Money",
+      "year": 2010,
+      "image": "https://dn710800.ca.archive.org/0/items/mbid-57be2856-f96e-4158-a8f6-800d66c46b96/mbid-57be2856-f96e-4158-a8f6-800d66c46b96-8885655912_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/36ace41c-d5cd-495e-906f-e78926b273cd"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "The Best of Michael Jackson",
+      "curation": "오늘의 발견",
+      "artist": "마이클 잭슨",
+      "year": 2000,
+      "image": "https://dn711103.ca.archive.org/0/items/mbid-b2239f4b-c729-4d8a-82bc-57c23239c89e/mbid-b2239f4b-c729-4d8a-82bc-57c23239c89e-1619875118_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/559b6709-973c-3dad-ae4d-6dd4abec00d7"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Road to Revolution: Live at Milton Keynes",
+      "curation": "오늘의 발견",
+      "artist": "린킨 파크",
+      "year": 2008,
+      "image": "https://ia801902.us.archive.org/28/items/mbid-dde23030-d500-4560-a589-6f563580388e/mbid-dde23030-d500-4560-a589-6f563580388e-26590837317_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/019cf9dc-3dd5-34fe-a7f1-a13a7f18831b"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "GOOD BOY",
+      "curation": "오늘의 발견",
+      "artist": "지드래곤",
+      "year": 2014,
+      "image": "https://dn710601.ca.archive.org/0/items/mbid-add14695-680c-49ad-a47f-5c0151d60432/mbid-add14695-680c-49ad-a47f-5c0151d60432-8902296954_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/975751fd-a1f7-47ed-aba4-79e0f3290038"
     }
   ]
 }
