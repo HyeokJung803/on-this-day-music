@@ -173,7 +173,8 @@
     "11-19": 2026,
     "11-20": 2026,
     "11-21": 2026,
-    "11-22": 2026
+    "11-22": 2026,
+    "11-23": 2026
   },
   "08-29": [
     {
@@ -4326,6 +4327,52 @@
       "year": 2010,
       "image": "https://ia800905.us.archive.org/33/items/mbid-c959b2ed-6595-4141-811c-38b181d1bfc8/mbid-c959b2ed-6595-4141-811c-38b181d1bfc8-7739895215_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/b4a78ac3-96d4-4e4c-b26b-598b5f6596f5"
+    }
+  ],
+  "11-23": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "I Dreamed a Dream",
+      "curation": "오늘의 발견",
+      "artist": "수잔 보일",
+      "year": 2009,
+      "image": "https://dn710200.ca.archive.org/0/items/mbid-980442ca-27de-4955-8e99-ec6b2db0c6ee/mbid-980442ca-27de-4955-8e99-ec6b2db0c6ee-37084055346_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0bd8d7b0-f19c-4687-990f-2d4adfd9a46a"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Nastradamus",
+      "curation": "오늘의 발견",
+      "artist": "나스",
+      "year": 1999,
+      "image": "https://ia800509.us.archive.org/21/items/mbid-4947b1b5-926c-4148-80ce-9e662356c47e/mbid-4947b1b5-926c-4148-80ce-9e662356c47e-14416068018_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8aee5229-615d-301a-bf82-50d93af2f404"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "비디오 앨범",
+      "genre": "R&B/SOUL",
+      "title": "I Am... Yours: An Intimate Performance at Wynn Las Vegas",
+      "curation": "오늘의 발견",
+      "artist": "비욘세",
+      "year": 2009,
+      "image": "https://dn711207.ca.archive.org/0/items/mbid-999fe38e-693c-4c1d-a774-166c6122c856/mbid-999fe38e-693c-4c1d-a774-166c6122c856-14581130927_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e423cbbe-239a-41fa-be5c-b3f150eedf61"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "A Collection of Great Dance Songs",
+      "curation": "오늘의 발견",
+      "artist": "핑크 플로이드",
+      "year": 1981,
+      "image": "https://dn710701.ca.archive.org/0/items/mbid-c050a759-e9d0-470d-b7a4-650d6a0473b5/mbid-c050a759-e9d0-470d-b7a4-650d6a0473b5-14437001936_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/70300163-5e9c-32b9-b49f-bfb25e5aebee"
     }
   ]
 }
