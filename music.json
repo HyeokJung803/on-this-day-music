@@ -175,7 +175,8 @@
     "11-21": 2026,
     "11-22": 2026,
     "11-23": 2026,
-    "11-24": 2026
+    "11-24": 2026,
+    "11-25": 2026
   },
   "08-29": [
     {
@@ -4420,6 +4421,52 @@
       "year": 2010,
       "image": "https://dn721908.ca.archive.org/0/items/mbid-f660d74c-6c40-4fd8-b38a-78502723ded4/mbid-f660d74c-6c40-4fd8-b38a-78502723ded4-39342309296_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/d1aabff2-5365-4c92-9ed2-3cab1d820343"
+    }
+  ],
+  "11-25": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "겨울왕국",
+      "curation": "오늘의 발견",
+      "artist": "Various artists",
+      "year": 2013,
+      "image": "https://dn710008.ca.archive.org/0/items/mbid-d5a09587-31e0-4f16-9847-e319fd8a31a4/mbid-d5a09587-31e0-4f16-9847-e319fd8a31a4-27452067039_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b1b7e9ba-bbac-4bdd-90fb-9517f840b247"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Abstand",
+      "curation": "오늘의 발견",
+      "artist": "KC Rebell",
+      "year": 2016,
+      "image": "https://dn710608.ca.archive.org/0/items/mbid-f2355533-f859-4e44-98e7-bb58fed4d64b/mbid-f2355533-f859-4e44-98e7-bb58fed4d64b-15263057911_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/705cb550-922b-4dd4-9555-37fc4684e2d6"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Soundtrack to the Apocalypse",
+      "curation": "오늘의 발견",
+      "artist": "슬레이어",
+      "year": 2003,
+      "image": "https://dn721908.ca.archive.org/0/items/mbid-24f4bc22-b7f8-4394-abe5-1d82fa905a7f/mbid-24f4bc22-b7f8-4394-abe5-1d82fa905a7f-5814464088_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1e23191b-d198-31a6-b720-f4f47994e1f3"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "VOODOO",
+      "curation": "오늘의 발견",
+      "artist": "VIXX",
+      "year": 2013,
+      "image": "https://dn710307.ca.archive.org/0/items/mbid-61b52510-574e-44de-aa4f-48a11af37ebb/mbid-61b52510-574e-44de-aa4f-48a11af37ebb-16417249301_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/924dbb69-a0fa-433c-a065-d7a64e79b0d4"
     }
   ]
 }
