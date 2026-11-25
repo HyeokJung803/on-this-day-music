@@ -176,7 +176,8 @@
     "11-22": 2026,
     "11-23": 2026,
     "11-24": 2026,
-    "11-25": 2026
+    "11-25": 2026,
+    "11-26": 2026
   },
   "08-29": [
     {
@@ -4467,6 +4468,63 @@
       "year": 2013,
       "image": "https://dn710307.ca.archive.org/0/items/mbid-61b52510-574e-44de-aa4f-48a11af37ebb/mbid-61b52510-574e-44de-aa4f-48a11af37ebb-16417249301_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/924dbb69-a0fa-433c-a065-d7a64e79b0d4"
+    }
+  ],
+  "11-26": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "The Beginning",
+      "curation": "오늘의 발견",
+      "artist": "블랙 아이드 피스",
+      "year": 2010,
+      "image": "https://dn710602.ca.archive.org/0/items/mbid-aaa4d643-2aa7-3828-b3c7-f65c1a08234d/mbid-aaa4d643-2aa7-3828-b3c7-f65c1a08234d-1276779920_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/9511757c-4fac-4ec2-847e-c8cb9fbf1132"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "Better Dayz",
+      "curation": "오늘의 발견",
+      "artist": "투팍 샤커",
+      "year": 2002,
+      "image": "https://dn710701.ca.archive.org/0/items/mbid-13e1bc22-0647-48f2-a7f9-374a3fd4a795/mbid-13e1bc22-0647-48f2-a7f9-374a3fd4a795-20078752742_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8109a8b5-4740-3470-be92-10748c94e090"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "비디오 앨범",
+      "genre": "R&B/SOUL",
+      "title": "I Am... World Tour (음반)",
+      "curation": "오늘의 발견",
+      "artist": "비욘세",
+      "year": 2010,
+      "image": "https://dn710102.ca.archive.org/0/items/mbid-807898cb-8a15-4004-8357-9e6226981c55/mbid-807898cb-8a15-4004-8357-9e6226981c55-40690533885_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/284c78ea-6fdb-489f-a19d-0f29a7834332"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "ROCK",
+      "title": "Anarchy in the U.K.",
+      "curation": "오늘의 발견",
+      "artist": "섹스 피스톨즈",
+      "year": 1976,
+      "image": "https://dn721801.ca.archive.org/0/items/mbid-cecd133a-5a5c-4dfa-ade4-8a810e2b90cf/mbid-cecd133a-5a5c-4dfa-ade4-8a810e2b90cf-41018717366_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/e5452e42-e646-3e6d-ba4d-dc3abc83590c"
+    },
+    {
+      "region": "KR",
+      "type": "앨범",
+      "genre": "KOREAN MUSIC",
+      "title": "Like a Flower",
+      "curation": "오늘의 발견",
+      "artist": "아이린",
+      "year": 2024,
+      "image": "https://dn710106.ca.archive.org/0/items/mbid-fc986997-9311-4750-8f97-628e52ecd286/mbid-fc986997-9311-4750-8f97-628e52ecd286-40531802018_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/199f110c-93d4-43f6-9595-040dbb30afc9"
     }
   ]
 }
