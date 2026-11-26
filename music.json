@@ -177,7 +177,8 @@
     "11-23": 2026,
     "11-24": 2026,
     "11-25": 2026,
-    "11-26": 2026
+    "11-26": 2026,
+    "11-27": 2026
   },
   "08-29": [
     {
@@ -4525,6 +4526,63 @@
       "year": 2024,
       "image": "https://dn710106.ca.archive.org/0/items/mbid-fc986997-9311-4750-8f97-628e52ecd286/mbid-fc986997-9311-4750-8f97-628e52ecd286-40531802018_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/199f110c-93d4-43f6-9595-040dbb30afc9"
+    }
+  ],
+  "11-27": [
+    {
+      "region": "GLOBAL",
+      "type": "싱글",
+      "genre": "POP",
+      "title": "Knights of Cydonia",
+      "curation": "오늘의 발견",
+      "artist": "뮤즈",
+      "year": 2006,
+      "image": "https://dn710908.ca.archive.org/0/items/mbid-100206cb-496d-416e-9d56-2f94d2537702/mbid-100206cb-496d-416e-9d56-2f94d2537702-16252688252_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/1681f067-4134-3fbc-ad7a-0cc572b113fb"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "The Boatlift",
+      "curation": "오늘의 발견",
+      "artist": "핏불",
+      "year": 2007,
+      "image": "https://dn721607.ca.archive.org/0/items/mbid-c3adacc3-a7c8-4a7d-bb91-07bbd381d33f/mbid-c3adacc3-a7c8-4a7d-bb91-07bbd381d33f-2009511677_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/de99e0c1-8fc2-339d-a381-16e3f3c936b5"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "R&B/SOUL",
+      "title": "One Touch",
+      "curation": "오늘의 발견",
+      "artist": "슈가베이비스",
+      "year": 2000,
+      "image": "https://dn710604.ca.archive.org/0/items/mbid-c4158d91-3cb3-41e5-95c2-4f6da1c98892/mbid-c4158d91-3cb3-41e5-95c2-4f6da1c98892-25494719649_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/8c28f4f6-a32d-363b-b393-9b7709adb304"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Plastic Hearts",
+      "curation": "오늘의 발견",
+      "artist": "마일리 사이러스",
+      "year": 2020,
+      "image": "https://dn721604.ca.archive.org/0/items/mbid-8f861a78-3623-4242-b912-e3756d51eee6/mbid-8f861a78-3623-4242-b912-e3756d51eee6-38900677258_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/0663bcbd-e202-4aeb-b003-6d49f0a4d152"
+    },
+    {
+      "region": "KR",
+      "type": "싱글",
+      "genre": "KOREAN MUSIC",
+      "title": "Very Merry Xmas",
+      "curation": "오늘의 발견",
+      "artist": "동방신기",
+      "year": 2013,
+      "image": "https://dn720005.ca.archive.org/0/items/mbid-676a7b58-540e-402c-bccf-54827543b99b/mbid-676a7b58-540e-402c-bccf-54827543b99b-45755269201_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/b7787a50-17d6-4977-91d6-666f53c73a06"
     }
   ]
 }
