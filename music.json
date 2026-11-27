@@ -178,7 +178,8 @@
     "11-24": 2026,
     "11-25": 2026,
     "11-26": 2026,
-    "11-27": 2026
+    "11-27": 2026,
+    "11-28": 2026
   },
   "08-29": [
     {
@@ -4583,6 +4584,41 @@
       "year": 2013,
       "image": "https://dn720005.ca.archive.org/0/items/mbid-676a7b58-540e-402c-bccf-54827543b99b/mbid-676a7b58-540e-402c-bccf-54827543b99b-45755269201_thumb500.jpg",
       "url": "https://musicbrainz.org/release-group/b7787a50-17d6-4977-91d6-666f53c73a06"
+    }
+  ],
+  "11-28": [
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "POP",
+      "title": "Gourmandises",
+      "curation": "오늘의 발견",
+      "artist": "알리제",
+      "year": 2000,
+      "image": "https://dn721503.ca.archive.org/0/items/mbid-f12eeb71-3dd7-45b9-9e01-57d616022141/mbid-f12eeb71-3dd7-45b9-9e01-57d616022141-41668910446_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/2f34ebdd-fa85-33e0-97db-12c819f2aa87"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "HIP-HOP",
+      "title": "MF EP",
+      "curation": "오늘의 발견",
+      "artist": "MF Grimm",
+      "year": 2000,
+      "image": "https://ia800408.us.archive.org/7/items/mbid-01931553-1cd7-4edc-9fcb-d8aa888baf91/mbid-01931553-1cd7-4edc-9fcb-d8aa888baf91-25492905133_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/444ad2b3-2c9e-31b1-89c9-0c2a245292e3"
+    },
+    {
+      "region": "GLOBAL",
+      "type": "앨범",
+      "genre": "ROCK",
+      "title": "Sound Affects",
+      "curation": "오늘의 발견",
+      "artist": "더 잼",
+      "year": 1980,
+      "image": "https://dn710003.ca.archive.org/0/items/mbid-eefe3029-2681-4d64-8eeb-73855243f1c2/mbid-eefe3029-2681-4d64-8eeb-73855243f1c2-31559774539_thumb500.jpg",
+      "url": "https://musicbrainz.org/release-group/720d64da-e200-3bea-ae34-9cc0ea83c66e"
     }
   ]
 }
